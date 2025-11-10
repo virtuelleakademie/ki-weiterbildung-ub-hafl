@@ -1,5 +1,5 @@
 ---
-title: "KI verstehen"
+title: "KI verstehen" 
 ---
 
 In diesem ersten Teil des Workshops legen wir die Grundlagen für ein fundiertes Verständnis von Künstlicher Intelligenz im Bildungskontext. Wir beginnen mit einer klaren Einordnung, was KI ist und wie sie funktioniert – insbesondere die Large Language Models (LLMs), die hinter Chatbots wie ChatGPT stehen. Du lernst die Mechanismen der Textvorhersage kennen, verstehst die Stärken und Grenzen dieser Technologie und erhältst praktische Einblicke ins effektive Prompting. 
@@ -74,3 +74,4 @@ Dieses Grundverständnis ist essentiell, um später informierte Entscheidungen �
 - [KI in der Lehre: Advanced](https://virtuelleakademie.github.io/ki-lehre-advanced/workshop/)
 - [KI in der Lehre: Refresher](https://www.bfh.ch/de/weiterbildung/kurse/ki-in-der-lehre-refresher/)
 <!-- ## {{< bi file-slides >}} Bibliographie -->
+

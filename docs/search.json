@@ -1444,5 +1444,19 @@
     "title": "Wie funktionieren Chatbots?",
     "section": "Custom GPTs",
     "text": "Custom GPTs"
+  },
+  {
+    "objectID": "01-ki-verstehen/index.html#test",
+    "href": "01-ki-verstehen/index.html#test",
+    "title": "KI verstehen",
+    "section": "Test",
+    "text": "Test\n\n    \n    \n    \n    import%20marimo%20as%20mo%0Ax%20%3D%20mo.ui.text(value%3D%22Hello!%22)%0Ax\n\n\n    \n    \n    \n    mo.md(f%22You%20typed%3A%20%7Bx.value%7D%22)"
+  },
+  {
+    "objectID": "01-ki-verstehen/index.html#more-things",
+    "href": "01-ki-verstehen/index.html#more-things",
+    "title": "KI verstehen",
+    "section": "More things",
+    "text": "More things\nAnd we can respond!\n\n    \n    \n    \n    mo.md(%22Batman!%20%22%20*%20slider.value)"
   }
 ]
