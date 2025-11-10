@@ -1,0 +1,131 @@
+---
+title: "KI in der Beratung"
+---
+
+## Beratungsgespräche mit KI unterstützen (30 Min)
+
+Wie kann KI in Beratungskontexten sinnvoll eingesetzt werden, ohne die menschliche Beziehung und professionelle Verantwortung zu untergraben?
+
+
+## KI-Anwendungen in der Beratung (5 Min)
+
+KI kann Beratende in verschiedenen Phasen unterstützen:
+
+### 1. Vorbereitung von Beratungsgesprächen
+
+- **Strukturierung**: KI hilft, Gesprächsleitfäden zu entwickeln
+- **Perspektivenwechsel**: Alternative Sichtweisen auf Beratungssituationen
+- **Ressourcen**: Zusammenstellung relevanter Informationen und Materialien
+
+### 2. Simulation und Rollenspiele
+
+- **Übungsgespräche**: KI nimmt verschiedene Rollen ein (z.B. ratsuchende Person, kritischer Gesprächspartner)
+- **Gesprächstechniken**: Üben von aktiver Zuhören, Fragetechniken, lösungsorientiertem Vorgehen
+- **Sichere Umgebung**: Fehler machen und lernen ohne reale Konsequenzen
+
+### 3. Reflexion und Nachbereitung
+
+- **Gesprächsanalyse**: KI als Reflexionspartner nach Beratungsgesprächen
+- **Dokumentation**: Unterstützung beim Erfassen wichtiger Gesprächspunkte
+- **Weiterentwicklung**: Identifikation von Mustern und Entwicklungsfeldern
+
+::: {.callout-warning}
+## Kritische Grenzen
+**Was KI NICHT kann und soll:**
+
+- Echte menschliche Beziehung und Empathie ersetzen
+- Vertrauliche Informationen von Klient:innen verarbeiten (Datenschutz!)
+- Professionelle Beurteilung und Verantwortung übernehmen
+- Ethische Dilemmata auflösen
+:::
+
+
+## Hands-on: Beratungssimulation mit KI (15 Min)
+
+::: {.pair}
+## Partner-Aktivität: Beratungsgespräch simulieren
+
+### Ablauf (15 Min)
+
+**Schritt 1: Paarbildung & Szenario wählen (2 Min)**
+
+- Findet euch zu zweit zusammen
+- Wählt ein Beratungsszenario aus [den Beispielszenarien](szenario/)
+- Entscheidet, wer startet (ihr wechselt nach 5 Minuten)
+
+**Schritt 2: Erste Simulation (5 Min)**
+
+- **Person A**: Berater:in (führt Gespräch mit KI)
+- **Person B**: Beobachter:in (achtet auf Gesprächsdynamik)
+- **KI**: Nimmt Rolle der ratsuchenden Person ein
+
+**Aufgabe für Person A:**
+
+- Gebt der KI (ChatGPT/Claude) die Rolle aus dem Szenario
+- Führt ein kurzes Beratungsgespräch (5 Min)
+- Versucht aktives Zuhören und lösungsorientierte Fragen
+
+**Aufgabe für Person B:**
+
+- Beobachtet: Was funktioniert gut? Was wirkt unnatürlich?
+- Achtet auf: Gesprächsführung, Empathie, Lösungsorientierung
+
+**Schritt 3: Rollenwechsel (5 Min)**
+
+- Tauscht die Rollen
+- Person B wird Berater:in, Person A beobachtet
+- Nutzt dasselbe oder ein anderes Szenario
+
+**Schritt 4: Kurzer Austausch (3 Min)**
+
+- Was war überraschend?
+- Wo waren die Grenzen der KI spürbar?
+- Wo könnte dieses Übungsformat hilfreich sein?
+:::
+
+
+## Reflexion: KI in der Beratungspraxis (10 Min)
+
+::: {.group}
+## Plenum-Diskussion
+
+### Erfahrungen aus der Simulation
+
+- **Was hat gut funktioniert?** Welche Aspekte der Simulation waren realistisch?
+- **Was fehlte?** Wo wurde die Künstlichkeit der KI spürbar?
+- **Überraschungen?** Gab es unerwartete Wendungen im Gespräch?
+
+### Übertragung in die Praxis
+
+- **Wo sinnvoll?** In welchen Beratungssituationen könnte KI-gestütztes Üben helfen?
+  - Vorbereitung auf schwierige Gespräche?
+  - Training neuer Gesprächstechniken?
+  - Reflexion eigener Kommunikationsmuster?
+
+- **Wo problematisch?** Welche Risiken und Grenzen seht ihr?
+  - Datenschutz bei echten Fällen?
+  - Vereinfachung komplexer menschlicher Dynamiken?
+  - Abhängigkeit von KI-Vorschlägen?
+
+### Ethische Fragen
+
+- Wann wird aus Unterstützung Abhängigkeit?
+- Wie bleibt professionelle Verantwortung gewahrt?
+- Was darf automatisiert werden, was nicht?
+:::
+
+
+## Vertiefende Ressourcen
+
+### Beispielszenarien
+
+- [Beratungsszenarien für die Simulation](szenario/) - Verschiedene Übungssituationen
+
+### Weiterführende Diskussion
+
+- [Ethik & Reflexion: Verantwortungsvoller KI-Einsatz](ethik/) - Vertiefung der ethischen Fragen
+
+::: {.callout-tip}
+## Praxis-Tipp
+Für den Einstieg: Beginnt mit fiktiven Szenarien, die KEINE echten Klient:innen-Daten enthalten. Nutzt KI nur für Übung und Reflexion, nicht für die Verarbeitung vertraulicher Informationen.
+:::
