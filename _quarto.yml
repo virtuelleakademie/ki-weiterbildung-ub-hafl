@@ -147,6 +147,7 @@ editor:
 revealjs-plugins:
   - attribution
 filters:
+  - marimo-team/marimo
   - timer
   - custom-callout
   # - linkate
