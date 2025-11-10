@@ -1,0 +1,186 @@
+---
+title: "Ethik & Reflexion"
+---
+
+## Verantwortungsvoller KI-Einsatz in Unterricht & Beratung (35 Min)
+
+In diesem Teil reflektieren wir gemeinsam die ethischen Implikationen des KI-Einsatzes und entwickeln Orientierungspunkte für verantwortungsvolle Praxis.
+
+
+## Zentrale ethische Fragen (5 Min)
+
+Beim Einsatz von KI in Unterricht und Beratung stellen sich grundsätzliche Fragen:
+
+### Autonomie und Verantwortung
+
+- **Wer trifft die Entscheidungen?** Wenn KI Empfehlungen gibt – wer trägt die Verantwortung?
+- **Wo bleibt die pädagogische/beraterische Expertise?** Wird professionelles Urteilsvermögen gestärkt oder geschwächt?
+
+### Transparenz und Authentizität
+
+- **Müssen Lernende/Klient:innen wissen, wenn KI eingesetzt wurde?** Transparenzpflicht?
+- **Was ist "echt"?** Wo beginnt die Täuschung (z.B. bei KI-generierten Materialien)?
+
+### Datenschutz und Vertraulichkeit
+
+- **Welche Daten dürfen geteilt werden?** Besonders kritisch in Beratungskontexten
+- **Wer hat Zugriff auf die Daten?** KI-Anbieter, Cloud-Services, Dritte?
+
+### Gerechtigkeit und Zugang
+
+- **Wer profitiert?** Haben alle gleichen Zugang zu KI-Tools?
+- **Werden Ungleichheiten verstärkt?** Z.B. durch Kosten, digitale Kompetenzen, Sprachbarrieren
+
+
+## Diskussionsrunde: "Was dürfen wir automatisieren?" (25 Min)
+
+::: {.group}
+## Strukturierte Gruppendiskussion
+
+### Phase 1: Dilemmata vorstellen (5 Min)
+
+Der/die Workshop-Leiter:in stellt konkrete Dilemmata vor. Beispiele:
+
+**Dilemma 1: KI-generierte Lernmaterialien**
+> Eine Lehrperson nutzt KI, um Arbeitsblätter und Übungsaufgaben zu erstellen. Die Qualität ist gut, die Zeitersparnis enorm. Die Lehrperson gibt die Materialien ohne Hinweis auf KI-Nutzung an Studierende weiter.
+
+- **Ist das ethisch vertretbar? Warum (nicht)?**
+- **Wann wird es problematisch?**
+
+**Dilemma 2: KI in der Beratungsdokumentation**
+> Ein:e Berater:in nutzt KI, um nach Gesprächen Notizen zu strukturieren und wichtige Punkte zusammenzufassen. Dafür werden Gesprächsinhalte (anonymisiert) in ChatGPT eingegeben.
+
+- **Ist das datenschutzkonform? Was sind die Risiken?**
+- **Wie könnte man es verantwortungsvoll gestalten?**
+
+**Dilemma 3: KI-Feedback an Lernende**
+> Eine Lehrperson lässt KI automatisch Feedback zu Studierenden-Arbeiten geben. Das KI-Feedback ist ausführlich und konstruktiv, aber die Lehrperson liest es nicht gegen und schickt es direkt weiter.
+
+- **Was sind die Probleme?**
+- **Wo läge die Grenze zu verantwortungsvollem KI-Einsatz?**
+
+**Dilemma 4: KI zur Vorbereitung schwieriger Gespräche**
+> Ein:e Berater:in übt vor einem schwierigen Konfliktgespräch mit KI, indem sie der KI die Rolle der Konfliktpartei gibt und echte Details aus der Situation mitteilt.
+
+- **Wo liegt hier die ethische Grenze?**
+- **Wie könnte man sicher üben, ohne Vertraulichkeit zu verletzen?**
+
+
+### Phase 2: Kleingruppen-Diskussion (12 Min)
+
+**Gruppengroesse**: 3-4 Personen
+
+**Aufgabe**: Wählt 2 Dilemmata und diskutiert:
+
+1. **Wo zieht ihr die Grenze?**
+   - Was ist für euch akzeptabel?
+   - Was geht zu weit?
+
+2. **Welche Kriterien nutzt ihr?**
+   - Woran macht ihr fest, ob etwas verantwortungsvoll ist oder nicht?
+
+3. **Praktische Handlungsregeln**
+   - Welche konkreten "Dos and Don'ts" würdet ihr formulieren?
+
+**Notiert** eure wichtigsten Erkenntnisse (für die Präsentation im Plenum).
+
+
+### Phase 3: Plenum – Synthese (8 Min)
+
+Jede Gruppe teilt (jeweils 1-2 Min):
+
+- **Eine zentrale Erkenntnis** aus der Diskussion
+- **Eine konkrete Handlungsregel** für verantwortungsvollen KI-Einsatz
+
+Der/die Workshop-Leiter:in sammelt die Regeln und clustert sie (z.B. an Flipchart/Whiteboard).
+:::
+
+
+## Orientierungsrahmen: Verantwortungsvoller KI-Einsatz (5 Min)
+
+Basierend auf den Diskussionen entwickelt sich oft ein gemeinsames Verständnis. Hier ein möglicher Orientierungsrahmen:
+
+### 1. Transparenz-Prinzip
+
+- **Offenlegen**, wenn KI eingesetzt wurde (gegenüber Lernenden, Klient:innen, Kolleg:innen)
+- **Begründen**, warum und wie KI genutzt wird
+
+### 2. Verantwortungs-Prinzip
+
+- KI ist **Werkzeug**, nicht Entscheider
+- **Professionelle Verantwortung** bleibt immer bei der Person (Lehrperson, Berater:in)
+- KI-Output **nie ungeprüft** übernehmen
+
+### 3. Datenschutz-Prinzip
+
+- **KEINE** vertraulichen, personenbezogenen oder sensiblen Daten in öffentliche KI-Tools
+- Bei Beratung: **Anonymisierung** reicht oft nicht (Kontext kann Personen identifizierbar machen)
+- **Institutional guidelines** beachten (Hochschulrichtlinien, Datenschutzbestimmungen)
+
+### 4. Lernförderung-Prinzip (Unterricht)
+
+- KI sollte **kognitive Anstrengung fördern**, nicht ersetzen
+- **Lernende** müssen noch denken, nicht nur konsumieren
+- Produktivitätssteigerung ≠ Lernzuwachs
+
+### 5. Authentizitäts-Prinzip (Beratung)
+
+- **Menschliche Beziehung** bleibt zentral – KI kann sie nicht ersetzen
+- KI zur **Vorbereitung und Reflexion**, nicht als Ersatz für echtes Gespräch
+- **Empathie und ethisches Urteil** bleiben menschliche Aufgaben
+
+
+## Reflexionsfragen für die eigene Praxis
+
+::: {.reflect}
+## Persönliche Reflexion (kann als Hausaufgabe dienen)
+
+Überlegt für euch:
+
+### Euer aktueller KI-Einsatz
+
+- **Wo nutze ich KI bereits** in meiner Lehr- oder Beratungspraxis?
+- **Bin ich transparent** darüber?
+- **Welche Daten gebe ich weiter** – bewusst oder unbewusst?
+
+### Eure Grenzen
+
+- **Was fühlt sich für mich richtig an** beim KI-Einsatz?
+- **Wo würde ich eine Grenze ziehen** ("das würde ich nicht tun")?
+- **Warum** ist diese Grenze für mich wichtig?
+
+### Nächste Schritte
+
+- **Was möchte ich ändern** in meinem KI-Einsatz?
+- **Welche Absicherung brauche ich** (Richtlinien, Kolleg:innenaustausch, technische Lösungen)?
+- **Wen kann ich fragen**, wenn ich unsicher bin?
+:::
+
+
+## Ressourcen und Weiterführendes
+
+### Hochschul-Richtlinien
+
+- Prüft die **KI-Richtlinien eurer Institution** (oft: E-Learning-Zentrum, Datenschutzbeauftragte)
+- Informiert euch über **datenschutzkonforme KI-Tools** an eurer Hochschule
+
+### Weitere Reflexionsanstoesse
+
+- [UNESCO Guidance for Generative AI in Education](https://www.unesco.org/en/digital-education/ai-future-learning)
+- Hochschul-spezifische Guidelines (Links je nach Institution ergänzen)
+
+### Austausch mit Kolleg:innen
+
+- **Community of Practice**: Tauscht euch mit Kolleg:innen über KI-Nutzung aus
+- **Schwierige Fälle besprechen**: Intervision zu ethischen Dilemmata
+
+
+::: {.callout-important}
+## Wichtigster Punkt
+Es gibt **keine einfachen Antworten** auf diese ethischen Fragen. Wichtig ist:
+
+1. **Sich der Fragen bewusst sein**
+2. **Reflektiert handeln** (nicht unreflektiert Tools nutzen)
+3. **Im Austausch bleiben** (Kolleg:innen, Institution, Fachcommunity)
+4. **Bereit sein zu lernen** (Ethik entwickelt sich mit der Technologie weiter)
+:::

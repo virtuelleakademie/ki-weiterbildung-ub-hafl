@@ -2,26 +2,26 @@
 title: "KI verstehen" 
 ---
 
-In diesem ersten Teil des Workshops legen wir die Grundlagen für ein fundiertes Verständnis von Künstlicher Intelligenz im Bildungskontext. Wir beginnen mit einer klaren Einordnung, was KI ist und wie sie funktioniert – insbesondere die Large Language Models (LLMs), die hinter Chatbots wie ChatGPT stehen. Du lernst die Mechanismen der Textvorhersage kennen, verstehst die Stärken und Grenzen dieser Technologie und erhältst praktische Einblicke ins effektive Prompting. 
+In diesem ersten Teil des Workshops (40 Min.) legen wir die Grundlagen für ein fundiertes Verständnis von Künstlicher Intelligenz. Wir beginnen mit einer klaren Einordnung, was KI ist und wie sie funktioniert – insbesondere die Large Language Models (LLMs), die hinter Chatbots wie ChatGPT stehen. Du lernst die Mechanismen der Textvorhersage kennen, verstehst die Stärken und Grenzen dieser Technologie und erhältst praktische Einblicke ins effektive Prompting.
 
-Dieses Grundverständnis ist essentiell, um später informierte Entscheidungen über den didaktisch sinnvollen Einsatz von KI in deiner Lehre treffen zu können. Der Fokus liegt dabei nicht auf technischen Details, sondern auf dem für die Lehre relevanten Verständnis: Was kann KI leisten, was nicht, und was bedeutet das für das Lernen deiner Studierenden?
+Dieses Grundverständnis ist essentiell, um später informierte Entscheidungen über den sinnvollen Einsatz von KI in Unterricht und Beratung treffen zu können. Der Fokus liegt dabei nicht auf technischen Details, sondern auf dem praxisrelevanten Verständnis: Was kann KI leisten, was nicht, und was bedeutet das für deine Arbeit mit Studierenden und Lernenden?
 
 
 
-## {{< bi file-slides >}} Was ist Künstliche Intelligenz
+## {{< bi file-slides >}} Was ist Künstliche Intelligenz (Optional)
 
 ::: {.callout-note appearance="minimal" collapse=true}
-## Optional
+## Optional: Überspringen oder bei Bedarf einbauen
 {{< revealjs file="../slides/was-ist-ki/index.html" class="ratio ratio-16x9" >}}
 :::
 
 
-## {{< bi file-slides >}} Wie funktionieren Chatbots?
+## {{< bi file-slides >}} Wie funktionieren Chatbots? (15 Min)
 
 {{< revealjs file="../slides/was-sind-chatbots/index.html" height="500px" class="ratio ratio-16x9" >}}
 
 
-## {{< bi megaphone >}} Aktive Verarbeitung
+## {{< bi megaphone >}} Aktive Verarbeitung (5 Min)
 
 ::: {.active-processing collapse=true}
 ## Wie funktionieren LLMs? (5 Min)
@@ -47,21 +47,16 @@ Dieses Grundverständnis ist essentiell, um später informierte Entscheidungen �
 
 
 
-## {{< bi file-slides >}} Was sind Agents?
+## {{< bi file-slides >}} Was sind Agents? (15 Min)
 
 {{< revealjs file="../slides/was-sind-agenten/index.html" height="500px" class="ratio ratio-16x9" >}}
 
 
 
-## {{< bi file-slides >}} Möglichkeiten und Grenzen
-
-{{< revealjs file="../slides/möglichkeiten-grenzen/index.html" height="500px" class="ratio ratio-16x9" >}}
-
-
-## {{< bi file-slides >}} Prompting Tipps
+## {{< bi file-slides >}} Prompting Tipps (5 Min)
 
 ::: {.callout-note appearance="minimal" collapse=true}
-## Optional
+## Schneller Überblick – bei Bedarf vertiefen
 
 {{< revealjs file="../slides/prompting/index.html" height="500px" class="ratio ratio-16x9" >}}
 :::
