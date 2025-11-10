@@ -19,7 +19,7 @@ project:
 
 website:
   title: "KI in der Lehre: Intermediate"
-  site-url: https://virtuelleakademie.github.io/ki-lehre-intermediate/
+  site-url: https://virtuelleakademie.github.io/ki-weiterbildung-ub-hafl/
   # repo-url: https://github.com/virtuelleakademie/cas-hochschuldidaktik/
   # repo-actions: [edit, issue]
   favicon: /assets/robot.png
@@ -70,9 +70,9 @@ website:
       # - icon: github
       #   menu:
       #     - text: Source code
-      #       url:  https://github.com/virtuelleakademie/ki-lehre-intermediate/
+      #       url:  https://github.com/virtuelleakademie/ki-weiterbildung-ub-hafl/
       #     - text: Report an issue
-      #       url:  https://github.com/virtuelleakademie/ki-lehre-intermediate
+      #       url:  https://github.com/virtuelleakademie/ki-weiterbildung-ub-hafl
 
   sidebar:
     - title: "Workshop"
@@ -117,7 +117,7 @@ website:
 page-footer:
     right:
     - icon: github
-      href: https://github.com/virtuelleakademie/ki-lehre-intermediate/
+      href: https://github.com/virtuelleakademie/ki-weiterbildung-ub-hafl/
 
 format:
   html:
@@ -134,7 +134,7 @@ comments:
   hypothesis:
     theme: clean
   # utterances:
-    # repo: virtuelleakademie/ki-lehre-intermediate
+    # repo: virtuelleakademie/ki-weiterbildung-ub-hafl
 
 execute:
   cache: true

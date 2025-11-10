@@ -36,4 +36,4 @@ about:
 
 ## Website
 
-{{< bi link >}} [virtuelleakademie.github.io/ki-lehre-intermediate/](https://virtuelleakademie.github.io/ki-lehre-intermediate/)
+{{< bi link >}} [virtuelleakademie.github.io/ki-weiterbildung-ub-hafl/](https://virtuelleakademie.github.io/ki-weiterbildung-ub-hafl/)

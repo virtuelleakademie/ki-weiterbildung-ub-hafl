@@ -70,7 +70,7 @@ Dieses Grundverständnis ist essentiell, um später informierte Entscheidungen �
 ## {{< bi book>}} Weiterführende Kurse
 
 - [KI in der Lehre: Beginner](https://virtuelleakademie.github.io/ki-lehre-beginner/workshop/)
-- [KI in der Lehre: Intermediate](https://virtuelleakademie.github.io/ki-lehre-intermediate/workshop/)
+- [KI in der Lehre: Intermediate](https://virtuelleakademie.github.io/ki-weiterbildung-ub-hafl/workshop/)
 - [KI in der Lehre: Advanced](https://virtuelleakademie.github.io/ki-lehre-advanced/workshop/)
 - [KI in der Lehre: Refresher](https://www.bfh.ch/de/weiterbildung/kurse/ki-in-der-lehre-refresher/)
 <!-- ## {{< bi file-slides >}} Bibliographie -->
