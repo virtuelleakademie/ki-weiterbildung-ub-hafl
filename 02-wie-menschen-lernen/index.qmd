@@ -4,7 +4,7 @@ title: "Wie Menschen lernen"
 
 ## Lernpsychologie trifft KI (15 Min)
 
-Warum Anstrengung beim Lernen kein Bug ist – sondern das Feature.
+Warum Anstrengung beim Lernen kein Bug ist, sondern das Feature.
 
 ## {{< bi file-slides >}} Vom Wissen zum Können: Wie durch kognitive Anstrengung Expertise entsteht
 
