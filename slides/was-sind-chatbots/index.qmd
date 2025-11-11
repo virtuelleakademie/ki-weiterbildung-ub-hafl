@@ -150,6 +150,44 @@ Ein LLM wird in drei Schritten aufgebaut:
 ![](../../assets/images/llm-training.png)
 
 
+## Extended Thinking: Wenn LLMs nachdenken {.smaller}
+
+**Von Reaktion zu Reasoning**
+
+::::{.columns}
+:::{.column width="60%"}
+Neuere Modelle (OpenAI o1/o3, Claude Extended Thinking) können vor der Antwort "nachdenken":
+
+1. **Problem analysieren** - Aufgabe in Teilschritte zerlegen
+2. **Optionen durchdenken** - Verschiedene Ansätze prüfen
+3. **Reasoning-Kette aufbauen** - Schritte logisch verbinden
+4. **Antwort generieren** - Basierend auf Denkprozess
+
+**Vorteil:** Bessere Antworten bei komplexen Aufgaben (Planung, Problemlösung, Mathematik)
+
+**Nachteil:** Langsamer und teurer als Standard-Modus
+:::
+
+:::{.column width="40%"}
+### Standard-Modus
+**Frage** → **Antwort**
+
+*Schnell, direkt*
+
+<br>
+
+### Thinking-Modus
+**Frage** → **<denkt nach...>** → **Antwort**
+
+*Langsam, gründlich*
+:::
+::::
+
+::: {.callout-note}
+**In eurem Kontext:** Thinking-Modus besonders nützlich für Lehrplanung, Fallanalysen, ethische Dilemmata.
+:::
+
+
 ## Gefahren und Herausforderungen
 
 :::: {.columns}
