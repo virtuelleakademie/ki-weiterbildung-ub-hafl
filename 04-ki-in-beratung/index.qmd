@@ -40,47 +40,59 @@ KI kann Beratende in verschiedenen Phasen unterstützen:
 :::
 
 
-## Hands-on: Beratungssimulation mit KI (15 Min)
+## Gruppenarbeit: Beratungssimulation mit KI (20 Min)
 
-::: {.pair}
-## Partner-Aktivität: Beratungsgespräch simulieren
+::: {.group}
+## Simulation von Beratungssituationen
 
-### Ablauf (15 Min)
+### Ablauf (20 Min)
 
-**Schritt 1: Paarbildung & Szenario wählen (2 Min)**
+**Gruppengrösse**: 3-4 Personen
 
-- Findet euch zu zweit zusammen
-- Wählt ein Beratungsszenario aus [den Beispielszenarien](szenario/)
-- Entscheidet, wer startet (ihr wechselt nach 5 Minuten)
+**Schritt 1: Gruppenbildung & Szenario wählen (3 Min)**
 
-**Schritt 2: Erste Simulation (5 Min)**
+- Bildet Gruppen von 3-4 Personen
+- Wählt gemeinsam ein Beratungsszenario aus [den Beispielszenarien](szenario/)
+- Verteilt die Rollen:
+  - **1 Person**: Berater:in (führt das Gespräch mit KI)
+  - **2-3 Personen**: Beobachter:innen (achten auf verschiedene Aspekte)
 
-- **Person A**: Berater:in (führt Gespräch mit KI)
-- **Person B**: Beobachter:in (achtet auf Gesprächsdynamik)
-- **KI**: Nimmt Rolle der ratsuchenden Person ein
+**Schritt 2: Rollen verteilen & vorbereiten (2 Min)**
 
-**Aufgabe für Person A:**
+**Berater:in:**
+- Liest das Szenario durch
+- Überlegt sich den Einstieg ins Gespräch
 
-- Gebt der KI (ChatGPT/Claude) die Rolle aus dem Szenario
-- Führt ein kurzes Beratungsgespräch (5 Min)
-- Versucht aktives Zuhören und lösungsorientierte Fragen
+**Beobachter:innen verteilen Beobachtungsfokus:**
+- Person 1: Achtet auf **Gesprächsführung** (Fragetechniken, Struktur, Zuhören)
+- Person 2: Achtet auf **Beziehungsgestaltung** (Empathie, Wertschätzung, Rapport)
+- Person 3 (falls vorhanden): Achtet auf **Lösungsorientierung** (Ressourcen, Ziele, Handlungsschritte)
 
-**Aufgabe für Person B:**
+**Schritt 3: Simulation durchführen (10 Min)**
 
-- Beobachtet: Was funktioniert gut? Was wirkt unnatürlich?
-- Achtet auf: Gesprächsführung, Empathie, Lösungsorientierung
+**Berater:in:**
+- Gibt der KI (ChatGPT/Claude) die Rolle aus dem Szenario
+- Führt das Beratungsgespräch (ca. 8-10 Min)
+- Versucht professionelle Gesprächstechniken anzuwenden
 
-**Schritt 3: Rollenwechsel (5 Min)**
+**Beobachter:innen:**
+- Machen sich Notizen zu ihrem Beobachtungsfokus
+- Achten auch auf: Wo wirkt die KI realistisch? Wo nicht?
 
-- Tauscht die Rollen
-- Person B wird Berater:in, Person A beobachtet
-- Nutzt dasselbe oder ein anderes Szenario
+**Schritt 4: Reflexion in der Gruppe (5 Min)**
 
-**Schritt 4: Kurzer Austausch (3 Min)**
+Austausch im Gruppe:
 
-- Was war überraschend?
-- Wo waren die Grenzen der KI spürbar?
-- Wo könnte dieses Übungsformat hilfreich sein?
+1. **Berater:in berichtet** (1 Min): Wie war das Gespräch? Was war schwierig?
+
+2. **Beobachter:innen geben Feedback** (3 Min):
+   - Was hat gut funktioniert?
+   - Wo waren die Grenzen der KI spürbar?
+   - Welche Gesprächstechniken haben gut/nicht gut funktioniert?
+
+3. **Gemeinsame Einschätzung** (1 Min):
+   - Wo könnte dieses Übungsformat hilfreich sein?
+   - Was müsste man beachten beim Üben mit KI?
 :::
 
 

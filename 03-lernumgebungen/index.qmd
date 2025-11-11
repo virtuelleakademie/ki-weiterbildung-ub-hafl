@@ -2,12 +2,12 @@
 title: "KI im Unterricht"
 ---
 
-## KI-gestützte Lehrplanung (20 Min)
+## KI-gestützte Lehrplanung (50 Min)
 
 Wie kann KI konkret den Unterricht unterstützen, ohne die notwendige kognitive Anstrengung der Lernenden zu umgehen?
 
 
-## KI-Anwendungen im Unterricht (5 Min)
+## KI-Anwendungen im Unterricht (10 Min)
 
 KI kann Lehrende in verschiedenen Phasen unterstützen:
 
@@ -35,42 +35,78 @@ Denkt an Teil 2: **Produktivität ≠ Lernen**
 :::
 
 
-## Live-Demo: KI für Unterrichtsplanung (5 Min)
+## Gruppenarbeit: Unterrichtseinheit mit KI planen (30 Min)
 
-**Beispiel-Szenario**: Planung einer Unterrichtseinheit mit KI-Unterstützung
+::: {.group}
+## Ablauf der Gruppenarbeit
 
-::: {.callout-tip collapse=false}
-## Demo-Ablauf
-Der/die Workshop-Leiter/in demonstriert live:
+**Gruppengrösse**: 3-4 Personen
 
-1. **Ausgangslage formulieren**: Ein konkretes Lehrthema und Lernziel eingeben
-2. **KI als Ideengeber**: Vorschläge für didaktische Methoden und Aktivitäten
-3. **Kritisch hinterfragen**: Welche Vorschläge fördern kognitive Anstrengung? Welche nicht?
-4. **Verfeinern**: Prompts anpassen, um lernförderliche Ansätze zu bekommen
+### Phase 1: Thema wählen & Planung starten (15 Min)
 
-**Beispiel-Tools**: ChatGPT, Claude, oder Copilot
+**Aufgabe**: Wählt ein Unterrichtsthema aus eurem eigenen Lehrkontext und plant gemeinsam eine Unterrichtseinheit mit KI-Unterstützung.
+
+**Schritt für Schritt:**
+
+1. **Thema festlegen** (2 Min)
+   - Wählt ein konkretes Thema aus eurem Fachbereich
+   - Definiert die Zielgruppe (z.B. Studierende im 2. Semester)
+   - Legt grobe Lernziele fest
+
+2. **KI zur Lernzielanalyse nutzen** (5 Min)
+   - Nutzt ChatGPT/Claude, um eure Lernziele zu konkretisieren
+   - Fragt nach: "Wie kann ich diese Lernziele messbarer formulieren?"
+   - Lasst euch Taxonomiestufen (Bloom) vorschlagen
+
+3. **Methodenauswahl mit KI** (8 Min)
+   - Fragt die KI nach didaktischen Methoden für euer Thema
+   - **Wichtig**: Filtert kritisch: Welche Methoden fördern produktive Anstrengung?
+   - Wählt 2-3 Methoden aus, die ihr vertiefen wollt
+
+**Tools**: ChatGPT, Claude, oder andere verfügbare KI-Tools
+
+### Phase 2: Aufgabenentwicklung (10 Min)
+
+**Aufgabe**: Entwickelt mit KI konkrete Lernaufgaben für eure Unterrichtseinheit.
+
+1. **Aufgaben generieren** (5 Min)
+   - Lasst die KI Übungsaufgaben zu eurem Thema erstellen
+   - Variiert Schwierigkeitsgrade
+   - Fragt nach Aufgaben, die kognitive Anstrengung erfordern
+
+2. **Kritisch bewerten** (5 Min)
+   - Diskutiert: Fördern diese Aufgaben tiefes Lernen?
+   - Wo müssten die Aufgaben angepasst werden?
+   - Notiert eure wichtigsten Erkenntnisse
+
+### Phase 3: Vorbereitung Präsentation (5 Min)
+
+Bereitet eine 2-minütige Präsentation vor:
+- **Was** habt ihr geplant? (30 Sek)
+- **Wie** hat KI euch unterstützt? (30 Sek)
+- **Eine Erkenntnis**: Was hat überrascht? Wo waren Grenzen? (1 Min)
 :::
 
 
-## Diskussion: Chancen und Grenzen (10 Min)
+## Präsentation & Diskussion im Plenum (10 Min)
 
 ::: {.group}
-## Austausch im Plenum
+## Austausch der Gruppen
+
+**Ablauf:**
+- Jede Gruppe stellt ihre Unterrichtseinheit vor (2 Min pro Gruppe)
+- Kurze Rückfragen aus dem Plenum
 
 **Leitfragen für die Diskussion:**
 
-### Wo seht ihr Chancen?
-- In welchen Bereichen eurer Lehre könnte KI euch am meisten unterstützen?
-- Welche zeitraubenden Aufgaben könnten effizienter werden?
-- Wo könnte KI neue didaktische Möglichkeiten eröffnen?
+### Gemeinsame Muster
+- Welche KI-Unterstützung war besonders hilfreich?
+- Wo stiess die KI an Grenzen?
+- Welche Prompting-Strategien haben gut funktioniert?
 
-### Wo seht ihr Herausforderungen?
-- Was macht euch Sorgen beim KI-Einsatz im Unterricht?
-- Wie stellt ihr sicher, dass Lernende noch selbst denken?
-- Welche ethischen Fragen tauchen auf?
-
-### Was möchtet ihr ausprobieren?
-- Welche konkreten Anwendungsfälle möchtet ihr nach dem Workshop testen?
+### Kritische Reflexion
+- Wo besteht die Gefahr, dass KI die kognitive Anstrengung der Lernenden reduziert?
+- Wie können wir sicherstellen, dass KI uns als Lehrende unterstützt, ohne das Lernen zu behindern?
 :::
 
 

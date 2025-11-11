@@ -867,7 +867,7 @@
     "href": "workshop/index.html",
     "title": "Ablauf",
     "section": "",
-    "text": "Zeit\n Thema\n Dauer\n\n\n\n\n09:00 - 09:10\n Einstieg\n\n\n\n\nAktivierende Begrüssung\n10 min\n\n\n09:10 - 09:50\n Teil 1: KI verstehen\n\n\n\n\nGrundlagen: KI & Agents\n40 min\n\n\n09:50 - 10:05\n Pause\n\n\n\n\nKaffee\n15 min\n\n\n10:05 - 10:20\n Teil 2: Lernen verstehen\n\n\n\n\nWie Menschen lernen\n15 min\n\n\n10:20 - 10:40\n Teil 3A: KI im Unterricht\n\n\n\n\nKI-gestützte Lehrplanung\n20 min\n\n\n10:40 - 11:10\n Teil 3B: KI in der Beratung\n\n\n\n\nBeratungsgespräche mit KI unterstützen\n30 min\n\n\n11:10 - 11:45\n Teil 4: Ethik & Reflexion\n\n\n\n\nVerantwortungsvoller KI-Einsatz\n35 min\n\n\n11:45 - 12:00\n Transfer & Abschluss\n\n\n\n\nUmsetzung & nächste Schritte\n15 min",
+    "text": "Zeit\n Thema\n Dauer\n\n\n\n\n09:00 - 09:10\n Einstieg\n\n\n\n\nAktivierende Begrüssung\n10 min\n\n\n09:10 - 09:40\n Teil 1: KI verstehen\n\n\n\n\nGrundlagen: KI & Agents\n30 min\n\n\n09:40 - 09:55\n Pause\n\n\n\n\nKaffee\n15 min\n\n\n09:55 - 10:10\n Teil 2: Lernen verstehen\n\n\n\n\nWie Menschen lernen\n15 min\n\n\n10:10 - 11:00\n Teil 3A: KI im Unterricht\n\n\n\n\nKI-gestützte Lehrplanung\n50 min\n\n\n11:00 - 11:30\n Teil 3B: KI in der Beratung\n\n\n\n\nBeratungsgespräche simulieren\n30 min\n\n\n11:30 - 11:45\n Teil 4: Ethik & Reflexion\n\n\n\n\nVerantwortungsvoller KI-Einsatz\n15 min\n\n\n11:45 - 12:00\n Transfer & Abschluss\n\n\n\n\nUmsetzung & nächste Schritte\n15 min",
     "crumbs": [
       "Workshop",
       "Ablauf"
@@ -878,7 +878,7 @@
     "href": "workshop/index.html#workshop-ablauf-ki-für-unterricht-beratung-3-stunden",
     "title": "Ablauf",
     "section": "",
-    "text": "Zeit\n Thema\n Dauer\n\n\n\n\n09:00 - 09:10\n Einstieg\n\n\n\n\nAktivierende Begrüssung\n10 min\n\n\n09:10 - 09:50\n Teil 1: KI verstehen\n\n\n\n\nGrundlagen: KI & Agents\n40 min\n\n\n09:50 - 10:05\n Pause\n\n\n\n\nKaffee\n15 min\n\n\n10:05 - 10:20\n Teil 2: Lernen verstehen\n\n\n\n\nWie Menschen lernen\n15 min\n\n\n10:20 - 10:40\n Teil 3A: KI im Unterricht\n\n\n\n\nKI-gestützte Lehrplanung\n20 min\n\n\n10:40 - 11:10\n Teil 3B: KI in der Beratung\n\n\n\n\nBeratungsgespräche mit KI unterstützen\n30 min\n\n\n11:10 - 11:45\n Teil 4: Ethik & Reflexion\n\n\n\n\nVerantwortungsvoller KI-Einsatz\n35 min\n\n\n11:45 - 12:00\n Transfer & Abschluss\n\n\n\n\nUmsetzung & nächste Schritte\n15 min",
+    "text": "Zeit\n Thema\n Dauer\n\n\n\n\n09:00 - 09:10\n Einstieg\n\n\n\n\nAktivierende Begrüssung\n10 min\n\n\n09:10 - 09:40\n Teil 1: KI verstehen\n\n\n\n\nGrundlagen: KI & Agents\n30 min\n\n\n09:40 - 09:55\n Pause\n\n\n\n\nKaffee\n15 min\n\n\n09:55 - 10:10\n Teil 2: Lernen verstehen\n\n\n\n\nWie Menschen lernen\n15 min\n\n\n10:10 - 11:00\n Teil 3A: KI im Unterricht\n\n\n\n\nKI-gestützte Lehrplanung\n50 min\n\n\n11:00 - 11:30\n Teil 3B: KI in der Beratung\n\n\n\n\nBeratungsgespräche simulieren\n30 min\n\n\n11:30 - 11:45\n Teil 4: Ethik & Reflexion\n\n\n\n\nVerantwortungsvoller KI-Einsatz\n15 min\n\n\n11:45 - 12:00\n Transfer & Abschluss\n\n\n\n\nUmsetzung & nächste Schritte\n15 min",
     "crumbs": [
       "Workshop",
       "Ablauf"
@@ -1688,5 +1688,93 @@
     "title": "Wie funktionieren Chatbots?",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nDas ganze Wissen, welches nötig ist, um Texte Wort für Wort vorherzusagen.↩︎"
+  },
+  {
+    "objectID": "03-lernumgebungen/index.html#ki-gestützte-lehrplanung-50-min",
+    "href": "03-lernumgebungen/index.html#ki-gestützte-lehrplanung-50-min",
+    "title": "KI im Unterricht",
+    "section": "",
+    "text": "Wie kann KI konkret den Unterricht unterstützen, ohne die notwendige kognitive Anstrengung der Lernenden zu umgehen?",
+    "crumbs": [
+      "3: KI im Unterricht",
+      "KI im Unterricht"
+    ]
+  },
+  {
+    "objectID": "03-lernumgebungen/index.html#ki-anwendungen-im-unterricht-10-min",
+    "href": "03-lernumgebungen/index.html#ki-anwendungen-im-unterricht-10-min",
+    "title": "KI im Unterricht",
+    "section": "KI-Anwendungen im Unterricht (10 Min)",
+    "text": "KI-Anwendungen im Unterricht (10 Min)\nKI kann Lehrende in verschiedenen Phasen unterstützen:\n\n1. Planung & Vorbereitung\n\nLernzielanalyse: KI hilft, Lernziele zu konkretisieren und zu strukturieren\nMethodenauswahl: Vorschläge für passende didaktische Ansätze\nAufgabenentwicklung: Erstellung von Übungen und Prüfungsfragen\n\n\n\n2. Materialerstellung\n\nArbeitsblätter: Generierung von strukturierten Übungsmaterialien\nBeispiele: Entwicklung von Fallstudien und Anwendungsbeispielen\nDifferenzierung: Anpassung von Materialien für verschiedene Lernniveaus\n\n\n\n3. Reflexion & Verbesserung\n\nKI als Reflexionspartner: Feedback zu Unterrichtsplanung\nKritische Begleitung: Alternative Perspektiven auf didaktische Entscheidungen\n\n\n\n\n\n\n\nWarningWichtig: Die Lernparadox-Falle\n\n\n\nDenkt an Teil 2: Produktivität ≠ Lernen\n\nKI kann Lehrende produktiver machen (Planung, Materialien)\nKI sollte Lernende nicht von kognitiver Anstrengung entlasten\nDie 8 Make-it-Stick-Strategien bleiben zentral: Strategien im Detail",
+    "crumbs": [
+      "3: KI im Unterricht",
+      "KI im Unterricht"
+    ]
+  },
+  {
+    "objectID": "03-lernumgebungen/index.html#gruppenarbeit-unterrichtseinheit-mit-ki-planen-30-min",
+    "href": "03-lernumgebungen/index.html#gruppenarbeit-unterrichtseinheit-mit-ki-planen-30-min",
+    "title": "KI im Unterricht",
+    "section": "Gruppenarbeit: Unterrichtseinheit mit KI planen (30 Min)",
+    "text": "Gruppenarbeit: Unterrichtseinheit mit KI planen (30 Min)\n\n\n\n\n\n\nGroupAblauf der Gruppenarbeit\n\n\n\nGruppengrösse: 3-4 Personen\n\nPhase 1: Thema wählen & Planung starten (15 Min)\nAufgabe: Wählt ein Unterrichtsthema aus eurem eigenen Lehrkontext und plant gemeinsam eine Unterrichtseinheit mit KI-Unterstützung.\nSchritt für Schritt:\n\nThema festlegen (2 Min)\n\nWählt ein konkretes Thema aus eurem Fachbereich\nDefiniert die Zielgruppe (z.B. Studierende im 2. Semester)\nLegt grobe Lernziele fest\n\nKI zur Lernzielanalyse nutzen (5 Min)\n\nNutzt ChatGPT/Claude, um eure Lernziele zu konkretisieren\nFragt nach: “Wie kann ich diese Lernziele messbarer formulieren?”\nLasst euch Taxonomiestufen (Bloom) vorschlagen\n\nMethodenauswahl mit KI (8 Min)\n\nFragt die KI nach didaktischen Methoden für euer Thema\nWichtig: Filtert kritisch: Welche Methoden fördern produktive Anstrengung?\nWählt 2-3 Methoden aus, die ihr vertiefen wollt\n\n\nTools: ChatGPT, Claude, oder andere verfügbare KI-Tools\n\n\nPhase 2: Aufgabenentwicklung (10 Min)\nAufgabe: Entwickelt mit KI konkrete Lernaufgaben für eure Unterrichtseinheit.\n\nAufgaben generieren (5 Min)\n\nLasst die KI Übungsaufgaben zu eurem Thema erstellen\nVariiert Schwierigkeitsgrade\nFragt nach Aufgaben, die kognitive Anstrengung erfordern\n\nKritisch bewerten (5 Min)\n\nDiskutiert: Fördern diese Aufgaben tiefes Lernen?\nWo müssten die Aufgaben angepasst werden?\nNotiert eure wichtigsten Erkenntnisse\n\n\n\n\nPhase 3: Vorbereitung Präsentation (5 Min)\nBereitet eine 2-minütige Präsentation vor: - Was habt ihr geplant? (30 Sek) - Wie hat KI euch unterstützt? (30 Sek) - Eine Erkenntnis: Was hat überrascht? Wo waren Grenzen? (1 Min)",
+    "crumbs": [
+      "3: KI im Unterricht",
+      "KI im Unterricht"
+    ]
+  },
+  {
+    "objectID": "03-lernumgebungen/index.html#präsentation-diskussion-im-plenum-10-min",
+    "href": "03-lernumgebungen/index.html#präsentation-diskussion-im-plenum-10-min",
+    "title": "KI im Unterricht",
+    "section": "Präsentation & Diskussion im Plenum (10 Min)",
+    "text": "Präsentation & Diskussion im Plenum (10 Min)\n\n\n\n\n\n\nGroupAustausch der Gruppen\n\n\n\nAblauf: - Jede Gruppe stellt ihre Unterrichtseinheit vor (2 Min pro Gruppe) - Kurze Rückfragen aus dem Plenum\nLeitfragen für die Diskussion:\n\nGemeinsame Muster\n\nWelche KI-Unterstützung war besonders hilfreich?\nWo stiess die KI an Grenzen?\nWelche Prompting-Strategien haben gut funktioniert?\n\n\n\nKritische Reflexion\n\nWo besteht die Gefahr, dass KI die kognitive Anstrengung der Lernenden reduziert?\nWie können wir sicherstellen, dass KI uns als Lehrende unterstützt, ohne das Lernen zu behindern?",
+    "crumbs": [
+      "3: KI im Unterricht",
+      "KI im Unterricht"
+    ]
+  },
+  {
+    "objectID": "04-ki-in-beratung/index.html#gruppenarbeit-beratungssimulation-mit-ki-20-min",
+    "href": "04-ki-in-beratung/index.html#gruppenarbeit-beratungssimulation-mit-ki-20-min",
+    "title": "KI in der Beratung",
+    "section": "Gruppenarbeit: Beratungssimulation mit KI (20 Min)",
+    "text": "Gruppenarbeit: Beratungssimulation mit KI (20 Min)\n\n\n\n\n\n\nGroupSimulation von Beratungssituationen\n\n\n\nAblauf (20 Min)\nGruppengrösse: 3-4 Personen\nSchritt 1: Gruppenbildung & Szenario wählen (3 Min)\n\nBildet Gruppen von 3-4 Personen\nWählt gemeinsam ein Beratungsszenario aus den Beispielszenarien\nVerteilt die Rollen:\n\n1 Person: Berater:in (führt das Gespräch mit KI)\n2-3 Personen: Beobachter:innen (achten auf verschiedene Aspekte)\n\n\nSchritt 2: Rollen verteilen & vorbereiten (2 Min)\nBerater:in: - Liest das Szenario durch - Überlegt sich den Einstieg ins Gespräch\nBeobachter:innen verteilen Beobachtungsfokus: - Person 1: Achtet auf Gesprächsführung (Fragetechniken, Struktur, Zuhören) - Person 2: Achtet auf Beziehungsgestaltung (Empathie, Wertschätzung, Rapport) - Person 3 (falls vorhanden): Achtet auf Lösungsorientierung (Ressourcen, Ziele, Handlungsschritte)\nSchritt 3: Simulation durchführen (10 Min)\nBerater:in: - Gibt der KI (ChatGPT/Claude) die Rolle aus dem Szenario - Führt das Beratungsgespräch (ca. 8-10 Min) - Versucht professionelle Gesprächstechniken anzuwenden\nBeobachter:innen: - Machen sich Notizen zu ihrem Beobachtungsfokus - Achten auch auf: Wo wirkt die KI realistisch? Wo nicht?\nSchritt 4: Reflexion in der Gruppe (5 Min)\nAustausch im Gruppe:\n\nBerater:in berichtet (1 Min): Wie war das Gespräch? Was war schwierig?\nBeobachter:innen geben Feedback (3 Min):\n\nWas hat gut funktioniert?\nWo waren die Grenzen der KI spürbar?\nWelche Gesprächstechniken haben gut/nicht gut funktioniert?\n\nGemeinsame Einschätzung (1 Min):\n\nWo könnte dieses Übungsformat hilfreich sein?\nWas müsste man beachten beim Üben mit KI?",
+    "crumbs": [
+      "4: KI in der Beratung",
+      "KI in der Beratung"
+    ]
+  },
+  {
+    "objectID": "04-ki-in-beratung/ethik/index.html#verantwortungsvoller-ki-einsatz-in-unterricht-beratung-15-min",
+    "href": "04-ki-in-beratung/ethik/index.html#verantwortungsvoller-ki-einsatz-in-unterricht-beratung-15-min",
+    "title": "Ethik & Reflexion",
+    "section": "",
+    "text": "In diesem Teil reflektieren wir gemeinsam die ethischen Implikationen des KI-Einsatzes und entwickeln Orientierungspunkte für verantwortungsvolle Praxis.",
+    "crumbs": [
+      "4: KI in der Beratung",
+      "Ethik & Reflexion"
+    ]
+  },
+  {
+    "objectID": "04-ki-in-beratung/ethik/index.html#blitz-diskussion-was-dürfen-wir-automatisieren-10-min",
+    "href": "04-ki-in-beratung/ethik/index.html#blitz-diskussion-was-dürfen-wir-automatisieren-10-min",
+    "title": "Ethik & Reflexion",
+    "section": "Blitz-Diskussion: “Was dürfen wir automatisieren?” (10 Min)",
+    "text": "Blitz-Diskussion: “Was dürfen wir automatisieren?” (10 Min)\n\n\n\n\n\n\nGroupPlenum-Diskussion\n\n\n\nDer/die Workshop-Leiter:in stellt 2-3 konkrete Dilemmata vor und diskutiert diese direkt im Plenum.\nBeispiel-Dilemmata:\nDilemma 1: KI-generierte Lernmaterialien &gt; Eine Lehrperson nutzt KI, um Arbeitsblätter zu erstellen und gibt sie ohne Hinweis auf KI-Nutzung weiter.\n\nIst das ethisch vertretbar? Warum (nicht)?\n\nDilemma 2: KI in der Beratungsdokumentation &gt; Ein:e Berater:in nutzt KI, um Gesprächsnotizen zu strukturieren. Dafür werden Gesprächsinhalte (anonymisiert) in ChatGPT eingegeben.\n\nIst das datenschutzkonform? Was sind die Risiken?\n\nDilemma 3: KI-Feedback an Lernende &gt; Eine Lehrperson lässt KI automatisch Feedback geben, ohne es selbst zu lesen.\n\nWas sind die Probleme?\n\nDiskussion im Plenum: - Spontane Wortmeldungen zu den Dilemmata - Workshop-Leiter:in moderiert und fasst Kernpunkte zusammen",
+    "crumbs": [
+      "4: KI in der Beratung",
+      "Ethik & Reflexion"
+    ]
+  },
+  {
+    "objectID": "04-ki-in-beratung/ethik/index.html#orientierungsrahmen-verantwortungsvoller-ki-einsatz-optional---als-handout",
+    "href": "04-ki-in-beratung/ethik/index.html#orientierungsrahmen-verantwortungsvoller-ki-einsatz-optional---als-handout",
+    "title": "Ethik & Reflexion",
+    "section": "Orientierungsrahmen: Verantwortungsvoller KI-Einsatz (Optional - als Handout)",
+    "text": "Orientierungsrahmen: Verantwortungsvoller KI-Einsatz (Optional - als Handout)\nBasierend auf den Diskussionen können folgende Prinzipien als Orientierung dienen:\n\n1. Transparenz-Prinzip\n\nOffenlegen, wenn KI eingesetzt wurde (gegenüber Lernenden, Klient:innen, Kolleg:innen)\nBegründen, warum und wie KI genutzt wird\n\n\n\n2. Verantwortungs-Prinzip\n\nKI ist Werkzeug, nicht Entscheider\nProfessionelle Verantwortung bleibt immer bei der Person (Lehrperson, Berater:in)\nKI-Output nie ungeprüft übernehmen\n\n\n\n3. Datenschutz-Prinzip\n\nKEINE vertraulichen, personenbezogenen oder sensiblen Daten in öffentliche KI-Tools\nBei Beratung: Anonymisierung reicht oft nicht (Kontext kann Personen identifizierbar machen)\nInstitutional guidelines beachten (Hochschulrichtlinien, Datenschutzbestimmungen)\n\n\n\n4. Lernförderung-Prinzip (Unterricht)\n\nKI sollte kognitive Anstrengung fördern, nicht ersetzen\nLernende müssen noch denken, nicht nur konsumieren\nProduktivitätssteigerung ≠ Lernzuwachs\n\n\n\n5. Authentizitäts-Prinzip (Beratung)\n\nMenschliche Beziehung bleibt zentral – KI kann sie nicht ersetzen\nKI zur Vorbereitung und Reflexion, nicht als Ersatz für echtes Gespräch\nEmpathie und ethisches Urteil bleiben menschliche Aufgaben",
+    "crumbs": [
+      "4: KI in der Beratung",
+      "Ethik & Reflexion"
+    ]
   }
 ]

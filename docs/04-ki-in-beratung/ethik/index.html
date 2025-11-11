@@ -44,9 +44,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="../../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-4fcfe6d66dc41868357ea95dec6ef5ad.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../../site_libs/bootstrap/bootstrap-dark-4fcfe6d66dc41868357ea95dec6ef5ad.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
-<link href="../../site_libs/bootstrap/bootstrap-4fcfe6d66dc41868357ea95dec6ef5ad.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-a32d07710c42eac0f676ec5e7ee923a4.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark-a32d07710c42eac0f676ec5e7ee923a4.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-a32d07710c42eac0f676ec5e7ee923a4.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script src="../../site_libs/quarto-contrib/quarto-timer-1.0.0/timer.js"></script>
 <link href="../../site_libs/quarto-contrib/quarto-timer-1.0.0/timer.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -88,6 +88,17 @@ ul.task-list li input[type="checkbox"] {
   });
 </script>
 <style>
+div.callout-active-processing.callout {
+  border-left-color: #9A4665;
+}
+div.callout-active-processing.callout-style-default > .callout-header {
+  background-color: rgba(154, 70, 101, 0.13);
+}
+div.callout-active-processing .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-active-processing.callout-style-default .callout-icon::before, div.callout-active-processing.callout-titled .callout-icon::before {
+  content: '📝';
+  background-image: none;
+}
 div.callout-individual.callout {
   border-left-color: steelblue;
 }
@@ -97,28 +108,6 @@ div.callout-individual.callout-style-default > .callout-header {
 div.callout-individual .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
 div.callout-individual.callout-style-default .callout-icon::before, div.callout-individual.callout-titled .callout-icon::before {
   content: '💻';
-  background-image: none;
-}
-div.callout-group.callout {
-  border-left-color: purple;
-}
-div.callout-group.callout-style-default > .callout-header {
-  background-color: rgb(from purple r g b / 13%);
-}
-div.callout-group .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-group.callout-style-default .callout-icon::before, div.callout-group.callout-titled .callout-icon::before {
-  content: '👥';
-  background-image: none;
-}
-div.callout-agent-potential.callout {
-  border-left-color: #9A4665;
-}
-div.callout-agent-potential.callout-style-default > .callout-header {
-  background-color: rgba(154, 70, 101, 0.13);
-}
-div.callout-agent-potential .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-agent-potential.callout-style-default .callout-icon::before, div.callout-agent-potential.callout-titled .callout-icon::before {
-  content: '🤖';
   background-image: none;
 }
 div.callout-pair.callout {
@@ -132,6 +121,17 @@ div.callout-pair.callout-style-default .callout-icon::before, div.callout-pair.c
   content: '👥';
   background-image: none;
 }
+div.callout-pro-tip.callout {
+  border-left-color: gold;
+}
+div.callout-pro-tip.callout-style-default > .callout-header {
+  background-color: rgb(from gold r g b / 13%);
+}
+div.callout-pro-tip .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-pro-tip.callout-style-default .callout-icon::before, div.callout-pro-tip.callout-titled .callout-icon::before {
+  content: '💡';
+  background-image: none;
+}
 div.callout-reflect.callout {
   border-left-color: purple;
 }
@@ -143,26 +143,26 @@ div.callout-reflect.callout-style-default .callout-icon::before, div.callout-ref
   content: '💭';
   background-image: none;
 }
-div.callout-active-processing.callout {
+div.callout-agent-potential.callout {
   border-left-color: #9A4665;
 }
-div.callout-active-processing.callout-style-default > .callout-header {
+div.callout-agent-potential.callout-style-default > .callout-header {
   background-color: rgba(154, 70, 101, 0.13);
 }
-div.callout-active-processing .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-active-processing.callout-style-default .callout-icon::before, div.callout-active-processing.callout-titled .callout-icon::before {
-  content: '📝';
+div.callout-agent-potential .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-agent-potential.callout-style-default .callout-icon::before, div.callout-agent-potential.callout-titled .callout-icon::before {
+  content: '🤖';
   background-image: none;
 }
-div.callout-pro-tip.callout {
-  border-left-color: gold;
+div.callout-group.callout {
+  border-left-color: purple;
 }
-div.callout-pro-tip.callout-style-default > .callout-header {
-  background-color: rgb(from gold r g b / 13%);
+div.callout-group.callout-style-default > .callout-header {
+  background-color: rgb(from purple r g b / 13%);
 }
-div.callout-pro-tip .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-pro-tip.callout-style-default .callout-icon::before, div.callout-pro-tip.callout-titled .callout-icon::before {
-  content: '💡';
+div.callout-group .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-group.callout-style-default .callout-icon::before, div.callout-group.callout-titled .callout-icon::before {
+  content: '👥';
   background-image: none;
 }
 </style>
@@ -308,7 +308,7 @@ div.callout-pro-tip.callout-style-default .callout-icon::before, div.callout-pro
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#verantwortungsvoller-ki-einsatz-in-unterricht-beratung-35-min" id="toc-verantwortungsvoller-ki-einsatz-in-unterricht-beratung-35-min" class="nav-link active" data-scroll-target="#verantwortungsvoller-ki-einsatz-in-unterricht-beratung-35-min">Verantwortungsvoller KI-Einsatz in Unterricht &amp; Beratung (35 Min)</a></li>
+  <li><a href="#verantwortungsvoller-ki-einsatz-in-unterricht-beratung-15-min" id="toc-verantwortungsvoller-ki-einsatz-in-unterricht-beratung-15-min" class="nav-link active" data-scroll-target="#verantwortungsvoller-ki-einsatz-in-unterricht-beratung-15-min">Verantwortungsvoller KI-Einsatz in Unterricht &amp; Beratung (15 Min)</a></li>
   <li><a href="#zentrale-ethische-fragen-5-min" id="toc-zentrale-ethische-fragen-5-min" class="nav-link" data-scroll-target="#zentrale-ethische-fragen-5-min">Zentrale ethische Fragen (5 Min)</a>
   <ul class="collapse">
   <li><a href="#autonomie-und-verantwortung" id="toc-autonomie-und-verantwortung" class="nav-link" data-scroll-target="#autonomie-und-verantwortung">Autonomie und Verantwortung</a></li>
@@ -316,8 +316,8 @@ div.callout-pro-tip.callout-style-default .callout-icon::before, div.callout-pro
   <li><a href="#datenschutz-und-vertraulichkeit" id="toc-datenschutz-und-vertraulichkeit" class="nav-link" data-scroll-target="#datenschutz-und-vertraulichkeit">Datenschutz und Vertraulichkeit</a></li>
   <li><a href="#gerechtigkeit-und-zugang" id="toc-gerechtigkeit-und-zugang" class="nav-link" data-scroll-target="#gerechtigkeit-und-zugang">Gerechtigkeit und Zugang</a></li>
   </ul></li>
-  <li><a href="#diskussionsrunde-was-dürfen-wir-automatisieren-25-min" id="toc-diskussionsrunde-was-dürfen-wir-automatisieren-25-min" class="nav-link" data-scroll-target="#diskussionsrunde-was-dürfen-wir-automatisieren-25-min">Diskussionsrunde: “Was dürfen wir automatisieren?” (25 Min)</a></li>
-  <li><a href="#orientierungsrahmen-verantwortungsvoller-ki-einsatz-5-min" id="toc-orientierungsrahmen-verantwortungsvoller-ki-einsatz-5-min" class="nav-link" data-scroll-target="#orientierungsrahmen-verantwortungsvoller-ki-einsatz-5-min">Orientierungsrahmen: Verantwortungsvoller KI-Einsatz (5 Min)</a>
+  <li><a href="#blitz-diskussion-was-dürfen-wir-automatisieren-10-min" id="toc-blitz-diskussion-was-dürfen-wir-automatisieren-10-min" class="nav-link" data-scroll-target="#blitz-diskussion-was-dürfen-wir-automatisieren-10-min">Blitz-Diskussion: “Was dürfen wir automatisieren?” (10 Min)</a></li>
+  <li><a href="#orientierungsrahmen-verantwortungsvoller-ki-einsatz-optional---als-handout" id="toc-orientierungsrahmen-verantwortungsvoller-ki-einsatz-optional---als-handout" class="nav-link" data-scroll-target="#orientierungsrahmen-verantwortungsvoller-ki-einsatz-optional---als-handout">Orientierungsrahmen: Verantwortungsvoller KI-Einsatz (Optional - als Handout)</a>
   <ul class="collapse">
   <li><a href="#transparenz-prinzip" id="toc-transparenz-prinzip" class="nav-link" data-scroll-target="#transparenz-prinzip">1. Transparenz-Prinzip</a></li>
   <li><a href="#verantwortungs-prinzip" id="toc-verantwortungs-prinzip" class="nav-link" data-scroll-target="#verantwortungs-prinzip">2. Verantwortungs-Prinzip</a></li>
@@ -325,7 +325,6 @@ div.callout-pro-tip.callout-style-default .callout-icon::before, div.callout-pro
   <li><a href="#lernförderung-prinzip-unterricht" id="toc-lernförderung-prinzip-unterricht" class="nav-link" data-scroll-target="#lernförderung-prinzip-unterricht">4. Lernförderung-Prinzip (Unterricht)</a></li>
   <li><a href="#authentizitäts-prinzip-beratung" id="toc-authentizitäts-prinzip-beratung" class="nav-link" data-scroll-target="#authentizitäts-prinzip-beratung">5. Authentizitäts-Prinzip (Beratung)</a></li>
   </ul></li>
-  <li><a href="#reflexionsfragen-für-die-eigene-praxis" id="toc-reflexionsfragen-für-die-eigene-praxis" class="nav-link" data-scroll-target="#reflexionsfragen-für-die-eigene-praxis">Reflexionsfragen für die eigene Praxis</a></li>
   <li><a href="#ressourcen-und-weiterführendes" id="toc-ressourcen-und-weiterführendes" class="nav-link" data-scroll-target="#ressourcen-und-weiterführendes">Ressourcen und Weiterführendes</a>
   <ul class="collapse">
   <li><a href="#hochschul-richtlinien" id="toc-hochschul-richtlinien" class="nav-link" data-scroll-target="#hochschul-richtlinien">Hochschul-Richtlinien</a></li>
@@ -357,8 +356,8 @@ div.callout-pro-tip.callout-style-default .callout-icon::before, div.callout-pro
 </header>
 
 
-<section id="verantwortungsvoller-ki-einsatz-in-unterricht-beratung-35-min" class="level2">
-<h2 class="anchored" data-anchor-id="verantwortungsvoller-ki-einsatz-in-unterricht-beratung-35-min">Verantwortungsvoller KI-Einsatz in Unterricht &amp; Beratung (35 Min)</h2>
+<section id="verantwortungsvoller-ki-einsatz-in-unterricht-beratung-15-min" class="level2">
+<h2 class="anchored" data-anchor-id="verantwortungsvoller-ki-einsatz-in-unterricht-beratung-15-min">Verantwortungsvoller KI-Einsatz in Unterricht &amp; Beratung (15 Min)</h2>
 <p>In diesem Teil reflektieren wir gemeinsam die ethischen Implikationen des KI-Einsatzes und entwickeln Orientierungspunkte für verantwortungsvolle Praxis.</p>
 </section>
 <section id="zentrale-ethische-fragen-5-min" class="level2">
@@ -393,78 +392,39 @@ div.callout-pro-tip.callout-style-default .callout-icon::before, div.callout-pro
 </ul>
 </section>
 </section>
-<section id="diskussionsrunde-was-dürfen-wir-automatisieren-25-min" class="level2">
-<h2 class="anchored" data-anchor-id="diskussionsrunde-was-dürfen-wir-automatisieren-25-min">Diskussionsrunde: “Was dürfen wir automatisieren?” (25 Min)</h2>
+<section id="blitz-diskussion-was-dürfen-wir-automatisieren-10-min" class="level2">
+<h2 class="anchored" data-anchor-id="blitz-diskussion-was-dürfen-wir-automatisieren-10-min">Blitz-Diskussion: “Was dürfen wir automatisieren?” (10 Min)</h2>
 <div class="callout callout-style-default callout-group callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Group</span>Strukturierte Gruppendiskussion
+<span class="screen-reader-only">Group</span>Plenum-Diskussion
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<section id="phase-1-dilemmata-vorstellen-5-min" class="level3">
-<h3 class="anchored" data-anchor-id="phase-1-dilemmata-vorstellen-5-min">Phase 1: Dilemmata vorstellen (5 Min)</h3>
-<p>Der/die Workshop-Leiter:in stellt konkrete Dilemmata vor. Beispiele:</p>
-<p><strong>Dilemma 1: KI-generierte Lernmaterialien</strong> &gt; Eine Lehrperson nutzt KI, um Arbeitsblätter und Übungsaufgaben zu erstellen. Die Qualität ist gut, die Zeitersparnis enorm. Die Lehrperson gibt die Materialien ohne Hinweis auf KI-Nutzung an Studierende weiter.</p>
+<p>Der/die Workshop-Leiter:in stellt 2-3 konkrete Dilemmata vor und diskutiert diese direkt im Plenum.</p>
+<p><strong>Beispiel-Dilemmata:</strong></p>
+<p><strong>Dilemma 1: KI-generierte Lernmaterialien</strong> &gt; Eine Lehrperson nutzt KI, um Arbeitsblätter zu erstellen und gibt sie ohne Hinweis auf KI-Nutzung weiter.</p>
 <ul>
 <li><strong>Ist das ethisch vertretbar? Warum (nicht)?</strong></li>
-<li><strong>Wann wird es problematisch?</strong></li>
 </ul>
-<p><strong>Dilemma 2: KI in der Beratungsdokumentation</strong> &gt; Ein:e Berater:in nutzt KI, um nach Gesprächen Notizen zu strukturieren und wichtige Punkte zusammenzufassen. Dafür werden Gesprächsinhalte (anonymisiert) in ChatGPT eingegeben.</p>
+<p><strong>Dilemma 2: KI in der Beratungsdokumentation</strong> &gt; Ein:e Berater:in nutzt KI, um Gesprächsnotizen zu strukturieren. Dafür werden Gesprächsinhalte (anonymisiert) in ChatGPT eingegeben.</p>
 <ul>
 <li><strong>Ist das datenschutzkonform? Was sind die Risiken?</strong></li>
-<li><strong>Wie könnte man es verantwortungsvoll gestalten?</strong></li>
 </ul>
-<p><strong>Dilemma 3: KI-Feedback an Lernende</strong> &gt; Eine Lehrperson lässt KI automatisch Feedback zu Studierenden-Arbeiten geben. Das KI-Feedback ist ausführlich und konstruktiv, aber die Lehrperson liest es nicht gegen und schickt es direkt weiter.</p>
+<p><strong>Dilemma 3: KI-Feedback an Lernende</strong> &gt; Eine Lehrperson lässt KI automatisch Feedback geben, ohne es selbst zu lesen.</p>
 <ul>
 <li><strong>Was sind die Probleme?</strong></li>
-<li><strong>Wo läge die Grenze zu verantwortungsvollem KI-Einsatz?</strong></li>
 </ul>
-<p><strong>Dilemma 4: KI zur Vorbereitung schwieriger Gespräche</strong> &gt; Ein:e Berater:in übt vor einem schwierigen Konfliktgespräch mit KI, indem sie der KI die Rolle der Konfliktpartei gibt und echte Details aus der Situation mitteilt.</p>
-<ul>
-<li><strong>Wo liegt hier die ethische Grenze?</strong></li>
-<li><strong>Wie könnte man sicher üben, ohne Vertraulichkeit zu verletzen?</strong></li>
-</ul>
-</section>
-<section id="phase-2-kleingruppen-diskussion-12-min" class="level3">
-<h3 class="anchored" data-anchor-id="phase-2-kleingruppen-diskussion-12-min">Phase 2: Kleingruppen-Diskussion (12 Min)</h3>
-<p><strong>Gruppengroesse</strong>: 3-4 Personen</p>
-<p><strong>Aufgabe</strong>: Wählt 2 Dilemmata und diskutiert:</p>
-<ol type="1">
-<li><strong>Wo zieht ihr die Grenze?</strong>
-<ul>
-<li>Was ist für euch akzeptabel?</li>
-<li>Was geht zu weit?</li>
-</ul></li>
-<li><strong>Welche Kriterien nutzt ihr?</strong>
-<ul>
-<li>Woran macht ihr fest, ob etwas verantwortungsvoll ist oder nicht?</li>
-</ul></li>
-<li><strong>Praktische Handlungsregeln</strong>
-<ul>
-<li>Welche konkreten “Dos and Don’ts” würdet ihr formulieren?</li>
-</ul></li>
-</ol>
-<p><strong>Notiert</strong> eure wichtigsten Erkenntnisse (für die Präsentation im Plenum).</p>
-</section>
-<section id="phase-3-plenum-synthese-8-min" class="level3">
-<h3 class="anchored" data-anchor-id="phase-3-plenum-synthese-8-min">Phase 3: Plenum – Synthese (8 Min)</h3>
-<p>Jede Gruppe teilt (jeweils 1-2 Min):</p>
-<ul>
-<li><strong>Eine zentrale Erkenntnis</strong> aus der Diskussion</li>
-<li><strong>Eine konkrete Handlungsregel</strong> für verantwortungsvollen KI-Einsatz</li>
-</ul>
-<p>Der/die Workshop-Leiter:in sammelt die Regeln und clustert sie (z.B. an Flipchart/Whiteboard).</p>
-</section>
+<p><strong>Diskussion im Plenum:</strong> - Spontane Wortmeldungen zu den Dilemmata - Workshop-Leiter:in moderiert und fasst Kernpunkte zusammen</p>
 </div>
 </div>
 </section>
-<section id="orientierungsrahmen-verantwortungsvoller-ki-einsatz-5-min" class="level2">
-<h2 class="anchored" data-anchor-id="orientierungsrahmen-verantwortungsvoller-ki-einsatz-5-min">Orientierungsrahmen: Verantwortungsvoller KI-Einsatz (5 Min)</h2>
-<p>Basierend auf den Diskussionen entwickelt sich oft ein gemeinsames Verständnis. Hier ein möglicher Orientierungsrahmen:</p>
+<section id="orientierungsrahmen-verantwortungsvoller-ki-einsatz-optional---als-handout" class="level2">
+<h2 class="anchored" data-anchor-id="orientierungsrahmen-verantwortungsvoller-ki-einsatz-optional---als-handout">Orientierungsrahmen: Verantwortungsvoller KI-Einsatz (Optional - als Handout)</h2>
+<p>Basierend auf den Diskussionen können folgende Prinzipien als Orientierung dienen:</p>
 <section id="transparenz-prinzip" class="level3">
 <h3 class="anchored" data-anchor-id="transparenz-prinzip">1. Transparenz-Prinzip</h3>
 <ul>
@@ -504,46 +464,6 @@ div.callout-pro-tip.callout-style-default .callout-icon::before, div.callout-pro
 <li><strong>Empathie und ethisches Urteil</strong> bleiben menschliche Aufgaben</li>
 </ul>
 </section>
-</section>
-<section id="reflexionsfragen-für-die-eigene-praxis" class="level2">
-<h2 class="anchored" data-anchor-id="reflexionsfragen-für-die-eigene-praxis">Reflexionsfragen für die eigene Praxis</h2>
-<div class="callout callout-style-default callout-reflect callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Reflect</span>Persönliche Reflexion (kann als Hausaufgabe dienen)
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Überlegt für euch:</p>
-<section id="euer-aktueller-ki-einsatz" class="level3">
-<h3 class="anchored" data-anchor-id="euer-aktueller-ki-einsatz">Euer aktueller KI-Einsatz</h3>
-<ul>
-<li><strong>Wo nutze ich KI bereits</strong> in meiner Lehr- oder Beratungspraxis?</li>
-<li><strong>Bin ich transparent</strong> darüber?</li>
-<li><strong>Welche Daten gebe ich weiter</strong> – bewusst oder unbewusst?</li>
-</ul>
-</section>
-<section id="eure-grenzen" class="level3">
-<h3 class="anchored" data-anchor-id="eure-grenzen">Eure Grenzen</h3>
-<ul>
-<li><strong>Was fühlt sich für mich richtig an</strong> beim KI-Einsatz?</li>
-<li><strong>Wo würde ich eine Grenze ziehen</strong> (“das würde ich nicht tun”)?</li>
-<li><strong>Warum</strong> ist diese Grenze für mich wichtig?</li>
-</ul>
-</section>
-<section id="nächste-schritte" class="level3">
-<h3 class="anchored" data-anchor-id="nächste-schritte">Nächste Schritte</h3>
-<ul>
-<li><strong>Was möchte ich ändern</strong> in meinem KI-Einsatz?</li>
-<li><strong>Welche Absicherung brauche ich</strong> (Richtlinien, Kolleg:innenaustausch, technische Lösungen)?</li>
-<li><strong>Wen kann ich fragen</strong>, wenn ich unsicher bin?</li>
-</ul>
-</section>
-</div>
-</div>
 </section>
 <section id="ressourcen-und-weiterführendes" class="level2">
 <h2 class="anchored" data-anchor-id="ressourcen-und-weiterführendes">Ressourcen und Weiterführendes</h2>
