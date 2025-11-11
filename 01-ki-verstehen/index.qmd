@@ -8,15 +8,15 @@ In diesem ersten Teil des Workshops (30 Min.) legen wir die Grundlagen für ein 
 
 Künstliche Intelligenz (KI) ist ein breiter Begriff für viele verschiedene Technologien. In diesem Workshop konzentrieren wir uns auf:
 
-- **Large Language Models (LLMs)** wie ChatGPT, Claude, Gemini
-- **Textbasierte Chatbots** für Lehre und Beratung
+- **Large Language Models (LLMs)** wie GPT-5, Claude Sonnet 4.5 (die zugrundeliegenden Modelle)
+- **Textbasierte Chatbots** wie ChatGPT, Claude.ai, Gemini (Produkte, die LLMs nutzen)
 - **AI Agents** (Programme, die LLMs nutzen, um Aufgaben zu erledigen)
 
 **Nicht Thema** in diesem Workshop sind: Bilderkennung, Empfehlungssysteme, autonome Systeme, Robotik und andere KI-Technologien.
 
----
 
-Wir beginnen mit einer klaren Einordnung, was **Sprachmodelle** sind und wie sie funktionieren – insbesondere die Large Language Models (LLMs), die hinter Chatbots wie ChatGPT stehen. Du lernst die Mechanismen der Textvorhersage kennen, verstehst die Stärken und Grenzen dieser Technologie und erhältst praktische Einblicke ins effektive Prompting.
+
+Wir beginnen mit einer klaren Einordnung, was **Sprachmodelle** sind und wie sie funktionieren. Du lernst die Mechanismen der Textvorhersage kennen, verstehst die Stärken und Grenzen dieser Technologie und erhältst praktische Einblicke ins effektive Prompting.
 
 Dieses Grundverständnis ist essentiell, um später informierte Entscheidungen über den sinnvollen Einsatz von **Chatbots** in Unterricht und Beratung treffen zu können. Der Fokus liegt dabei nicht auf technischen Details, sondern auf dem praxisrelevanten Verständnis: Was können Sprachmodelle leisten, was nicht, und was bedeutet das für deine Arbeit mit Studierenden und Lernenden?
 
