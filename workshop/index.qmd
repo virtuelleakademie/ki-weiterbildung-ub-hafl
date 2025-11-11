@@ -7,9 +7,9 @@ title: "Ablauf"
 | {{< bi clock-fill >}} Zeit | {{< bi collection-fill >}} Thema                                       | {{< bi hourglass-split >}} Dauer |
 |----------------------------|------------------------------------------------------------------------|----------------------------------|
 | **09:00 - 09:10**          | {{< bi collection-play >}} **Einstieg**                                |                                  |
-|                            | [Aktivierende Begrüssung](einstieg/index.qmd)                          | 10 min                           |
+|                            | [Begrüssung](einstieg/index.qmd)                          | 10 min                           |
 | **09:10 - 09:40**          | {{< bi collection-play >}} **Teil 1: KI verstehen**                    |                                  |
-|                            | [Grundlagen: KI & Agents](../01-ki-verstehen/index.qmd)                | 30 min                           |
+|                            | [Grundlagen: KI, Chatbots & Agents](../01-ki-verstehen/index.qmd)                | 30 min                           |
 | **09:40 - 09:55**          | {{< bi collection-play >}} **Teil 2: Lernen verstehen**                |                                  |
 |                            | [Wie Menschen lernen](../02-wie-menschen-lernen/index.qmd)             | 15 min                           |
 | **09:55 - 10:10**          | {{< bi cup-hot-fill >}} **Pause**                                      |                                  |
@@ -28,7 +28,7 @@ title: "Ablauf"
 
 Am Ende des Workshops können die Teilnehmer:
 
-1. **KI verstehen**: Grundlegende Funktionsweise und Grenzen von LLMs und Chatbots (ChatGPT, Claude, Copilot) erklären
+1. **KI verstehen**: Grundlegende Funktionsweise und Grenzen von LLMs und Chatbots erklären
 2. **KI im Unterricht einsetzen**: Sprachmodelle gezielt zur Planung, Gestaltung und Reflexion von Lehrsituationen nutzen
 3. **KI in der Beratung einsetzen**: Beratungsgespräche mit Chatbot-Unterstützung vorbereiten und reflektieren
 4. **Ethisch reflektieren**: Ethische, didaktische und psychologische Implikationen des Sprachmodell-Einsatzes kritisch diskutieren

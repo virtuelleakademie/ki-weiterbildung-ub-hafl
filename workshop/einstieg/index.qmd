@@ -1,5 +1,5 @@
 ---
-title: Aktivierender Einstieg
+title: Einstieg
 ---
 
 ## Kurze Vorstellungsrunde (5 Min)
@@ -15,7 +15,7 @@ title: Aktivierender Einstieg
 
 ### **Unser Ziel heute:**
 
-Ihr lernt, wie **Sprachmodelle und Chatbots** (wie ChatGPT, Claude, Copilot) euch in **Unterricht und Beratung** konkret unterstützen können – wissenschaftlich fundiert und verantwortungsvoll eingesetzt.
+Ihr lernt, wie **Sprachmodelle und Chatbots** (wie ChatGPT, Claude, Copilot) euch in **Unterricht und Beratung** konkret unterstützen können ---wissenschaftlich fundiert und verantwortungsvoll eingesetzt.
 
 ::: {.callout-note}
 ## Was meinen wir mit "KI" in diesem Workshop?
