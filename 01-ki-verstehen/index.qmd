@@ -30,7 +30,7 @@ Dieses Grundverständnis ist essentiell, um später informierte Entscheidungen �
 :::
 
 
-## {{< bi file-slides >}} Wie funktionieren Chatbots? (15 Min)
+## {{< bi file-slides >}} Wie funktionieren Chatbots? (20 Min)
 
 {{< revealjs file="../slides/was-sind-chatbots/index.html" height="500px" class="ratio ratio-16x9" >}}
 
@@ -57,13 +57,6 @@ Dieses Grundverständnis ist essentiell, um später informierte Entscheidungen �
 - Was sind die Implikationen für das Lernen eurer Studierenden?
 
 :::
-
-
-
-
-## {{< bi file-slides >}} Was sind Agents? (15 Min)
-
-{{< revealjs file="../slides/was-sind-agenten/index.html" height="500px" class="ratio ratio-16x9" >}}
 
 
 
