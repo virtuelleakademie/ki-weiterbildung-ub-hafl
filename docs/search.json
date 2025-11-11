@@ -721,14 +721,14 @@
     "href": "01-ki-verstehen/index.html#was-meinen-wir-mit-ki-in-diesem-workshop",
     "title": "KI verstehen",
     "section": "Was meinen wir mit “KI” in diesem Workshop?",
-    "text": "Was meinen wir mit “KI” in diesem Workshop?\nKünstliche Intelligenz (KI) ist ein breiter Begriff für viele verschiedene Technologien. In diesem Workshop konzentrieren wir uns auf:\n\nLarge Language Models (LLMs) wie ChatGPT, Claude, Gemini\nTextbasierte Chatbots für Lehre und Beratung\nAI Agents (Programme, die LLMs nutzen, um Aufgaben zu erledigen)\n\nNicht Thema in diesem Workshop sind: Bilderkennung, Empfehlungssysteme, autonome Systeme, Robotik und andere KI-Technologien.\n\nWir beginnen mit einer klaren Einordnung, was Sprachmodelle sind und wie sie funktionieren – insbesondere die Large Language Models (LLMs), die hinter Chatbots wie ChatGPT stehen. Du lernst die Mechanismen der Textvorhersage kennen, verstehst die Stärken und Grenzen dieser Technologie und erhältst praktische Einblicke ins effektive Prompting.\nDieses Grundverständnis ist essentiell, um später informierte Entscheidungen über den sinnvollen Einsatz von Chatbots in Unterricht und Beratung treffen zu können. Der Fokus liegt dabei nicht auf technischen Details, sondern auf dem praxisrelevanten Verständnis: Was können Sprachmodelle leisten, was nicht, und was bedeutet das für deine Arbeit mit Studierenden und Lernenden?"
+    "text": "Was meinen wir mit “KI” in diesem Workshop?\nKünstliche Intelligenz (KI) ist ein breiter Begriff für viele verschiedene Technologien. In diesem Workshop konzentrieren wir uns auf:\n\nLarge Language Models (LLMs) wie GPT-5, Claude Sonnet 4.5 (die zugrundeliegenden Modelle)\nTextbasierte Chatbots wie ChatGPT, Claude.ai, Gemini (Produkte, die LLMs nutzen)\nAI Agents (Programme, die LLMs nutzen, um Aufgaben zu erledigen)\n\nNicht Thema in diesem Workshop sind: Bilderkennung, Empfehlungssysteme, autonome Systeme, Robotik und andere KI-Technologien.\nWir beginnen mit einer klaren Einordnung, was Sprachmodelle sind und wie sie funktionieren. Du lernst die Mechanismen der Textvorhersage kennen, verstehst die Stärken und Grenzen dieser Technologie und erhältst praktische Einblicke ins effektive Prompting.\nDieses Grundverständnis ist essentiell, um später informierte Entscheidungen über den sinnvollen Einsatz von Chatbots in Unterricht und Beratung treffen zu können. Der Fokus liegt dabei nicht auf technischen Details, sondern auf dem praxisrelevanten Verständnis: Was können Sprachmodelle leisten, was nicht, und was bedeutet das für deine Arbeit mit Studierenden und Lernenden?"
   },
   {
     "objectID": "01-ki-verstehen/index.html#was-ist-künstliche-intelligenz-optional",
     "href": "01-ki-verstehen/index.html#was-ist-künstliche-intelligenz-optional",
     "title": "KI verstehen",
     "section": " Was ist Künstliche Intelligenz (Optional)",
-    "text": "Was ist Künstliche Intelligenz (Optional)\n\n\n\n\n\n\nNoteOptional: Überspringen oder bei Bedarf einbauen\n\n\n\n\n\n    View slides in full screen"
+    "text": "Was ist Künstliche Intelligenz (Optional)\n\n\n\n\n\n\nNoteOptional\n\n\n\n\n\n    View slides in full screen"
   },
   {
     "objectID": "01-ki-verstehen/index.html#wie-funktionieren-chatbots-15-min",
@@ -756,7 +756,7 @@
     "href": "01-ki-verstehen/index.html#prompting-tipps-5-min",
     "title": "KI verstehen",
     "section": " Prompting Tipps (5 Min)",
-    "text": "Prompting Tipps (5 Min)\n\n\n\n\n\n\nNoteSchneller Überblick – bei Bedarf vertiefen\n\n\n\n\n\n    View slides in full screen"
+    "text": "Prompting Tipps (5 Min)\n\n\n\n\n\n\nNoteSchneller Überblick\n\n\n\n\n\n    View slides in full screen"
   },
   {
     "objectID": "01-ki-verstehen/index.html#weiterführende-kurse",
@@ -1452,7 +1452,7 @@
     "href": "slides/was-ist-ki/index.html#symbolische-ki-maschinelles-lernen",
     "title": "Was ist Künstliche Intelligenz?",
     "section": "Symbolische KI / Maschinelles Lernen",
-    "text": "Symbolische KI / Maschinelles Lernen\n\n\nSymbolische KI:\n\nExplizite Regeln und Logik, programmiert von Menschen\nBasiert auf Wenn-Dann-Anweisungen und vordefiniertem Wissen\nFolgt klaren, erklärbaren Schritten\nGut für Probleme mit eindeutigen Regeln\nWeniger anpassungsfähig an neue Situationen\nKann schlecht mit Unsicherheit umgehen\n\n\nMachine Learning:\n\nLernt automatisch statistische Muster und Beziehungen aus Daten\nFunktioniert wie eine “Black Box” - Entscheidungen schwerer zu erklären\nKann sich durch Training an neue Situationen anpassen\nGut für komplexe Muster und unklare Regeln"
+    "text": "Symbolische KI / Maschinelles Lernen\n\n\nSymbolische KI:\n\nExplizite Regeln und Logik, programmiert von Menschen\nBasiert auf Wenn-Dann-Anweisungen und vordefiniertem Wissen\nFolgt klaren, erklärbaren Schritten\nGut für Probleme mit eindeutigen Regeln\nWeniger anpassungsfähig an neue Situationen\nKann schlecht mit Unsicherheit umgehen\n\n\nMachine Learning:\n\nLernt automatisch statistische Muster und Beziehungen aus Daten\nFunktioniert wie eine “Black Box”—Entscheidungen schwerer zu erklären\nKann sich durch Training an neue Situationen anpassen\nGut für komplexe Muster und unklare Regeln"
   },
   {
     "objectID": "slides/was-ist-ki/index.html#machine-learning",
@@ -1648,21 +1648,21 @@
     "href": "slides/was-sind-chatbots/index.html#extended-thinking-wenn-llms-nachdenken",
     "title": "Wie funktionieren Chatbots?",
     "section": "Extended Thinking: Wenn LLMs nachdenken",
-    "text": "Extended Thinking: Wenn LLMs nachdenken\nVon Reaktion zu Reasoning\n\n\nNeuere Modelle (OpenAI o1/o3, Claude Extended Thinking) können vor der Antwort “nachdenken”:\n\nProblem analysieren - Aufgabe in Teilschritte zerlegen\nOptionen durchdenken - Verschiedene Ansätze prüfen\nReasoning-Kette aufbauen - Schritte logisch verbinden\nAntwort generieren - Basierend auf Denkprozess\n\nVorteil: Bessere Antworten bei komplexen Aufgaben (Planung, Problemlösung, Mathematik)\nNachteil: Langsamer und teurer als Standard-Modus\n\nStandard-Modus\nFrage → Antwort\nSchnell, direkt\n\nThinking-Modus\nFrage → &lt;denkt nach…&gt; → Antwort\nLangsam, gründlich\n\n\n\n\nIn eurem Kontext: Thinking-Modus besonders nützlich für Lehrplanung, Fallanalysen, ethische Dilemmata."
+    "text": "Extended Thinking: Wenn LLMs nachdenken\nVon Textgenerierung zu Reasoning Neuere Modelle (o0/o3, GPT-5, Claude Opus/Sonnet/Haiku) können “nachdenken” bevor sie eine Antwort generieren:\n\nProblem analysieren: Aufgabe in Teilschritte zerlegen\nOptionen durchdenken:Verschiedene Ansätze prüfen\nReasoning-Kette aufbauen: Schritte logisch verbinden\nAntwort generieren: Basierend auf Thinkink-Output\n\nVorteil: Bessere Antworten bei komplexen Aufgaben (Planung, Problemlösung, Mathematik)\nNachteil: Langsamer und teurer als Standard-Modus\n\n\n\nStandard-Modus\nFrage → Antwort\nSchnell, direkt\n\nThinking-Modus\nFrage → &lt;denkt nach…&gt; → Antwort\nLangsam, gründlich"
   },
   {
     "objectID": "slides/was-sind-chatbots/index.html#der-paradigmenwechsel",
     "href": "slides/was-sind-chatbots/index.html#der-paradigmenwechsel",
     "title": "Wie funktionieren Chatbots?",
     "section": "Der Paradigmenwechsel",
-    "text": "Der Paradigmenwechsel\nVon reaktiven Tools zu proaktiven Partnern\n\n\nTraditional Chatbot\nBenutzer: “Plane eine Reise nach Paris”\nChatbot:\n\n“Hier sind 5 Hotels in Paris…”\n“Diese Flüge sind verfügbar…”\n“Sehenswürdigkeiten: Eiffelturm…”\nDu musst alles selbst buchen\n\n\nAI Agent\nBenutzer: “Plane eine Reise nach Paris”\nAgent:\n\nCheckt deinen Kalender\nBucht Flug und Hotel\nErstellt Reiseroute\nSendet Bestätigungen\nErledigt die komplette Aufgabe\n\n\n\n\n\nDer Unterschied: Ein Chatbot beantwortet die nächste Frage. Ein Agent arbeitet das Problem, bis der Job erledigt ist."
+    "text": "Der Paradigmenwechsel\n\n\nTraditional Chatbot\nBenutzer: “Plane eine Reise nach Paris”\nChatbot:\n\n“Hier sind 5 Hotels in Paris…”\n“Diese Flüge sind verfügbar…”\n“Sehenswürdigkeiten: Eiffelturm…”\nDu musst alles selbst buchen\n\n\nAI Agent\nBenutzer: “Plane eine Reise nach Paris”\nAgent:\n\nCheckt deinen Kalender\nBucht Flug und Hotel\nErstellt Reiseroute\nSendet Bestätigungen\nErledigt die komplette Aufgabe\n\n\n\n\n\nDer Unterschied: Ein Chatbot kann eine Frage beantworten. Ein Agent bearbeitet das Problem, bis der Job erledigt ist."
   },
   {
     "objectID": "slides/was-sind-chatbots/index.html#was-sind-ai-agents",
     "href": "slides/was-sind-chatbots/index.html#was-sind-ai-agents",
     "title": "Wie funktionieren Chatbots?",
     "section": "Was sind AI Agents?",
-    "text": "Was sind AI Agents?\nLLM + Gedächtnis + Werkzeuge + Entscheidungsschleife\n\n\nDie Grundformel\nLLM-basierte Agenten =\n\nLLM (GPT-5, Claude, …) für Reasoning\n+ Gedächtnis (Kurz- & Langzeit)\n+ Werkzeuge (APIs, Datenbanken, Code)\n+ Entscheidungsschleife (kontinuierlich)\n\n\nDer Agent-Zyklus\n\nWahrnehmung - Input/Umgebung\nPlanung - LLM überlegt Schritte\nHandlung - Tools/APIs verwenden\nFeedback - Ergebnisse bewerten\n\n\n\n\n\nAgents verwandeln passive Sprachmodelle in aktive, handelnde Systeme durch kontinuierliche Wahrnehmung-Planung-Handlung-Zyklen."
+    "text": "Was sind AI Agents?\nLLM + Gedächtnis + Werkzeuge + Entscheidungsschleife\n\n\nLLM-basierte Agenten =\n\nLLM (GPT-5, Claude, …) für Reasoning\n+ Gedächtnis\n+ Werkzeuge (Tools) (APIs, Datenbanken, Code)\n+ Entscheidungsschleife (kontinuierlich)\n\n\nDer Agent-Zyklus\n\nWahrnehmung: Input/Umgebung\nPlanung: LLM überlegt Schritte\nHandlung: Tools/APIs verwenden\nFeedback: Ergebnisse bewerten"
   },
   {
     "objectID": "slides/was-sind-chatbots/index.html#von-chatbot-zu-agent-unterschiedie",

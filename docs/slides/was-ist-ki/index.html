@@ -139,15 +139,15 @@
     }
   </style>
   <style>
-  div.callout-active-processing.callout {
-    border-left-color: #9A4665;
+  div.callout-pair.callout {
+    border-left-color: forestgreen;
   }
-  div.callout-active-processing.callout-style-default > .callout-header {
-    background-color: rgba(154, 70, 101, 0.13);
+  div.callout-pair.callout-style-default > .callout-header {
+    background-color: rgb(from forestgreen r g b / 13%);
   }
-  div.callout-active-processing .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-  div.callout-active-processing.callout-style-default .callout-icon::before, div.callout-active-processing.callout-titled .callout-icon::before {
-    content: '📝';
+  div.callout-pair .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+  div.callout-pair.callout-style-default .callout-icon::before, div.callout-pair.callout-titled .callout-icon::before {
+    content: '👥';
     background-image: none;
   }
   div.callout-agent-potential.callout {
@@ -161,15 +161,15 @@
     content: '🤖';
     background-image: none;
   }
-  div.callout-pair.callout {
-    border-left-color: forestgreen;
+  div.callout-individual.callout {
+    border-left-color: steelblue;
   }
-  div.callout-pair.callout-style-default > .callout-header {
-    background-color: rgb(from forestgreen r g b / 13%);
+  div.callout-individual.callout-style-default > .callout-header {
+    background-color: rgb(from steelblue r g b / 13%);
   }
-  div.callout-pair .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-  div.callout-pair.callout-style-default .callout-icon::before, div.callout-pair.callout-titled .callout-icon::before {
-    content: '👥';
+  div.callout-individual .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+  div.callout-individual.callout-style-default .callout-icon::before, div.callout-individual.callout-titled .callout-icon::before {
+    content: '💻';
     background-image: none;
   }
   div.callout-group.callout {
@@ -183,6 +183,17 @@
     content: '👥';
     background-image: none;
   }
+  div.callout-active-processing.callout {
+    border-left-color: #9A4665;
+  }
+  div.callout-active-processing.callout-style-default > .callout-header {
+    background-color: rgba(154, 70, 101, 0.13);
+  }
+  div.callout-active-processing .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+  div.callout-active-processing.callout-style-default .callout-icon::before, div.callout-active-processing.callout-titled .callout-icon::before {
+    content: '📝';
+    background-image: none;
+  }
   div.callout-pro-tip.callout {
     border-left-color: gold;
   }
@@ -192,17 +203,6 @@
   div.callout-pro-tip .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
   div.callout-pro-tip.callout-style-default .callout-icon::before, div.callout-pro-tip.callout-titled .callout-icon::before {
     content: '💡';
-    background-image: none;
-  }
-  div.callout-individual.callout {
-    border-left-color: steelblue;
-  }
-  div.callout-individual.callout-style-default > .callout-header {
-    background-color: rgb(from steelblue r g b / 13%);
-  }
-  div.callout-individual .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-  div.callout-individual.callout-style-default .callout-icon::before, div.callout-individual.callout-titled .callout-icon::before {
-    content: '💻';
     background-image: none;
   }
   div.callout-reflect.callout {
@@ -235,46 +235,7 @@ Andrew Ellis
 </div>
 </div>
 
-  <p class="date">19 September, 2025</p>
-</section>
-<section id="erster-schritt-eigene-ki-kompetenz-entwickeln" class="slide level2">
-<h2>Erster Schritt: Eigene KI-Kompetenz entwickeln</h2>
-<div class="columns">
-<div class="column" style="width:60%;">
-<h3 id="warum-du-beginnen-solltest">Warum du beginnen solltest</h3>
-<p><img data-src="../../assets/images/funf-schritte-model.png"></p>
-<p><a href="https://barbarageyer.substack.com/p/ki-integration">Blog Post: KI integrieren</a></p>
-</div><div class="column" style="width:40%;">
-
-</div></div>
-<div class="attribution">
-<p>Grafik von <a href="https://barbarageyer.substack.com/p/ki-integration">Barbara Geyer</a></p>
-</div>
-</section>
-<section id="erster-schritt-eigene-ki-kompetenz-entwickeln-1" class="slide level2">
-<h2>Erster Schritt: Eigene KI-Kompetenz entwickeln</h2>
-<div class="columns">
-<div class="column" style="width:60%;">
-<h3 id="warum-du-beginnen-solltest-1">Warum du beginnen solltest</h3>
-<p><img data-src="../../assets/images/funf-schritte-model.png"></p>
-<p><a href="https://barbarageyer.substack.com/p/ki-integration">Blog Post: KI integrieren</a></p>
-</div><div class="column" style="width:40%;">
-<p><strong>Kommerzielle Tools</strong></p>
-<ul>
-<li><a href="https://chatgpt.com/">ChatGPT</a></li>
-<li><a href="https://claude.ai/">Claude</a></li>
-<li><a href="https://copilot.microsoft.com/">Copilot</a></li>
-<li><a href="https://gemini.google.com/">Gemini</a></li>
-</ul>
-<p><strong>Lokale Sprachmodelle</strong></p>
-<ul>
-<li><a href="https://lmstudio.ai/">LM Studio</a></li>
-<li><a href="https://ollama.com/">Ollama</a></li>
-</ul>
-</div></div>
-<div class="attribution">
-<p>Grafik von <a href="https://barbarageyer.substack.com/p/ki-integration">Barbara Geyer</a></p>
-</div>
+  <p class="date">12 November, 2025</p>
 </section>
 <section id="was-is-ki" class="slide level2">
 <h2>Was is KI?</h2>
@@ -302,7 +263,7 @@ Andrew Ellis
 <p><strong>Machine Learning:</strong></p>
 <ul>
 <li>Lernt automatisch statistische Muster und Beziehungen aus Daten</li>
-<li>Funktioniert wie eine “Black Box” - Entscheidungen schwerer zu erklären</li>
+<li>Funktioniert wie eine “Black Box”—Entscheidungen schwerer zu erklären</li>
 <li>Kann sich durch Training an neue Situationen anpassen</li>
 <li>Gut für komplexe Muster und unklare Regeln</li>
 </ul>

@@ -139,6 +139,17 @@
     }
   </style>
   <style>
+  div.callout-pair.callout {
+    border-left-color: forestgreen;
+  }
+  div.callout-pair.callout-style-default > .callout-header {
+    background-color: rgb(from forestgreen r g b / 13%);
+  }
+  div.callout-pair .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+  div.callout-pair.callout-style-default .callout-icon::before, div.callout-pair.callout-titled .callout-icon::before {
+    content: '👥';
+    background-image: none;
+  }
   div.callout-agent-potential.callout {
     border-left-color: #9A4665;
   }
@@ -148,17 +159,6 @@
   div.callout-agent-potential .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
   div.callout-agent-potential.callout-style-default .callout-icon::before, div.callout-agent-potential.callout-titled .callout-icon::before {
     content: '🤖';
-    background-image: none;
-  }
-  div.callout-individual.callout {
-    border-left-color: steelblue;
-  }
-  div.callout-individual.callout-style-default > .callout-header {
-    background-color: rgb(from steelblue r g b / 13%);
-  }
-  div.callout-individual .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-  div.callout-individual.callout-style-default .callout-icon::before, div.callout-individual.callout-titled .callout-icon::before {
-    content: '💻';
     background-image: none;
   }
   div.callout-reflect.callout {
@@ -172,26 +172,15 @@
     content: '💭';
     background-image: none;
   }
-  div.callout-pair.callout {
-    border-left-color: forestgreen;
+  div.callout-individual.callout {
+    border-left-color: steelblue;
   }
-  div.callout-pair.callout-style-default > .callout-header {
-    background-color: rgb(from forestgreen r g b / 13%);
+  div.callout-individual.callout-style-default > .callout-header {
+    background-color: rgb(from steelblue r g b / 13%);
   }
-  div.callout-pair .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-  div.callout-pair.callout-style-default .callout-icon::before, div.callout-pair.callout-titled .callout-icon::before {
-    content: '👥';
-    background-image: none;
-  }
-  div.callout-group.callout {
-    border-left-color: purple;
-  }
-  div.callout-group.callout-style-default > .callout-header {
-    background-color: rgb(from purple r g b / 13%);
-  }
-  div.callout-group .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-  div.callout-group.callout-style-default .callout-icon::before, div.callout-group.callout-titled .callout-icon::before {
-    content: '👥';
+  div.callout-individual .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+  div.callout-individual.callout-style-default .callout-icon::before, div.callout-individual.callout-titled .callout-icon::before {
+    content: '💻';
     background-image: none;
   }
   div.callout-pro-tip.callout {
@@ -216,6 +205,17 @@
     content: '📝';
     background-image: none;
   }
+  div.callout-group.callout {
+    border-left-color: purple;
+  }
+  div.callout-group.callout-style-default > .callout-header {
+    background-color: rgb(from purple r g b / 13%);
+  }
+  div.callout-group .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+  div.callout-group.callout-style-default .callout-icon::before, div.callout-group.callout-titled .callout-icon::before {
+    content: '👥';
+    background-image: none;
+  }
   </style>
 <meta property="og:title" content="Wie funktionieren Chatbots? – KI-Weiterbildung UB">
 <meta property="og:site_name" content="KI-Weiterbildung UB">
@@ -235,7 +235,7 @@ Andrew Ellis
 </div>
 </div>
 
-  <p class="date">19 September, 2025</p>
+  <p class="date">12 November, 2025</p>
 </section>
 <section id="was-sind-chatbots" class="slide level2">
 <h2>Was sind Chatbots?</h2>
@@ -355,34 +355,26 @@ Ein LLM wird in drei Schritten aufgebaut:
 <img data-src="../../assets/images/llm-training.png" class="r-stretch"></section>
 <section id="extended-thinking-wenn-llms-nachdenken" class="slide level2 smaller">
 <h2>Extended Thinking: Wenn LLMs nachdenken</h2>
-<p><strong>Von Reaktion zu Reasoning</strong></p>
-<div class="columns">
-<div class="column" style="width:60%;">
-<p>Neuere Modelle (OpenAI o1/o3, Claude Extended Thinking) können vor der Antwort “nachdenken”:</p>
+<p><strong>Von Textgenerierung zu Reasoning</strong> Neuere Modelle (o0/o3, GPT-5, Claude Opus/Sonnet/Haiku) können “nachdenken” bevor sie eine Antwort generieren:</p>
 <ol type="1">
-<li><strong>Problem analysieren</strong> - Aufgabe in Teilschritte zerlegen</li>
-<li><strong>Optionen durchdenken</strong> - Verschiedene Ansätze prüfen</li>
-<li><strong>Reasoning-Kette aufbauen</strong> - Schritte logisch verbinden</li>
-<li><strong>Antwort generieren</strong> - Basierend auf Denkprozess</li>
+<li><strong>Problem analysieren</strong>: Aufgabe in Teilschritte zerlegen</li>
+<li><strong>Optionen durchdenken</strong>:Verschiedene Ansätze prüfen</li>
+<li><strong>Reasoning-Kette aufbauen</strong>: Schritte logisch verbinden</li>
+<li><strong>Antwort generieren</strong>: Basierend auf Thinkink-Output</li>
 </ol>
 <p><strong>Vorteil:</strong> Bessere Antworten bei komplexen Aufgaben (Planung, Problemlösung, Mathematik)</p>
 <p><strong>Nachteil:</strong> Langsamer und teurer als Standard-Modus</p>
-</div><div class="column" style="width:40%;">
+<p><br></p>
+<div class="columns">
+<div class="column" style="width:50%;">
 <h3 id="standard-modus">Standard-Modus</h3>
 <p><strong>Frage</strong> → <strong>Antwort</strong></p>
 <p><em>Schnell, direkt</em></p>
-<p><br></p>
+</div><div class="column" style="width:50%;">
 <h3 id="thinking-modus">Thinking-Modus</h3>
 <p><strong>Frage</strong> → <strong>&lt;denkt nach…&gt;</strong> → <strong>Antwort</strong></p>
 <p><em>Langsam, gründlich</em></p>
 </div></div>
-<div class="callout callout-note no-icon callout-style-simple">
-<div class="callout-body">
-<div class="callout-content">
-<p><strong>In eurem Kontext:</strong> Thinking-Modus besonders nützlich für Lehrplanung, Fallanalysen, ethische Dilemmata.</p>
-</div>
-</div>
-</div>
 </section>
 <section id="gefahren-und-herausforderungen" class="slide level2">
 <h2>Gefahren und Herausforderungen</h2>
@@ -450,7 +442,6 @@ Ein LLM wird in drei Schritten aufgebaut:
 <img data-src="../../assets/images/gpts.png" class="r-stretch"></section>
 <section id="der-paradigmenwechsel" class="slide level2 smaller">
 <h2>Der Paradigmenwechsel</h2>
-<p><strong>Von reaktiven Tools zu proaktiven Partnern</strong></p>
 <div class="columns">
 <div class="column" style="width:50%;">
 <h3 id="traditional-chatbot">Traditional Chatbot</h3>
@@ -477,7 +468,7 @@ Ein LLM wird in drei Schritten aufgebaut:
 <div class="callout callout-important no-icon callout-style-simple">
 <div class="callout-body">
 <div class="callout-content">
-<p><strong>Der Unterschied</strong>: Ein Chatbot beantwortet die nächste Frage. Ein Agent arbeitet das Problem, bis der Job erledigt ist.</p>
+<p><strong>Der Unterschied</strong>: Ein Chatbot kann eine Frage beantworten. Ein Agent bearbeitet das Problem, bis der Job erledigt ist.</p>
 </div>
 </div>
 </div>
@@ -487,30 +478,22 @@ Ein LLM wird in drei Schritten aufgebaut:
 <p><strong>LLM + Gedächtnis + Werkzeuge + Entscheidungsschleife</strong></p>
 <div class="columns">
 <div class="column" style="width:50%;">
-<h3 id="die-grundformel">Die Grundformel</h3>
 <p><strong>LLM-basierte Agenten</strong> =</p>
 <ul>
 <li><strong>LLM</strong> (GPT-5, Claude, …) für Reasoning</li>
-<li><strong>+ Gedächtnis</strong> (Kurz- &amp; Langzeit)</li>
-<li><strong>+ Werkzeuge</strong> (APIs, Datenbanken, Code)</li>
+<li><strong>+ Gedächtnis</strong></li>
+<li><strong>+ Werkzeuge (Tools)</strong> (APIs, Datenbanken, Code)</li>
 <li><strong>+ Entscheidungsschleife</strong> (kontinuierlich)</li>
 </ul>
 </div><div class="column" style="width:50%;">
 <h3 id="der-agent-zyklus">Der Agent-Zyklus</h3>
 <ol type="1">
-<li><strong>Wahrnehmung</strong> - Input/Umgebung</li>
-<li><strong>Planung</strong> - LLM überlegt Schritte</li>
-<li><strong>Handlung</strong> - Tools/APIs verwenden</li>
-<li><strong>Feedback</strong> - Ergebnisse bewerten</li>
+<li><strong>Wahrnehmung</strong>: Input/Umgebung</li>
+<li><strong>Planung</strong>: LLM überlegt Schritte</li>
+<li><strong>Handlung</strong>: Tools/APIs verwenden</li>
+<li><strong>Feedback</strong>: Ergebnisse bewerten</li>
 </ol>
 </div></div>
-<div class="callout callout-tip no-icon callout-style-simple">
-<div class="callout-body">
-<div class="callout-content">
-<p>Agents verwandeln passive Sprachmodelle in aktive, handelnde Systeme durch kontinuierliche Wahrnehmung-Planung-Handlung-Zyklen.</p>
-</div>
-</div>
-</div>
 </section>
 <section id="von-chatbot-zu-agent-unterschiedie" class="slide level2 smaller">
 <h2>Von Chatbot zu Agent: Unterschiedie</h2>
