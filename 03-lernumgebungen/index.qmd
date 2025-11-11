@@ -2,40 +2,44 @@
 title: "KI im Unterricht"
 ---
 
-## KI-gestützte Lehrplanung (50 Min)
+## Chatbot-gestützte Lehrplanung (50 Min)
 
-Wie kann KI konkret den Unterricht unterstützen, ohne die notwendige kognitive Anstrengung der Lernenden zu umgehen?
+Wie können Sprachmodelle konkret den Unterricht unterstützen, ohne die notwendige kognitive Anstrengung der Lernenden zu umgehen?
 
 
-## KI-Anwendungen im Unterricht (10 Min)
+## Anwendungen von Chatbots im Unterricht (10 Min)
 
-KI kann Lehrende in verschiedenen Phasen unterstützen:
+Sprachmodelle können Lehrende in verschiedenen Phasen unterstützen:
 
 ### 1. Planung & Vorbereitung
-- **Lernzielanalyse**: KI hilft, Lernziele zu konkretisieren und zu strukturieren
+
+- **Lernzielanalyse**: Chatbots helfen, Lernziele zu konkretisieren und zu strukturieren
 - **Methodenauswahl**: Vorschläge für passende didaktische Ansätze
 - **Aufgabenentwicklung**: Erstellung von Übungen und Prüfungsfragen
 
 ### 2. Materialerstellung
+
 - **Arbeitsblätter**: Generierung von strukturierten Übungsmaterialien
 - **Beispiele**: Entwicklung von Fallstudien und Anwendungsbeispielen
 - **Differenzierung**: Anpassung von Materialien für verschiedene Lernniveaus
 
 ### 3. Reflexion & Verbesserung
-- **KI als Reflexionspartner**: Feedback zu Unterrichtsplanung
+
+- **Chatbot als Reflexionspartner**: Feedback zu Unterrichtsplanung
 - **Kritische Begleitung**: Alternative Perspektiven auf didaktische Entscheidungen
 
 ::: {.callout-warning}
 ## Wichtig: Die Lernparadox-Falle
+
 Denkt an Teil 2: **Produktivität ≠ Lernen**
 
-- KI kann **Lehrende** produktiver machen (Planung, Materialien)
-- KI sollte **Lernende** nicht von kognitiver Anstrengung entlasten
+- Sprachmodelle können **Lehrende** produktiver machen (Planung, Materialien)
+- Sprachmodelle sollten **Lernende** nicht von kognitiver Anstrengung entlasten
 - Die 8 Make-it-Stick-Strategien bleiben zentral: [Strategien im Detail](./handout-make-it-stick/)
 :::
 
 
-## Gruppenarbeit: Unterrichtseinheit mit KI planen (30 Min)
+## Gruppenarbeit: Unterrichtseinheit mit Chatbot planen (30 Min)
 
 ::: {.group}
 ## Ablauf der Gruppenarbeit
@@ -44,7 +48,7 @@ Denkt an Teil 2: **Produktivität ≠ Lernen**
 
 ### Phase 1: Thema wählen & Planung starten (15 Min)
 
-**Aufgabe**: Wählt ein Unterrichtsthema aus eurem eigenen Lehrkontext und plant gemeinsam eine Unterrichtseinheit mit KI-Unterstützung.
+**Aufgabe**: Wählt ein Unterrichtsthema aus eurem eigenen Lehrkontext und plant gemeinsam eine Unterrichtseinheit mit Chatbot-Unterstützung.
 
 **Schritt für Schritt:**
 
@@ -53,24 +57,24 @@ Denkt an Teil 2: **Produktivität ≠ Lernen**
    - Definiert die Zielgruppe (z.B. Studierende im 2. Semester)
    - Legt grobe Lernziele fest
 
-2. **KI zur Lernzielanalyse nutzen** (5 Min)
+2. **Chatbot zur Lernzielanalyse nutzen** (5 Min)
    - Nutzt ChatGPT/Claude, um eure Lernziele zu konkretisieren
    - Fragt nach: "Wie kann ich diese Lernziele messbarer formulieren?"
    - Lasst euch Taxonomiestufen (Bloom) vorschlagen
 
-3. **Methodenauswahl mit KI** (8 Min)
-   - Fragt die KI nach didaktischen Methoden für euer Thema
+3. **Methodenauswahl mit Chatbot** (8 Min)
+   - Fragt den Chatbot nach didaktischen Methoden für euer Thema
    - **Wichtig**: Filtert kritisch: Welche Methoden fördern produktive Anstrengung?
    - Wählt 2-3 Methoden aus, die ihr vertiefen wollt
 
-**Tools**: ChatGPT, Claude, oder andere verfügbare KI-Tools
+**Tools**: ChatGPT, Claude, oder andere verfügbare Chatbots
 
 ### Phase 2: Aufgabenentwicklung (10 Min)
 
-**Aufgabe**: Entwickelt mit KI konkrete Lernaufgaben für eure Unterrichtseinheit.
+**Aufgabe**: Entwickelt mit dem Chatbot konkrete Lernaufgaben für eure Unterrichtseinheit.
 
 1. **Aufgaben generieren** (5 Min)
-   - Lasst die KI Übungsaufgaben zu eurem Thema erstellen
+   - Lasst den Chatbot Übungsaufgaben zu eurem Thema erstellen
    - Variiert Schwierigkeitsgrade
    - Fragt nach Aufgaben, die kognitive Anstrengung erfordern
 
@@ -84,7 +88,7 @@ Denkt an Teil 2: **Produktivität ≠ Lernen**
 Bereitet eine 2-minütige Präsentation vor:
 
 - **Was** habt ihr geplant? (30 Sek)
-- **Wie** hat KI euch unterstützt? (30 Sek)
+- **Wie** hat der Chatbot euch unterstützt? (30 Sek)
 - **Eine Erkenntnis**: Was hat überrascht? Wo waren Grenzen? (1 Min)
 :::
 
@@ -103,14 +107,14 @@ Bereitet eine 2-minütige Präsentation vor:
 
 ### Gemeinsame Muster
 
-- Welche KI-Unterstützung war besonders hilfreich?
-- Wo stiess die KI an Grenzen?
+- Welche Chatbot-Unterstützung war besonders hilfreich?
+- Wo stiessen die Sprachmodelle an Grenzen?
 - Welche Prompting-Strategien haben gut funktioniert?
 
 ### Kritische Reflexion
 
-- Wo besteht die Gefahr, dass KI die kognitive Anstrengung der Lernenden reduziert?
-- Wie können wir sicherstellen, dass KI uns als Lehrende unterstützt, ohne das Lernen zu behindern?
+- Wo besteht die Gefahr, dass Chatbots die kognitive Anstrengung der Lernenden reduzieren?
+- Wie können wir sicherstellen, dass Sprachmodelle uns als Lehrende unterstützen, ohne das Lernen zu behindern?
 :::
 
 

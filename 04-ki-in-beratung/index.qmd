@@ -2,36 +2,37 @@
 title: "KI in der Beratung"
 ---
 
-## Beratungsgespräche mit KI unterstützen (30 Min)
+## Beratungsgespräche mit Chatbots unterstützen (30 Min)
 
-Wie kann KI in Beratungskontexten sinnvoll eingesetzt werden, ohne die menschliche Beziehung und professionelle Verantwortung zu untergraben?
+Wie können Sprachmodelle in Beratungskontexten sinnvoll eingesetzt werden, ohne die menschliche Beziehung und professionelle Verantwortung zu untergraben?
 
 
-## KI-Anwendungen in der Beratung (5 Min)
+## Anwendungen von Chatbots in der Beratung (5 Min)
 
-KI kann Beratende in verschiedenen Phasen unterstützen:
+Sprachmodelle können Beratende in verschiedenen Phasen unterstützen:
 
 ### 1. Vorbereitung von Beratungsgesprächen
 
-- **Strukturierung**: KI hilft, Gesprächsleitfäden zu entwickeln
+- **Strukturierung**: Chatbots helfen, Gesprächsleitfäden zu entwickeln
 - **Perspektivenwechsel**: Alternative Sichtweisen auf Beratungssituationen
 - **Ressourcen**: Zusammenstellung relevanter Informationen und Materialien
 
 ### 2. Simulation und Rollenspiele
 
-- **Übungsgespräche**: KI nimmt verschiedene Rollen ein (z.B. ratsuchende Person, kritischer Gesprächspartner)
+- **Übungsgespräche**: Chatbots nehmen verschiedene Rollen ein (z.B. ratsuchende Person, kritischer Gesprächspartner)
 - **Gesprächstechniken**: Üben von aktiver Zuhören, Fragetechniken, lösungsorientiertem Vorgehen
 - **Sichere Umgebung**: Fehler machen und lernen ohne reale Konsequenzen
 
 ### 3. Reflexion und Nachbereitung
 
-- **Gesprächsanalyse**: KI als Reflexionspartner nach Beratungsgesprächen
+- **Gesprächsanalyse**: Chatbot als Reflexionspartner nach Beratungsgesprächen
 - **Dokumentation**: Unterstützung beim Erfassen wichtiger Gesprächspunkte
 - **Weiterentwicklung**: Identifikation von Mustern und Entwicklungsfeldern
 
 ::: {.callout-warning}
 ## Kritische Grenzen
-**Was KI NICHT kann und soll:**
+
+**Was Chatbots NICHT können und sollen:**
 
 - Echte menschliche Beziehung und Empathie ersetzen
 - Vertrauliche Informationen von Klient:innen verarbeiten (Datenschutz!)
@@ -40,7 +41,7 @@ KI kann Beratende in verschiedenen Phasen unterstützen:
 :::
 
 
-## Gruppenarbeit: Beratungssimulation mit KI (20 Min)
+## Gruppenarbeit: Beratungssimulation mit Chatbot (20 Min)
 
 ::: {.group}
 ## Simulation von Beratungssituationen
@@ -74,14 +75,14 @@ KI kann Beratende in verschiedenen Phasen unterstützen:
 
 **Berater:in:**
 
-- Gibt der KI (ChatGPT/Claude) die Rolle aus dem Szenario
+- Gibt dem Chatbot (ChatGPT/Claude) die Rolle aus dem Szenario
 - Führt das Beratungsgespräch (ca. 8-10 Min)
 - Versucht professionelle Gesprächstechniken anzuwenden
 
 **Beobachter:innen:**
 
 - Machen sich Notizen zu ihrem Beobachtungsfokus
-- Achten auch auf: Wo wirkt die KI realistisch? Wo nicht?
+- Achten auch auf: Wo wirkt der Chatbot realistisch? Wo nicht?
 
 **Schritt 4: Reflexion in der Gruppe (5 Min)**
 
@@ -91,16 +92,16 @@ Austausch im Gruppe:
 
 2. **Beobachter:innen geben Feedback** (3 Min):
    - Was hat gut funktioniert?
-   - Wo waren die Grenzen der KI spürbar?
+   - Wo waren die Grenzen des Chatbots spürbar?
    - Welche Gesprächstechniken haben gut/nicht gut funktioniert?
 
 3. **Gemeinsame Einschätzung** (1 Min):
    - Wo könnte dieses Übungsformat hilfreich sein?
-   - Was müsste man beachten beim Üben mit KI?
+   - Was müsste man beachten beim Üben mit Chatbots?
 :::
 
 
-## Reflexion: KI in der Beratungspraxis (10 Min)
+## Reflexion: Chatbots in der Beratungspraxis (10 Min)
 
 ::: {.group}
 ## Plenum-Diskussion
@@ -108,12 +109,12 @@ Austausch im Gruppe:
 ### Erfahrungen aus der Simulation
 
 - **Was hat gut funktioniert?** Welche Aspekte der Simulation waren realistisch?
-- **Was fehlte?** Wo wurde die Künstlichkeit der KI spürbar?
+- **Was fehlte?** Wo wurde die Künstlichkeit des Chatbots spürbar?
 - **Überraschungen?** Gab es unerwartete Wendungen im Gespräch?
 
 ### Übertragung in die Praxis
 
-- **Wo sinnvoll?** In welchen Beratungssituationen könnte KI-gestütztes Üben helfen?
+- **Wo sinnvoll?** In welchen Beratungssituationen könnte chatbot-gestütztes Üben helfen?
   - Vorbereitung auf schwierige Gespräche?
   - Training neuer Gesprächstechniken?
   - Reflexion eigener Kommunikationsmuster?
@@ -121,7 +122,7 @@ Austausch im Gruppe:
 - **Wo problematisch?** Welche Risiken und Grenzen seht ihr?
   - Datenschutz bei echten Fällen?
   - Vereinfachung komplexer menschlicher Dynamiken?
-  - Abhängigkeit von KI-Vorschlägen?
+  - Abhängigkeit von Chatbot-Vorschlägen?
 
 ### Ethische Fragen
 
@@ -143,5 +144,6 @@ Austausch im Gruppe:
 
 ::: {.callout-tip}
 ## Praxis-Tipp
-Für den Einstieg: Beginnt mit fiktiven Szenarien, die KEINE echten Klient:innen-Daten enthalten. Nutzt KI nur für Übung und Reflexion, nicht für die Verarbeitung vertraulicher Informationen.
+
+Für den Einstieg: Beginnt mit fiktiven Szenarien, die KEINE echten Klient:innen-Daten enthalten. Nutzt Chatbots nur für Übung und Reflexion, nicht für die Verarbeitung vertraulicher Informationen.
 :::

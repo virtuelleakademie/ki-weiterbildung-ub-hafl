@@ -28,8 +28,8 @@ title: "Ablauf"
 
 Am Ende des Workshops können die Teilnehmer:
 
-1. **KI verstehen**: Grundlegende Funktionsweise und Grenzen von KI-Tools (ChatGPT, Claude, Copilot) erklären
-2. **KI im Unterricht einsetzen**: KI gezielt zur Planung, Gestaltung und Reflexion von Lehrsituationen nutzen
-3. **KI in der Beratung einsetzen**: Beratungsgespräche mit KI-Unterstützung vorbereiten und reflektieren
-4. **Ethisch reflektieren**: Ethische, didaktische und psychologische Implikationen des KI-Einsatzes kritisch diskutieren
+1. **KI verstehen**: Grundlegende Funktionsweise und Grenzen von LLMs und Chatbots (ChatGPT, Claude, Copilot) erklären
+2. **KI im Unterricht einsetzen**: Sprachmodelle gezielt zur Planung, Gestaltung und Reflexion von Lehrsituationen nutzen
+3. **KI in der Beratung einsetzen**: Beratungsgespräche mit Chatbot-Unterstützung vorbereiten und reflektieren
+4. **Ethisch reflektieren**: Ethische, didaktische und psychologische Implikationen des Sprachmodell-Einsatzes kritisch diskutieren
 5. **Transfer leisten**: Konkrete Anwendungsideen für den eigenen Unterrichts- oder Beratungskontext entwickeln

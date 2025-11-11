@@ -43,9 +43,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-4fcfe6d66dc41868357ea95dec6ef5ad.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-dark-4fcfe6d66dc41868357ea95dec6ef5ad.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-4fcfe6d66dc41868357ea95dec6ef5ad.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-a32d07710c42eac0f676ec5e7ee923a4.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-a32d07710c42eac0f676ec5e7ee923a4.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-a32d07710c42eac0f676ec5e7ee923a4.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script src="../site_libs/quarto-contrib/quarto-timer-1.0.0/timer.js"></script>
 <link href="../site_libs/quarto-contrib/quarto-timer-1.0.0/timer.css" rel="stylesheet">
 <link href="../site_libs/quarto-contrib/bootstrap-icons-1.11.1/all.css" rel="stylesheet">
@@ -88,6 +88,39 @@ ul.task-list li input[type="checkbox"] {
   });
 </script>
 <style>
+div.callout-pro-tip.callout {
+  border-left-color: gold;
+}
+div.callout-pro-tip.callout-style-default > .callout-header {
+  background-color: rgb(from gold r g b / 13%);
+}
+div.callout-pro-tip .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-pro-tip.callout-style-default .callout-icon::before, div.callout-pro-tip.callout-titled .callout-icon::before {
+  content: '💡';
+  background-image: none;
+}
+div.callout-group.callout {
+  border-left-color: purple;
+}
+div.callout-group.callout-style-default > .callout-header {
+  background-color: rgb(from purple r g b / 13%);
+}
+div.callout-group .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-group.callout-style-default .callout-icon::before, div.callout-group.callout-titled .callout-icon::before {
+  content: '👥';
+  background-image: none;
+}
+div.callout-reflect.callout {
+  border-left-color: purple;
+}
+div.callout-reflect.callout-style-default > .callout-header {
+  background-color: rgb(from purple r g b / 13%);
+}
+div.callout-reflect .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-reflect.callout-style-default .callout-icon::before, div.callout-reflect.callout-titled .callout-icon::before {
+  content: '💭';
+  background-image: none;
+}
 div.callout-active-processing.callout {
   border-left-color: #9A4665;
 }
@@ -110,17 +143,6 @@ div.callout-agent-potential.callout-style-default .callout-icon::before, div.cal
   content: '🤖';
   background-image: none;
 }
-div.callout-individual.callout {
-  border-left-color: steelblue;
-}
-div.callout-individual.callout-style-default > .callout-header {
-  background-color: rgb(from steelblue r g b / 13%);
-}
-div.callout-individual .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-individual.callout-style-default .callout-icon::before, div.callout-individual.callout-titled .callout-icon::before {
-  content: '💻';
-  background-image: none;
-}
 div.callout-pair.callout {
   border-left-color: forestgreen;
 }
@@ -132,37 +154,15 @@ div.callout-pair.callout-style-default .callout-icon::before, div.callout-pair.c
   content: '👥';
   background-image: none;
 }
-div.callout-reflect.callout {
-  border-left-color: purple;
+div.callout-individual.callout {
+  border-left-color: steelblue;
 }
-div.callout-reflect.callout-style-default > .callout-header {
-  background-color: rgb(from purple r g b / 13%);
+div.callout-individual.callout-style-default > .callout-header {
+  background-color: rgb(from steelblue r g b / 13%);
 }
-div.callout-reflect .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-reflect.callout-style-default .callout-icon::before, div.callout-reflect.callout-titled .callout-icon::before {
-  content: '💭';
-  background-image: none;
-}
-div.callout-pro-tip.callout {
-  border-left-color: gold;
-}
-div.callout-pro-tip.callout-style-default > .callout-header {
-  background-color: rgb(from gold r g b / 13%);
-}
-div.callout-pro-tip .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-pro-tip.callout-style-default .callout-icon::before, div.callout-pro-tip.callout-titled .callout-icon::before {
-  content: '💡';
-  background-image: none;
-}
-div.callout-group.callout {
-  border-left-color: purple;
-}
-div.callout-group.callout-style-default > .callout-header {
-  background-color: rgb(from purple r g b / 13%);
-}
-div.callout-group .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-group.callout-style-default .callout-icon::before, div.callout-group.callout-titled .callout-icon::before {
-  content: '👥';
+div.callout-individual .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-individual.callout-style-default .callout-icon::before, div.callout-individual.callout-titled .callout-icon::before {
+  content: '💻';
   background-image: none;
 }
 </style>
@@ -269,7 +269,8 @@ div.callout-group.callout-style-default .callout-icon::before, div.callout-group
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#was-ist-künstliche-intelligenz-optional" id="toc-was-ist-künstliche-intelligenz-optional" class="nav-link active" data-scroll-target="#was-ist-künstliche-intelligenz-optional"><i class="bi-file-slides " style="" role="img" aria-hidden="true"></i> Was ist Künstliche Intelligenz (Optional)</a></li>
+  <li><a href="#was-meinen-wir-mit-ki-in-diesem-workshop" id="toc-was-meinen-wir-mit-ki-in-diesem-workshop" class="nav-link active" data-scroll-target="#was-meinen-wir-mit-ki-in-diesem-workshop">Was meinen wir mit “KI” in diesem Workshop?</a></li>
+  <li><a href="#was-ist-künstliche-intelligenz-optional" id="toc-was-ist-künstliche-intelligenz-optional" class="nav-link" data-scroll-target="#was-ist-künstliche-intelligenz-optional"><i class="bi-file-slides " style="" role="img" aria-hidden="true"></i> Was ist Künstliche Intelligenz (Optional)</a></li>
   <li><a href="#wie-funktionieren-chatbots-15-min" id="toc-wie-funktionieren-chatbots-15-min" class="nav-link" data-scroll-target="#wie-funktionieren-chatbots-15-min"><i class="bi-file-slides " style="" role="img" aria-hidden="true"></i> Wie funktionieren Chatbots? (15 Min)</a></li>
   <li><a href="#aktive-verarbeitung-5-min" id="toc-aktive-verarbeitung-5-min" class="nav-link" data-scroll-target="#aktive-verarbeitung-5-min"><i class="bi-megaphone " style="" role="img" aria-hidden="true"></i> Aktive Verarbeitung (5 Min)</a></li>
   <li><a href="#was-sind-agents-15-min" id="toc-was-sind-agents-15-min" class="nav-link" data-scroll-target="#was-sind-agents-15-min"><i class="bi-file-slides " style="" role="img" aria-hidden="true"></i> Was sind Agents? (15 Min)</a></li>
@@ -300,8 +301,20 @@ div.callout-group.callout-style-default .callout-icon::before, div.callout-group
 </header>
 
 
-<p>In diesem ersten Teil des Workshops (40 Min.) legen wir die Grundlagen für ein fundiertes Verständnis von Künstlicher Intelligenz. Wir beginnen mit einer klaren Einordnung, was KI ist und wie sie funktioniert – insbesondere die Large Language Models (LLMs), die hinter Chatbots wie ChatGPT stehen. Du lernst die Mechanismen der Textvorhersage kennen, verstehst die Stärken und Grenzen dieser Technologie und erhältst praktische Einblicke ins effektive Prompting.</p>
-<p>Dieses Grundverständnis ist essentiell, um später informierte Entscheidungen über den sinnvollen Einsatz von KI in Unterricht und Beratung treffen zu können. Der Fokus liegt dabei nicht auf technischen Details, sondern auf dem praxisrelevanten Verständnis: Was kann KI leisten, was nicht, und was bedeutet das für deine Arbeit mit Studierenden und Lernenden?</p>
+<p>In diesem ersten Teil des Workshops (30 Min.) legen wir die Grundlagen für ein fundiertes Verständnis von <strong>Sprachmodellen und Chatbots</strong>.</p>
+<section id="was-meinen-wir-mit-ki-in-diesem-workshop" class="level2">
+<h2 class="anchored" data-anchor-id="was-meinen-wir-mit-ki-in-diesem-workshop">Was meinen wir mit “KI” in diesem Workshop?</h2>
+<p>Künstliche Intelligenz (KI) ist ein breiter Begriff für viele verschiedene Technologien. In diesem Workshop konzentrieren wir uns auf:</p>
+<ul>
+<li><strong>Large Language Models (LLMs)</strong> wie ChatGPT, Claude, Gemini</li>
+<li><strong>Textbasierte Chatbots</strong> für Lehre und Beratung</li>
+<li><strong>AI Agents</strong> (Programme, die LLMs nutzen, um Aufgaben zu erledigen)</li>
+</ul>
+<p><strong>Nicht Thema</strong> in diesem Workshop sind: Bilderkennung, Empfehlungssysteme, autonome Systeme, Robotik und andere KI-Technologien.</p>
+<hr>
+<p>Wir beginnen mit einer klaren Einordnung, was <strong>Sprachmodelle</strong> sind und wie sie funktionieren – insbesondere die Large Language Models (LLMs), die hinter Chatbots wie ChatGPT stehen. Du lernst die Mechanismen der Textvorhersage kennen, verstehst die Stärken und Grenzen dieser Technologie und erhältst praktische Einblicke ins effektive Prompting.</p>
+<p>Dieses Grundverständnis ist essentiell, um später informierte Entscheidungen über den sinnvollen Einsatz von <strong>Chatbots</strong> in Unterricht und Beratung treffen zu können. Der Fokus liegt dabei nicht auf technischen Details, sondern auf dem praxisrelevanten Verständnis: Was können Sprachmodelle leisten, was nicht, und was bedeutet das für deine Arbeit mit Studierenden und Lernenden?</p>
+</section>
 <section id="was-ist-künstliche-intelligenz-optional" class="level2">
 <h2 class="anchored" data-anchor-id="was-ist-künstliche-intelligenz-optional"><i class="bi-file-slides " style="" role="img" aria-hidden="true"></i> Was ist Künstliche Intelligenz (Optional)</h2>
 <div class="callout callout-style-simple callout-note no-icon callout-titled">

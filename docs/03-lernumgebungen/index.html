@@ -88,6 +88,28 @@ ul.task-list li input[type="checkbox"] {
   });
 </script>
 <style>
+div.callout-individual.callout {
+  border-left-color: steelblue;
+}
+div.callout-individual.callout-style-default > .callout-header {
+  background-color: rgb(from steelblue r g b / 13%);
+}
+div.callout-individual .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-individual.callout-style-default .callout-icon::before, div.callout-individual.callout-titled .callout-icon::before {
+  content: '💻';
+  background-image: none;
+}
+div.callout-active-processing.callout {
+  border-left-color: #9A4665;
+}
+div.callout-active-processing.callout-style-default > .callout-header {
+  background-color: rgba(154, 70, 101, 0.13);
+}
+div.callout-active-processing .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-active-processing.callout-style-default .callout-icon::before, div.callout-active-processing.callout-titled .callout-icon::before {
+  content: '📝';
+  background-image: none;
+}
 div.callout-reflect.callout {
   border-left-color: purple;
 }
@@ -110,37 +132,15 @@ div.callout-pro-tip.callout-style-default .callout-icon::before, div.callout-pro
   content: '💡';
   background-image: none;
 }
-div.callout-active-processing.callout {
-  border-left-color: #9A4665;
+div.callout-group.callout {
+  border-left-color: purple;
 }
-div.callout-active-processing.callout-style-default > .callout-header {
-  background-color: rgba(154, 70, 101, 0.13);
+div.callout-group.callout-style-default > .callout-header {
+  background-color: rgb(from purple r g b / 13%);
 }
-div.callout-active-processing .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-active-processing.callout-style-default .callout-icon::before, div.callout-active-processing.callout-titled .callout-icon::before {
-  content: '📝';
-  background-image: none;
-}
-div.callout-individual.callout {
-  border-left-color: steelblue;
-}
-div.callout-individual.callout-style-default > .callout-header {
-  background-color: rgb(from steelblue r g b / 13%);
-}
-div.callout-individual .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-individual.callout-style-default .callout-icon::before, div.callout-individual.callout-titled .callout-icon::before {
-  content: '💻';
-  background-image: none;
-}
-div.callout-agent-potential.callout {
-  border-left-color: #9A4665;
-}
-div.callout-agent-potential.callout-style-default > .callout-header {
-  background-color: rgba(154, 70, 101, 0.13);
-}
-div.callout-agent-potential .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-agent-potential.callout-style-default .callout-icon::before, div.callout-agent-potential.callout-titled .callout-icon::before {
-  content: '🤖';
+div.callout-group .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-group.callout-style-default .callout-icon::before, div.callout-group.callout-titled .callout-icon::before {
+  content: '👥';
   background-image: none;
 }
 div.callout-pair.callout {
@@ -154,15 +154,15 @@ div.callout-pair.callout-style-default .callout-icon::before, div.callout-pair.c
   content: '👥';
   background-image: none;
 }
-div.callout-group.callout {
-  border-left-color: purple;
+div.callout-agent-potential.callout {
+  border-left-color: #9A4665;
 }
-div.callout-group.callout-style-default > .callout-header {
-  background-color: rgb(from purple r g b / 13%);
+div.callout-agent-potential.callout-style-default > .callout-header {
+  background-color: rgba(154, 70, 101, 0.13);
 }
-div.callout-group .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-group.callout-style-default .callout-icon::before, div.callout-group.callout-titled .callout-icon::before {
-  content: '👥';
+div.callout-agent-potential .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-agent-potential.callout-style-default .callout-icon::before, div.callout-agent-potential.callout-titled .callout-icon::before {
+  content: '🤖';
   background-image: none;
 }
 </style>
@@ -314,14 +314,14 @@ div.callout-group.callout-style-default .callout-icon::before, div.callout-group
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#ki-gestützte-lehrplanung-50-min" id="toc-ki-gestützte-lehrplanung-50-min" class="nav-link active" data-scroll-target="#ki-gestützte-lehrplanung-50-min">KI-gestützte Lehrplanung (50 Min)</a></li>
-  <li><a href="#ki-anwendungen-im-unterricht-10-min" id="toc-ki-anwendungen-im-unterricht-10-min" class="nav-link" data-scroll-target="#ki-anwendungen-im-unterricht-10-min">KI-Anwendungen im Unterricht (10 Min)</a>
+  <li><a href="#chatbot-gestützte-lehrplanung-50-min" id="toc-chatbot-gestützte-lehrplanung-50-min" class="nav-link active" data-scroll-target="#chatbot-gestützte-lehrplanung-50-min">Chatbot-gestützte Lehrplanung (50 Min)</a></li>
+  <li><a href="#anwendungen-von-chatbots-im-unterricht-10-min" id="toc-anwendungen-von-chatbots-im-unterricht-10-min" class="nav-link" data-scroll-target="#anwendungen-von-chatbots-im-unterricht-10-min">Anwendungen von Chatbots im Unterricht (10 Min)</a>
   <ul class="collapse">
   <li><a href="#planung-vorbereitung" id="toc-planung-vorbereitung" class="nav-link" data-scroll-target="#planung-vorbereitung">1. Planung &amp; Vorbereitung</a></li>
   <li><a href="#materialerstellung" id="toc-materialerstellung" class="nav-link" data-scroll-target="#materialerstellung">2. Materialerstellung</a></li>
   <li><a href="#reflexion-verbesserung" id="toc-reflexion-verbesserung" class="nav-link" data-scroll-target="#reflexion-verbesserung">3. Reflexion &amp; Verbesserung</a></li>
   </ul></li>
-  <li><a href="#gruppenarbeit-unterrichtseinheit-mit-ki-planen-30-min" id="toc-gruppenarbeit-unterrichtseinheit-mit-ki-planen-30-min" class="nav-link" data-scroll-target="#gruppenarbeit-unterrichtseinheit-mit-ki-planen-30-min">Gruppenarbeit: Unterrichtseinheit mit KI planen (30 Min)</a></li>
+  <li><a href="#gruppenarbeit-unterrichtseinheit-mit-chatbot-planen-30-min" id="toc-gruppenarbeit-unterrichtseinheit-mit-chatbot-planen-30-min" class="nav-link" data-scroll-target="#gruppenarbeit-unterrichtseinheit-mit-chatbot-planen-30-min">Gruppenarbeit: Unterrichtseinheit mit Chatbot planen (30 Min)</a></li>
   <li><a href="#präsentation-diskussion-im-plenum-10-min" id="toc-präsentation-diskussion-im-plenum-10-min" class="nav-link" data-scroll-target="#präsentation-diskussion-im-plenum-10-min">Präsentation &amp; Diskussion im Plenum (10 Min)</a></li>
   <li><a href="#vertiefende-ressourcen" id="toc-vertiefende-ressourcen" class="nav-link" data-scroll-target="#vertiefende-ressourcen">Vertiefende Ressourcen</a>
   <ul class="collapse">
@@ -353,17 +353,17 @@ div.callout-group.callout-style-default .callout-icon::before, div.callout-group
 </header>
 
 
-<section id="ki-gestützte-lehrplanung-50-min" class="level2">
-<h2 class="anchored" data-anchor-id="ki-gestützte-lehrplanung-50-min">KI-gestützte Lehrplanung (50 Min)</h2>
-<p>Wie kann KI konkret den Unterricht unterstützen, ohne die notwendige kognitive Anstrengung der Lernenden zu umgehen?</p>
+<section id="chatbot-gestützte-lehrplanung-50-min" class="level2">
+<h2 class="anchored" data-anchor-id="chatbot-gestützte-lehrplanung-50-min">Chatbot-gestützte Lehrplanung (50 Min)</h2>
+<p>Wie können Sprachmodelle konkret den Unterricht unterstützen, ohne die notwendige kognitive Anstrengung der Lernenden zu umgehen?</p>
 </section>
-<section id="ki-anwendungen-im-unterricht-10-min" class="level2">
-<h2 class="anchored" data-anchor-id="ki-anwendungen-im-unterricht-10-min">KI-Anwendungen im Unterricht (10 Min)</h2>
-<p>KI kann Lehrende in verschiedenen Phasen unterstützen:</p>
+<section id="anwendungen-von-chatbots-im-unterricht-10-min" class="level2">
+<h2 class="anchored" data-anchor-id="anwendungen-von-chatbots-im-unterricht-10-min">Anwendungen von Chatbots im Unterricht (10 Min)</h2>
+<p>Sprachmodelle können Lehrende in verschiedenen Phasen unterstützen:</p>
 <section id="planung-vorbereitung" class="level3">
 <h3 class="anchored" data-anchor-id="planung-vorbereitung">1. Planung &amp; Vorbereitung</h3>
 <ul>
-<li><strong>Lernzielanalyse</strong>: KI hilft, Lernziele zu konkretisieren und zu strukturieren</li>
+<li><strong>Lernzielanalyse</strong>: Chatbots helfen, Lernziele zu konkretisieren und zu strukturieren</li>
 <li><strong>Methodenauswahl</strong>: Vorschläge für passende didaktische Ansätze</li>
 <li><strong>Aufgabenentwicklung</strong>: Erstellung von Übungen und Prüfungsfragen</li>
 </ul>
@@ -379,7 +379,7 @@ div.callout-group.callout-style-default .callout-icon::before, div.callout-group
 <section id="reflexion-verbesserung" class="level3">
 <h3 class="anchored" data-anchor-id="reflexion-verbesserung">3. Reflexion &amp; Verbesserung</h3>
 <ul>
-<li><strong>KI als Reflexionspartner</strong>: Feedback zu Unterrichtsplanung</li>
+<li><strong>Chatbot als Reflexionspartner</strong>: Feedback zu Unterrichtsplanung</li>
 <li><strong>Kritische Begleitung</strong>: Alternative Perspektiven auf didaktische Entscheidungen</li>
 </ul>
 <div class="callout callout-style-default callout-warning callout-titled">
@@ -394,16 +394,16 @@ div.callout-group.callout-style-default .callout-icon::before, div.callout-group
 <div class="callout-body-container callout-body">
 <p>Denkt an Teil 2: <strong>Produktivität ≠ Lernen</strong></p>
 <ul>
-<li>KI kann <strong>Lehrende</strong> produktiver machen (Planung, Materialien)</li>
-<li>KI sollte <strong>Lernende</strong> nicht von kognitiver Anstrengung entlasten</li>
+<li>Sprachmodelle können <strong>Lehrende</strong> produktiver machen (Planung, Materialien)</li>
+<li>Sprachmodelle sollten <strong>Lernende</strong> nicht von kognitiver Anstrengung entlasten</li>
 <li>Die 8 Make-it-Stick-Strategien bleiben zentral: <a href="./handout-make-it-stick/">Strategien im Detail</a></li>
 </ul>
 </div>
 </div>
 </section>
 </section>
-<section id="gruppenarbeit-unterrichtseinheit-mit-ki-planen-30-min" class="level2">
-<h2 class="anchored" data-anchor-id="gruppenarbeit-unterrichtseinheit-mit-ki-planen-30-min">Gruppenarbeit: Unterrichtseinheit mit KI planen (30 Min)</h2>
+<section id="gruppenarbeit-unterrichtseinheit-mit-chatbot-planen-30-min" class="level2">
+<h2 class="anchored" data-anchor-id="gruppenarbeit-unterrichtseinheit-mit-chatbot-planen-30-min">Gruppenarbeit: Unterrichtseinheit mit Chatbot planen (30 Min)</h2>
 <div class="callout callout-style-default callout-group callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -417,7 +417,7 @@ div.callout-group.callout-style-default .callout-icon::before, div.callout-group
 <p><strong>Gruppengrösse</strong>: 3-4 Personen</p>
 <section id="phase-1-thema-wählen-planung-starten-15-min" class="level3">
 <h3 class="anchored" data-anchor-id="phase-1-thema-wählen-planung-starten-15-min">Phase 1: Thema wählen &amp; Planung starten (15 Min)</h3>
-<p><strong>Aufgabe</strong>: Wählt ein Unterrichtsthema aus eurem eigenen Lehrkontext und plant gemeinsam eine Unterrichtseinheit mit KI-Unterstützung.</p>
+<p><strong>Aufgabe</strong>: Wählt ein Unterrichtsthema aus eurem eigenen Lehrkontext und plant gemeinsam eine Unterrichtseinheit mit Chatbot-Unterstützung.</p>
 <p><strong>Schritt für Schritt:</strong></p>
 <ol type="1">
 <li><strong>Thema festlegen</strong> (2 Min)
@@ -426,28 +426,28 @@ div.callout-group.callout-style-default .callout-icon::before, div.callout-group
 <li>Definiert die Zielgruppe (z.B. Studierende im 2. Semester)</li>
 <li>Legt grobe Lernziele fest</li>
 </ul></li>
-<li><strong>KI zur Lernzielanalyse nutzen</strong> (5 Min)
+<li><strong>Chatbot zur Lernzielanalyse nutzen</strong> (5 Min)
 <ul>
 <li>Nutzt ChatGPT/Claude, um eure Lernziele zu konkretisieren</li>
 <li>Fragt nach: “Wie kann ich diese Lernziele messbarer formulieren?”</li>
 <li>Lasst euch Taxonomiestufen (Bloom) vorschlagen</li>
 </ul></li>
-<li><strong>Methodenauswahl mit KI</strong> (8 Min)
+<li><strong>Methodenauswahl mit Chatbot</strong> (8 Min)
 <ul>
-<li>Fragt die KI nach didaktischen Methoden für euer Thema</li>
+<li>Fragt den Chatbot nach didaktischen Methoden für euer Thema</li>
 <li><strong>Wichtig</strong>: Filtert kritisch: Welche Methoden fördern produktive Anstrengung?</li>
 <li>Wählt 2-3 Methoden aus, die ihr vertiefen wollt</li>
 </ul></li>
 </ol>
-<p><strong>Tools</strong>: ChatGPT, Claude, oder andere verfügbare KI-Tools</p>
+<p><strong>Tools</strong>: ChatGPT, Claude, oder andere verfügbare Chatbots</p>
 </section>
 <section id="phase-2-aufgabenentwicklung-10-min" class="level3">
 <h3 class="anchored" data-anchor-id="phase-2-aufgabenentwicklung-10-min">Phase 2: Aufgabenentwicklung (10 Min)</h3>
-<p><strong>Aufgabe</strong>: Entwickelt mit KI konkrete Lernaufgaben für eure Unterrichtseinheit.</p>
+<p><strong>Aufgabe</strong>: Entwickelt mit dem Chatbot konkrete Lernaufgaben für eure Unterrichtseinheit.</p>
 <ol type="1">
 <li><strong>Aufgaben generieren</strong> (5 Min)
 <ul>
-<li>Lasst die KI Übungsaufgaben zu eurem Thema erstellen</li>
+<li>Lasst den Chatbot Übungsaufgaben zu eurem Thema erstellen</li>
 <li>Variiert Schwierigkeitsgrade</li>
 <li>Fragt nach Aufgaben, die kognitive Anstrengung erfordern</li>
 </ul></li>
@@ -464,7 +464,7 @@ div.callout-group.callout-style-default .callout-icon::before, div.callout-group
 <p>Bereitet eine 2-minütige Präsentation vor:</p>
 <ul>
 <li><strong>Was</strong> habt ihr geplant? (30 Sek)</li>
-<li><strong>Wie</strong> hat KI euch unterstützt? (30 Sek)</li>
+<li><strong>Wie</strong> hat der Chatbot euch unterstützt? (30 Sek)</li>
 <li><strong>Eine Erkenntnis</strong>: Was hat überrascht? Wo waren Grenzen? (1 Min)</li>
 </ul>
 </section>
@@ -483,21 +483,25 @@ div.callout-group.callout-style-default .callout-icon::before, div.callout-group
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p><strong>Ablauf:</strong> - Jede Gruppe stellt ihre Unterrichtseinheit vor (2 Min pro Gruppe) - Kurze Rückfragen aus dem Plenum</p>
+<p><strong>Ablauf:</strong></p>
+<ul>
+<li>Jede Gruppe stellt ihre Unterrichtseinheit vor (2 Min pro Gruppe)</li>
+<li>Kurze Rückfragen aus dem Plenum</li>
+</ul>
 <p><strong>Leitfragen für die Diskussion:</strong></p>
 <section id="gemeinsame-muster" class="level3">
 <h3 class="anchored" data-anchor-id="gemeinsame-muster">Gemeinsame Muster</h3>
 <ul>
-<li>Welche KI-Unterstützung war besonders hilfreich?</li>
-<li>Wo stiess die KI an Grenzen?</li>
+<li>Welche Chatbot-Unterstützung war besonders hilfreich?</li>
+<li>Wo stiessen die Sprachmodelle an Grenzen?</li>
 <li>Welche Prompting-Strategien haben gut funktioniert?</li>
 </ul>
 </section>
 <section id="kritische-reflexion" class="level3">
 <h3 class="anchored" data-anchor-id="kritische-reflexion">Kritische Reflexion</h3>
 <ul>
-<li>Wo besteht die Gefahr, dass KI die kognitive Anstrengung der Lernenden reduziert?</li>
-<li>Wie können wir sicherstellen, dass KI uns als Lehrende unterstützt, ohne das Lernen zu behindern?</li>
+<li>Wo besteht die Gefahr, dass Chatbots die kognitive Anstrengung der Lernenden reduzieren?</li>
+<li>Wie können wir sicherstellen, dass Sprachmodelle uns als Lehrende unterstützen, ohne das Lernen zu behindern?</li>
 </ul>
 </section>
 </div>
