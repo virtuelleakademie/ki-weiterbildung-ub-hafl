@@ -44,9 +44,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="../../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-4fcfe6d66dc41868357ea95dec6ef5ad.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../../site_libs/bootstrap/bootstrap-dark-4fcfe6d66dc41868357ea95dec6ef5ad.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
-<link href="../../site_libs/bootstrap/bootstrap-4fcfe6d66dc41868357ea95dec6ef5ad.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-a32d07710c42eac0f676ec5e7ee923a4.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark-a32d07710c42eac0f676ec5e7ee923a4.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-a32d07710c42eac0f676ec5e7ee923a4.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script src="../../site_libs/quarto-contrib/quarto-timer-1.0.0/timer.js"></script>
 <link href="../../site_libs/quarto-contrib/quarto-timer-1.0.0/timer.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -88,6 +88,17 @@ ul.task-list li input[type="checkbox"] {
   });
 </script>
 <style>
+div.callout-reflect.callout {
+  border-left-color: purple;
+}
+div.callout-reflect.callout-style-default > .callout-header {
+  background-color: rgb(from purple r g b / 13%);
+}
+div.callout-reflect .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-reflect.callout-style-default .callout-icon::before, div.callout-reflect.callout-titled .callout-icon::before {
+  content: '💭';
+  background-image: none;
+}
 div.callout-pair.callout {
   border-left-color: forestgreen;
 }
@@ -108,17 +119,6 @@ div.callout-pro-tip.callout-style-default > .callout-header {
 div.callout-pro-tip .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
 div.callout-pro-tip.callout-style-default .callout-icon::before, div.callout-pro-tip.callout-titled .callout-icon::before {
   content: '💡';
-  background-image: none;
-}
-div.callout-active-processing.callout {
-  border-left-color: #9A4665;
-}
-div.callout-active-processing.callout-style-default > .callout-header {
-  background-color: rgba(154, 70, 101, 0.13);
-}
-div.callout-active-processing .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-active-processing.callout-style-default .callout-icon::before, div.callout-active-processing.callout-titled .callout-icon::before {
-  content: '📝';
   background-image: none;
 }
 div.callout-agent-potential.callout {
@@ -143,17 +143,6 @@ div.callout-group.callout-style-default .callout-icon::before, div.callout-group
   content: '👥';
   background-image: none;
 }
-div.callout-reflect.callout {
-  border-left-color: purple;
-}
-div.callout-reflect.callout-style-default > .callout-header {
-  background-color: rgb(from purple r g b / 13%);
-}
-div.callout-reflect .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-reflect.callout-style-default .callout-icon::before, div.callout-reflect.callout-titled .callout-icon::before {
-  content: '💭';
-  background-image: none;
-}
 div.callout-individual.callout {
   border-left-color: steelblue;
 }
@@ -163,6 +152,17 @@ div.callout-individual.callout-style-default > .callout-header {
 div.callout-individual .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
 div.callout-individual.callout-style-default .callout-icon::before, div.callout-individual.callout-titled .callout-icon::before {
   content: '💻';
+  background-image: none;
+}
+div.callout-active-processing.callout {
+  border-left-color: #9A4665;
+}
+div.callout-active-processing.callout-style-default > .callout-header {
+  background-color: rgba(154, 70, 101, 0.13);
+}
+div.callout-active-processing .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-active-processing.callout-style-default .callout-icon::before, div.callout-active-processing.callout-titled .callout-icon::before {
+  content: '📝';
   background-image: none;
 }
 </style>
@@ -209,7 +209,12 @@ div.callout-individual.callout-style-default .callout-icon::before, div.callout-
   <li class="nav-item">
     <a class="nav-link" href="../../03-lernumgebungen/index.html"> <i class="bi bi-marker-tip" role="img">
 </i> 
-<span class="menu-text">3: KI-gestütztes Lerndesign</span></a>
+<span class="menu-text">3: KI im Unterricht</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../04-ki-in-beratung/index.html"> <i class="bi bi-chat-heart" role="img">
+</i> 
+<span class="menu-text">4: KI in der Beratung</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
@@ -283,7 +288,7 @@ div.callout-individual.callout-style-default .callout-icon::before, div.callout-
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../../workshop/einstieg/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Aktivierende Einstieg</span></a>
+ <span class="menu-text">Aktivierender Einstieg</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -304,8 +309,8 @@ div.callout-individual.callout-style-default .callout-icon::before, div.callout-
   <ul>
   <li><a href="#von-der-idee-zur-umsetzung-15-min" id="toc-von-der-idee-zur-umsetzung-15-min" class="nav-link active" data-scroll-target="#von-der-idee-zur-umsetzung-15-min">Von der Idee zur Umsetzung (15 Min)</a>
   <ul class="collapse">
-  <li><a href="#schritt-1-persönlicher-umsetzungsplan-8-min" id="toc-schritt-1-persönlicher-umsetzungsplan-8-min" class="nav-link" data-scroll-target="#schritt-1-persönlicher-umsetzungsplan-8-min">Schritt 1: Persönlicher Umsetzungsplan (8 Min)</a></li>
-  <li><a href="#schritt-2-blitzlicht-7-min" id="toc-schritt-2-blitzlicht-7-min" class="nav-link" data-scroll-target="#schritt-2-blitzlicht-7-min">Schritt 2: Blitzlicht (7 Min)</a></li>
+  <li><a href="#schritt-1-persönliche-reflexion-8-min" id="toc-schritt-1-persönliche-reflexion-8-min" class="nav-link" data-scroll-target="#schritt-1-persönliche-reflexion-8-min">Schritt 1: Persönliche Reflexion (8 Min)</a></li>
+  <li><a href="#schritt-2-blitzlicht-runde-7-min" id="toc-schritt-2-blitzlicht-runde-7-min" class="nav-link" data-scroll-target="#schritt-2-blitzlicht-runde-7-min">Schritt 2: Blitzlicht-Runde (7 Min)</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -334,38 +339,36 @@ div.callout-individual.callout-style-default .callout-icon::before, div.callout-
 
 <section id="von-der-idee-zur-umsetzung-15-min" class="level2">
 <h2 class="anchored" data-anchor-id="von-der-idee-zur-umsetzung-15-min">Von der Idee zur Umsetzung (15 Min)</h2>
-<section id="schritt-1-persönlicher-umsetzungsplan-8-min" class="level3">
-<h3 class="anchored" data-anchor-id="schritt-1-persönlicher-umsetzungsplan-8-min">Schritt 1: Persönlicher Umsetzungsplan (8 Min)</h3>
-<p><strong>Entwickle deinen konkreten nächsten Schritt:</strong></p>
+<section id="schritt-1-persönliche-reflexion-8-min" class="level3">
+<h3 class="anchored" data-anchor-id="schritt-1-persönliche-reflexion-8-min">Schritt 1: Persönliche Reflexion (8 Min)</h3>
+<p><strong>Überlege für dich (kann auch in Partnerarbeit):</strong></p>
 <section id="was-nehme-ich-mit" class="level4">
 <h4 class="anchored" data-anchor-id="was-nehme-ich-mit"><strong>Was nehme ich mit?</strong></h4>
 <ul>
-<li>Welche <strong>Make-it-Stick-Strategie</strong> will ich als erstes umsetzen?</li>
-<li>Welches <strong>Agent-Konzept</strong> ist realistisch für meine Lehre?</li>
-<li>Was ist mein <strong>konkreter erster Schritt</strong>?</li>
+<li><strong>Eine wichtige Erkenntnis</strong> aus dem Workshop</li>
+<li><strong>Ein konkreter Anwendungsfall</strong> für meinen Unterricht oder meine Beratung</li>
+<li><strong>Mein erster Schritt</strong>: Was probiere ich als nächstes aus?</li>
 </ul>
 </section>
 <section id="wie-setze-ich-das-um" class="level4">
 <h4 class="anchored" data-anchor-id="wie-setze-ich-das-um"><strong>Wie setze ich das um?</strong></h4>
 <ul>
-<li><strong>Tool-Wahl</strong>: GPT, Copilot, oder andere KI-Tools?</li>
-<li><strong>Pilotversuch</strong>: Wo teste ich meinen Agent zuerst?</li>
-<li><strong>Erfolg messen</strong>: Woran erkenne ich, dass es funktioniert?</li>
+<li><strong>Tool-Wahl</strong>: Welches KI-Tool werde ich nutzen? (ChatGPT, Claude, Copilot, etc.)</li>
+<li><strong>Kontext</strong>: In welcher konkreten Situation setze ich KI ein?</li>
+<li><strong>Grenzen beachten</strong>: Wo ziehe ich bewusst eine Grenze?</li>
 </ul>
-<!-- **Notiere dir:** -->
-<!-- ``` -->
-<!-- Meine Strategie: ____________________ -->
-<!-- Mein erster Schritt: ________________ -->
-<!-- Bis wann: __________________________ -->
-<!-- ``` -->
+<p><strong>Optional - Notiere dir:</strong></p>
+<pre><code>Meine wichtigste Erkenntnis: ____________________
+Mein erster Schritt: ____________________________
+Bis wann: ______________________________________</code></pre>
 </section>
 </section>
-<section id="schritt-2-blitzlicht-7-min" class="level3">
-<h3 class="anchored" data-anchor-id="schritt-2-blitzlicht-7-min">Schritt 2: Blitzlicht (7 Min)</h3>
-<p><strong>Jeder teilt in 30 Sekunden:</strong></p>
+<section id="schritt-2-blitzlicht-runde-7-min" class="level3">
+<h3 class="anchored" data-anchor-id="schritt-2-blitzlicht-runde-7-min">Schritt 2: Blitzlicht-Runde (7 Min)</h3>
+<p><strong>Jede/r teilt in 30 Sekunden:</strong></p>
 <ul>
-<li><strong>Eine Erkenntnis</strong> aus dem heutigen Workshop</li>
-<li><strong>Einen konkreten nächsten Schritt</strong></li>
+<li><strong>Eine Erkenntnis</strong> aus dem heutigen Workshop, oder</li>
+<li><strong>Einen konkreten nächsten Schritt</strong>, den ihr umsetzen wollt</li>
 </ul>
 <div class="callout callout-style-simple callout-tip no-icon callout-titled">
 <div class="callout-header d-flex align-content-center">
@@ -377,7 +380,7 @@ div.callout-individual.callout-style-default .callout-icon::before, div.callout-
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p><strong>Wissenschaftlich fundierter KI Einsatz</strong> bedeutet: KI-Tools sollen die bewährten Lernstrategien <strong>fördern</strong>, nicht <strong>ersetzen</strong>.</p>
+<p><strong>Verantwortungsvoller KI-Einsatz</strong> bedeutet: - KI unterstützt <strong>pädagogische und beraterische Professionalität</strong>, ersetzt sie nicht - KI fördert <strong>kognitive Anstrengung</strong> bei Lernenden, umgeht sie nicht - KI respektiert <strong>Datenschutz und Vertraulichkeit</strong> - Wir bleiben <strong>reflektiert und kritisch</strong> im Umgang mit der Technologie</p>
 </div>
 </div>
 
@@ -795,8 +798,8 @@ div.callout-individual.callout-style-default .callout-icon::before, div.callout-
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../../workshop/einstieg/index.html" class="pagination-link" aria-label="Aktivierende Einstieg">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Aktivierende Einstieg</span>
+      <a href="../../workshop/einstieg/index.html" class="pagination-link" aria-label="Aktivierender Einstieg">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Aktivierender Einstieg</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">

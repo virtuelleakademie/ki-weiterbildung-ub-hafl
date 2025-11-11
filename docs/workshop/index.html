@@ -44,9 +44,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-4fcfe6d66dc41868357ea95dec6ef5ad.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-dark-4fcfe6d66dc41868357ea95dec6ef5ad.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-4fcfe6d66dc41868357ea95dec6ef5ad.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-a32d07710c42eac0f676ec5e7ee923a4.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-a32d07710c42eac0f676ec5e7ee923a4.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-a32d07710c42eac0f676ec5e7ee923a4.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script src="../site_libs/quarto-contrib/quarto-timer-1.0.0/timer.js"></script>
 <link href="../site_libs/quarto-contrib/quarto-timer-1.0.0/timer.css" rel="stylesheet">
 <link href="../site_libs/quarto-contrib/bootstrap-icons-1.11.1/all.css" rel="stylesheet">
@@ -89,14 +89,14 @@ ul.task-list li input[type="checkbox"] {
   });
 </script>
 <style>
-div.callout-pair.callout {
-  border-left-color: forestgreen;
+div.callout-group.callout {
+  border-left-color: purple;
 }
-div.callout-pair.callout-style-default > .callout-header {
-  background-color: rgb(from forestgreen r g b / 13%);
+div.callout-group.callout-style-default > .callout-header {
+  background-color: rgb(from purple r g b / 13%);
 }
-div.callout-pair .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-pair.callout-style-default .callout-icon::before, div.callout-pair.callout-titled .callout-icon::before {
+div.callout-group .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-group.callout-style-default .callout-icon::before, div.callout-group.callout-titled .callout-icon::before {
   content: '👥';
   background-image: none;
 }
@@ -111,28 +111,6 @@ div.callout-pro-tip.callout-style-default .callout-icon::before, div.callout-pro
   content: '💡';
   background-image: none;
 }
-div.callout-individual.callout {
-  border-left-color: steelblue;
-}
-div.callout-individual.callout-style-default > .callout-header {
-  background-color: rgb(from steelblue r g b / 13%);
-}
-div.callout-individual .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-individual.callout-style-default .callout-icon::before, div.callout-individual.callout-titled .callout-icon::before {
-  content: '💻';
-  background-image: none;
-}
-div.callout-active-processing.callout {
-  border-left-color: #9A4665;
-}
-div.callout-active-processing.callout-style-default > .callout-header {
-  background-color: rgba(154, 70, 101, 0.13);
-}
-div.callout-active-processing .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-active-processing.callout-style-default .callout-icon::before, div.callout-active-processing.callout-titled .callout-icon::before {
-  content: '📝';
-  background-image: none;
-}
 div.callout-agent-potential.callout {
   border-left-color: #9A4665;
 }
@@ -144,17 +122,6 @@ div.callout-agent-potential.callout-style-default .callout-icon::before, div.cal
   content: '🤖';
   background-image: none;
 }
-div.callout-group.callout {
-  border-left-color: purple;
-}
-div.callout-group.callout-style-default > .callout-header {
-  background-color: rgb(from purple r g b / 13%);
-}
-div.callout-group .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-group.callout-style-default .callout-icon::before, div.callout-group.callout-titled .callout-icon::before {
-  content: '👥';
-  background-image: none;
-}
 div.callout-reflect.callout {
   border-left-color: purple;
 }
@@ -164,6 +131,39 @@ div.callout-reflect.callout-style-default > .callout-header {
 div.callout-reflect .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
 div.callout-reflect.callout-style-default .callout-icon::before, div.callout-reflect.callout-titled .callout-icon::before {
   content: '💭';
+  background-image: none;
+}
+div.callout-individual.callout {
+  border-left-color: steelblue;
+}
+div.callout-individual.callout-style-default > .callout-header {
+  background-color: rgb(from steelblue r g b / 13%);
+}
+div.callout-individual .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-individual.callout-style-default .callout-icon::before, div.callout-individual.callout-titled .callout-icon::before {
+  content: '💻';
+  background-image: none;
+}
+div.callout-pair.callout {
+  border-left-color: forestgreen;
+}
+div.callout-pair.callout-style-default > .callout-header {
+  background-color: rgb(from forestgreen r g b / 13%);
+}
+div.callout-pair .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-pair.callout-style-default .callout-icon::before, div.callout-pair.callout-titled .callout-icon::before {
+  content: '👥';
+  background-image: none;
+}
+div.callout-active-processing.callout {
+  border-left-color: #9A4665;
+}
+div.callout-active-processing.callout-style-default > .callout-header {
+  background-color: rgba(154, 70, 101, 0.13);
+}
+div.callout-active-processing .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-active-processing.callout-style-default .callout-icon::before, div.callout-active-processing.callout-titled .callout-icon::before {
+  content: '📝';
   background-image: none;
 }
 </style>
@@ -211,7 +211,12 @@ div.callout-reflect.callout-style-default .callout-icon::before, div.callout-ref
   <li class="nav-item">
     <a class="nav-link" href="../03-lernumgebungen/index.html"> <i class="bi bi-marker-tip" role="img">
 </i> 
-<span class="menu-text">3: KI-gestütztes Lerndesign</span></a>
+<span class="menu-text">3: KI im Unterricht</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../04-ki-in-beratung/index.html"> <i class="bi bi-chat-heart" role="img">
+</i> 
+<span class="menu-text">4: KI in der Beratung</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
@@ -285,7 +290,7 @@ div.callout-reflect.callout-style-default .callout-icon::before, div.callout-ref
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../workshop/einstieg/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Aktivierende Einstieg</span></a>
+ <span class="menu-text">Aktivierender Einstieg</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -304,13 +309,8 @@ div.callout-reflect.callout-style-default .callout-icon::before, div.callout-ref
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#workshop-ablauf-ki-in-der-lehre-intermediate-3-stunden" id="toc-workshop-ablauf-ki-in-der-lehre-intermediate-3-stunden" class="nav-link active" data-scroll-target="#workshop-ablauf-ki-in-der-lehre-intermediate-3-stunden">Workshop-Ablauf: KI in der Lehre: Intermediate (3 Stunden)</a></li>
+  <li><a href="#workshop-ablauf-ki-für-unterricht-beratung-3-stunden" id="toc-workshop-ablauf-ki-für-unterricht-beratung-3-stunden" class="nav-link active" data-scroll-target="#workshop-ablauf-ki-für-unterricht-beratung-3-stunden">Workshop-Ablauf: KI für Unterricht &amp; Beratung (3 Stunden)</a></li>
   <li><a href="#lernziele" id="toc-lernziele" class="nav-link" data-scroll-target="#lernziele">Lernziele</a></li>
-  <li><a href="#vorbereitung" id="toc-vorbereitung" class="nav-link" data-scroll-target="#vorbereitung">Vorbereitung</a>
-  <ul class="collapse">
-  <li><a href="#inhaltliche-vorbereitung-10-min." id="toc-inhaltliche-vorbereitung-10-min." class="nav-link" data-scroll-target="#inhaltliche-vorbereitung-10-min.">Inhaltliche Vorbereitung (10 Min.)</a></li>
-  <li><a href="#lektüre-und-reflexion-15-min." id="toc-lektüre-und-reflexion-15-min." class="nav-link" data-scroll-target="#lektüre-und-reflexion-15-min.">Lektüre und Reflexion (15 Min.)</a></li>
-  </ul></li>
   </ul>
 </nav>
     </div>
@@ -336,8 +336,8 @@ div.callout-reflect.callout-style-default .callout-icon::before, div.callout-ref
 </header>
 
 
-<section id="workshop-ablauf-ki-in-der-lehre-intermediate-3-stunden" class="level2">
-<h2 class="anchored" data-anchor-id="workshop-ablauf-ki-in-der-lehre-intermediate-3-stunden">Workshop-Ablauf: KI in der Lehre: Intermediate (3 Stunden)</h2>
+<section id="workshop-ablauf-ki-für-unterricht-beratung-3-stunden" class="level2">
+<h2 class="anchored" data-anchor-id="workshop-ablauf-ki-für-unterricht-beratung-3-stunden">Workshop-Ablauf: KI für Unterricht &amp; Beratung (3 Stunden)</h2>
 <table class="caption-top table">
 <thead>
 <tr class="header">
@@ -358,17 +358,17 @@ div.callout-reflect.callout-style-default .callout-icon::before, div.callout-ref
 <td>10 min</td>
 </tr>
 <tr class="odd">
-<td><strong>09:10 - 10:10</strong></td>
+<td><strong>09:10 - 09:40</strong></td>
 <td><i class="bi-collection-play " style="" role="img" aria-hidden="true"></i> <strong>Teil 1: KI verstehen</strong></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><a href="../01-ki-verstehen/index.html">Hauptpräsentation: KI &amp; Agents</a></td>
-<td>60 min</td>
+<td><a href="../01-ki-verstehen/index.html">Grundlagen: KI &amp; Agents</a></td>
+<td>30 min</td>
 </tr>
 <tr class="odd">
-<td><strong>10:10 - 10:25</strong></td>
+<td><strong>09:40 - 09:55</strong></td>
 <td><i class="bi-cup-hot-fill " style="" role="img" aria-hidden="true"></i> <strong>Pause</strong></td>
 <td></td>
 </tr>
@@ -378,24 +378,44 @@ div.callout-reflect.callout-style-default .callout-icon::before, div.callout-ref
 <td>15 min</td>
 </tr>
 <tr class="odd">
-<td><strong>10:25 - 10:45</strong></td>
+<td><strong>09:55 - 10:10</strong></td>
 <td><i class="bi-collection-play " style="" role="img" aria-hidden="true"></i> <strong>Teil 2: Lernen verstehen</strong></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><a href="../02-wie-menschen-lernen/index.html">Wie Menschen lernen</a></td>
-<td>20 min</td>
+<td>15 min</td>
 </tr>
 <tr class="odd">
-<td><strong>10:45 - 11:45</strong></td>
-<td><i class="bi-collection-play " style="" role="img" aria-hidden="true"></i> <strong>Teil 3: KI-gestütztes Lerndesign</strong></td>
+<td><strong>10:10 - 11:00</strong></td>
+<td><i class="bi-collection-play " style="" role="img" aria-hidden="true"></i> <strong>Teil 3A: KI im Unterricht</strong></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><a href="../03-lernumgebungen/index.html">Think-Pair-Share: Agent-Design</a></td>
-<td>60 min</td>
+<td><a href="../03-lernumgebungen/index.html">KI-gestützte Lehrplanung</a></td>
+<td>50 min</td>
+</tr>
+<tr class="odd">
+<td><strong>11:00 - 11:30</strong></td>
+<td><i class="bi-collection-play " style="" role="img" aria-hidden="true"></i> <strong>Teil 3B: KI in der Beratung</strong></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><a href="../04-ki-in-beratung/index.html">Beratungsgespräche simulieren</a></td>
+<td>30 min</td>
+</tr>
+<tr class="odd">
+<td><strong>11:30 - 11:45</strong></td>
+<td><i class="bi-collection-play " style="" role="img" aria-hidden="true"></i> <strong>Teil 4: Ethik &amp; Reflexion</strong></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><a href="../04-ki-in-beratung/ethik/">Verantwortungsvoller KI-Einsatz</a></td>
+<td>15 min</td>
 </tr>
 <tr class="odd">
 <td><strong>11:45 - 12:00</strong></td>
@@ -414,33 +434,14 @@ div.callout-reflect.callout-style-default .callout-icon::before, div.callout-ref
 <h2 class="anchored" data-anchor-id="lernziele">Lernziele</h2>
 <p>Am Ende des Workshops können die Teilnehmer:</p>
 <ol type="1">
-<li><strong>KI verstehen</strong>: Unterschied zwischen Tools und Agents erkennen</li>
-<li><strong>Lernen verstehen</strong>: Wissenschaftlich etablierte Lernstrategien anwenden</li>
-<li><strong>Praxis umsetzen</strong>: Einen Copilot Agent für ihr eigenes Lehrthema konzipieren</li>
-<li><strong>Transfer leisten</strong>: Konkrete nächste Schritte für die eigene Lehre formulieren</li>
+<li><strong>KI verstehen</strong>: Grundlegende Funktionsweise und Grenzen von LLMs und Chatbots (ChatGPT, Claude, Copilot) erklären</li>
+<li><strong>KI im Unterricht einsetzen</strong>: Sprachmodelle gezielt zur Planung, Gestaltung und Reflexion von Lehrsituationen nutzen</li>
+<li><strong>KI in der Beratung einsetzen</strong>: Beratungsgespräche mit Chatbot-Unterstützung vorbereiten und reflektieren</li>
+<li><strong>Ethisch reflektieren</strong>: Ethische, didaktische und psychologische Implikationen des Sprachmodell-Einsatzes kritisch diskutieren</li>
+<li><strong>Transfer leisten</strong>: Konkrete Anwendungsideen für den eigenen Unterrichts- oder Beratungskontext entwickeln</li>
 </ol>
-</section>
-<section id="vorbereitung" class="level2">
-<h2 class="anchored" data-anchor-id="vorbereitung">Vorbereitung</h2>
-<section id="inhaltliche-vorbereitung-10-min." class="level3">
-<h3 class="anchored" data-anchor-id="inhaltliche-vorbereitung-10-min.">Inhaltliche Vorbereitung (10 Min.)</h3>
-<p>Wähle ein Thema aus deiner Lehre, das du im Workshop bearbeiten möchtest (z.B. ein schwieriges Konzept, ein Prüfungsthema, ein häufiges Verständnisproblem). Überlege dir dazu:</p>
-<ul>
-<li>Welche Hürden haben mein Studierende beim Lernen?</li>
-<li>Wie könnten KI-Tools dabei helfen?</li>
-</ul>
-</section>
-<section id="lektüre-und-reflexion-15-min." class="level3">
-<h3 class="anchored" data-anchor-id="lektüre-und-reflexion-15-min.">Lektüre und Reflexion (15 Min.)</h3>
-<p>Lies diesen <a href="https://barbarageyer.substack.com/p/von-zetteln-zu-prompts">Blog Post</a> von Barbara Geyer zum Thema Künstliche Intelligenz und Lernstrategien. Notiere dir:</p>
-<ul>
-<li>Welche der Strategien sind für deine Lehre spannend?</li>
-<li>Wie wirken die gezeigten Prompting-Ansätze auf dich?</li>
-<li>Was würdest du verbessern oder anders formulieren?</li>
-</ul>
 
 
-</section>
 </section>
 
 <a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div></div></section></div></main> <!-- /main -->
@@ -855,8 +856,8 @@ div.callout-reflect.callout-style-default .callout-icon::before, div.callout-ref
   <div class="nav-page nav-page-previous">
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../workshop/einstieg/index.html" class="pagination-link" aria-label="Aktivierende Einstieg">
-        <span class="nav-page-text">Aktivierende Einstieg</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../workshop/einstieg/index.html" class="pagination-link" aria-label="Aktivierender Einstieg">
+        <span class="nav-page-text">Aktivierender Einstieg</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

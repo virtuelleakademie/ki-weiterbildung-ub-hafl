@@ -87,15 +87,26 @@ ul.task-list li input[type="checkbox"] {
   });
 </script>
 <style>
-div.callout-active-processing.callout {
+div.callout-agent-potential.callout {
   border-left-color: #9A4665;
 }
-div.callout-active-processing.callout-style-default > .callout-header {
+div.callout-agent-potential.callout-style-default > .callout-header {
   background-color: rgba(154, 70, 101, 0.13);
 }
-div.callout-active-processing .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-active-processing.callout-style-default .callout-icon::before, div.callout-active-processing.callout-titled .callout-icon::before {
-  content: '📝';
+div.callout-agent-potential .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-agent-potential.callout-style-default .callout-icon::before, div.callout-agent-potential.callout-titled .callout-icon::before {
+  content: '🤖';
+  background-image: none;
+}
+div.callout-individual.callout {
+  border-left-color: steelblue;
+}
+div.callout-individual.callout-style-default > .callout-header {
+  background-color: rgb(from steelblue r g b / 13%);
+}
+div.callout-individual .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-individual.callout-style-default .callout-icon::before, div.callout-individual.callout-titled .callout-icon::before {
+  content: '💻';
   background-image: none;
 }
 div.callout-pair.callout {
@@ -109,6 +120,17 @@ div.callout-pair.callout-style-default .callout-icon::before, div.callout-pair.c
   content: '👥';
   background-image: none;
 }
+div.callout-active-processing.callout {
+  border-left-color: #9A4665;
+}
+div.callout-active-processing.callout-style-default > .callout-header {
+  background-color: rgba(154, 70, 101, 0.13);
+}
+div.callout-active-processing .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-active-processing.callout-style-default .callout-icon::before, div.callout-active-processing.callout-titled .callout-icon::before {
+  content: '📝';
+  background-image: none;
+}
 div.callout-pro-tip.callout {
   border-left-color: gold;
 }
@@ -118,17 +140,6 @@ div.callout-pro-tip.callout-style-default > .callout-header {
 div.callout-pro-tip .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
 div.callout-pro-tip.callout-style-default .callout-icon::before, div.callout-pro-tip.callout-titled .callout-icon::before {
   content: '💡';
-  background-image: none;
-}
-div.callout-individual.callout {
-  border-left-color: steelblue;
-}
-div.callout-individual.callout-style-default > .callout-header {
-  background-color: rgb(from steelblue r g b / 13%);
-}
-div.callout-individual .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-individual.callout-style-default .callout-icon::before, div.callout-individual.callout-titled .callout-icon::before {
-  content: '💻';
   background-image: none;
 }
 div.callout-reflect.callout {
@@ -151,17 +162,6 @@ div.callout-group.callout-style-default > .callout-header {
 div.callout-group .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
 div.callout-group.callout-style-default .callout-icon::before, div.callout-group.callout-titled .callout-icon::before {
   content: '👥';
-  background-image: none;
-}
-div.callout-agent-potential.callout {
-  border-left-color: #9A4665;
-}
-div.callout-agent-potential.callout-style-default > .callout-header {
-  background-color: rgba(154, 70, 101, 0.13);
-}
-div.callout-agent-potential .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-agent-potential.callout-style-default .callout-icon::before, div.callout-agent-potential.callout-titled .callout-icon::before {
-  content: '🤖';
   background-image: none;
 }
 </style>
@@ -208,7 +208,12 @@ div.callout-agent-potential.callout-style-default .callout-icon::before, div.cal
   <li class="nav-item">
     <a class="nav-link" href="../../03-lernumgebungen/index.html"> <i class="bi bi-marker-tip" role="img">
 </i> 
-<span class="menu-text">3: KI-gestütztes Lerndesign</span></a>
+<span class="menu-text">3: KI im Unterricht</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../04-ki-in-beratung/index.html"> <i class="bi bi-chat-heart" role="img">
+</i> 
+<span class="menu-text">4: KI in der Beratung</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">

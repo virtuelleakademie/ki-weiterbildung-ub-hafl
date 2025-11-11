@@ -43,9 +43,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-4fcfe6d66dc41868357ea95dec6ef5ad.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-dark-4fcfe6d66dc41868357ea95dec6ef5ad.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-4fcfe6d66dc41868357ea95dec6ef5ad.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-a32d07710c42eac0f676ec5e7ee923a4.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-a32d07710c42eac0f676ec5e7ee923a4.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-a32d07710c42eac0f676ec5e7ee923a4.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script src="../site_libs/quarto-contrib/quarto-timer-1.0.0/timer.js"></script>
 <link href="../site_libs/quarto-contrib/quarto-timer-1.0.0/timer.css" rel="stylesheet">
 <link href="../site_libs/quarto-contrib/bootstrap-icons-1.11.1/all.css" rel="stylesheet">
@@ -88,28 +88,6 @@ ul.task-list li input[type="checkbox"] {
   });
 </script>
 <style>
-div.callout-active-processing.callout {
-  border-left-color: #9A4665;
-}
-div.callout-active-processing.callout-style-default > .callout-header {
-  background-color: rgba(154, 70, 101, 0.13);
-}
-div.callout-active-processing .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-active-processing.callout-style-default .callout-icon::before, div.callout-active-processing.callout-titled .callout-icon::before {
-  content: '📝';
-  background-image: none;
-}
-div.callout-agent-potential.callout {
-  border-left-color: #9A4665;
-}
-div.callout-agent-potential.callout-style-default > .callout-header {
-  background-color: rgba(154, 70, 101, 0.13);
-}
-div.callout-agent-potential .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-agent-potential.callout-style-default .callout-icon::before, div.callout-agent-potential.callout-titled .callout-icon::before {
-  content: '🤖';
-  background-image: none;
-}
 div.callout-pro-tip.callout {
   border-left-color: gold;
 }
@@ -143,15 +121,26 @@ div.callout-reflect.callout-style-default .callout-icon::before, div.callout-ref
   content: '💭';
   background-image: none;
 }
-div.callout-individual.callout {
-  border-left-color: steelblue;
+div.callout-active-processing.callout {
+  border-left-color: #9A4665;
 }
-div.callout-individual.callout-style-default > .callout-header {
-  background-color: rgb(from steelblue r g b / 13%);
+div.callout-active-processing.callout-style-default > .callout-header {
+  background-color: rgba(154, 70, 101, 0.13);
 }
-div.callout-individual .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-individual.callout-style-default .callout-icon::before, div.callout-individual.callout-titled .callout-icon::before {
-  content: '💻';
+div.callout-active-processing .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-active-processing.callout-style-default .callout-icon::before, div.callout-active-processing.callout-titled .callout-icon::before {
+  content: '📝';
+  background-image: none;
+}
+div.callout-agent-potential.callout {
+  border-left-color: #9A4665;
+}
+div.callout-agent-potential.callout-style-default > .callout-header {
+  background-color: rgba(154, 70, 101, 0.13);
+}
+div.callout-agent-potential .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-agent-potential.callout-style-default .callout-icon::before, div.callout-agent-potential.callout-titled .callout-icon::before {
+  content: '🤖';
   background-image: none;
 }
 div.callout-pair.callout {
@@ -163,6 +152,17 @@ div.callout-pair.callout-style-default > .callout-header {
 div.callout-pair .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
 div.callout-pair.callout-style-default .callout-icon::before, div.callout-pair.callout-titled .callout-icon::before {
   content: '👥';
+  background-image: none;
+}
+div.callout-individual.callout {
+  border-left-color: steelblue;
+}
+div.callout-individual.callout-style-default > .callout-header {
+  background-color: rgb(from steelblue r g b / 13%);
+}
+div.callout-individual .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-individual.callout-style-default .callout-icon::before, div.callout-individual.callout-titled .callout-icon::before {
+  content: '💻';
   background-image: none;
 }
 </style>
@@ -218,7 +218,12 @@ div.callout-pair.callout-style-default .callout-icon::before, div.callout-pair.c
   <li class="nav-item">
     <a class="nav-link" href="../03-lernumgebungen/index.html"> <i class="bi bi-marker-tip" role="img">
 </i> 
-<span class="menu-text">3: KI-gestütztes Lerndesign</span></a>
+<span class="menu-text">3: KI im Unterricht</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../04-ki-in-beratung/index.html"> <i class="bi bi-chat-heart" role="img">
+</i> 
+<span class="menu-text">4: KI in der Beratung</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
@@ -264,12 +269,12 @@ div.callout-pair.callout-style-default .callout-icon::before, div.callout-pair.c
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#was-ist-künstliche-intelligenz" id="toc-was-ist-künstliche-intelligenz" class="nav-link active" data-scroll-target="#was-ist-künstliche-intelligenz"><i class="bi-file-slides " style="" role="img" aria-hidden="true"></i> Was ist Künstliche Intelligenz</a></li>
-  <li><a href="#wie-funktionieren-chatbots" id="toc-wie-funktionieren-chatbots" class="nav-link" data-scroll-target="#wie-funktionieren-chatbots"><i class="bi-file-slides " style="" role="img" aria-hidden="true"></i> Wie funktionieren Chatbots?</a></li>
-  <li><a href="#aktive-verarbeitung" id="toc-aktive-verarbeitung" class="nav-link" data-scroll-target="#aktive-verarbeitung"><i class="bi-megaphone " style="" role="img" aria-hidden="true"></i> Aktive Verarbeitung</a></li>
-  <li><a href="#was-sind-agents" id="toc-was-sind-agents" class="nav-link" data-scroll-target="#was-sind-agents"><i class="bi-file-slides " style="" role="img" aria-hidden="true"></i> Was sind Agents?</a></li>
-  <li><a href="#möglichkeiten-und-grenzen" id="toc-möglichkeiten-und-grenzen" class="nav-link" data-scroll-target="#möglichkeiten-und-grenzen"><i class="bi-file-slides " style="" role="img" aria-hidden="true"></i> Möglichkeiten und Grenzen</a></li>
-  <li><a href="#prompting-tipps" id="toc-prompting-tipps" class="nav-link" data-scroll-target="#prompting-tipps"><i class="bi-file-slides " style="" role="img" aria-hidden="true"></i> Prompting Tipps</a></li>
+  <li><a href="#was-meinen-wir-mit-ki-in-diesem-workshop" id="toc-was-meinen-wir-mit-ki-in-diesem-workshop" class="nav-link active" data-scroll-target="#was-meinen-wir-mit-ki-in-diesem-workshop">Was meinen wir mit “KI” in diesem Workshop?</a></li>
+  <li><a href="#was-ist-künstliche-intelligenz-optional" id="toc-was-ist-künstliche-intelligenz-optional" class="nav-link" data-scroll-target="#was-ist-künstliche-intelligenz-optional"><i class="bi-file-slides " style="" role="img" aria-hidden="true"></i> Was ist Künstliche Intelligenz (Optional)</a></li>
+  <li><a href="#wie-funktionieren-chatbots-15-min" id="toc-wie-funktionieren-chatbots-15-min" class="nav-link" data-scroll-target="#wie-funktionieren-chatbots-15-min"><i class="bi-file-slides " style="" role="img" aria-hidden="true"></i> Wie funktionieren Chatbots? (15 Min)</a></li>
+  <li><a href="#aktive-verarbeitung-5-min" id="toc-aktive-verarbeitung-5-min" class="nav-link" data-scroll-target="#aktive-verarbeitung-5-min"><i class="bi-megaphone " style="" role="img" aria-hidden="true"></i> Aktive Verarbeitung (5 Min)</a></li>
+  <li><a href="#was-sind-agents-15-min" id="toc-was-sind-agents-15-min" class="nav-link" data-scroll-target="#was-sind-agents-15-min"><i class="bi-file-slides " style="" role="img" aria-hidden="true"></i> Was sind Agents? (15 Min)</a></li>
+  <li><a href="#prompting-tipps-5-min" id="toc-prompting-tipps-5-min" class="nav-link" data-scroll-target="#prompting-tipps-5-min"><i class="bi-file-slides " style="" role="img" aria-hidden="true"></i> Prompting Tipps (5 Min)</a></li>
   <li><a href="#weiterführende-kurse" id="toc-weiterführende-kurse" class="nav-link" data-scroll-target="#weiterführende-kurse"><i class="bi-book " style="" role="img" aria-hidden="true"></i> Weiterführende Kurse</a></li>
   </ul>
 </nav>
@@ -296,17 +301,29 @@ div.callout-pair.callout-style-default .callout-icon::before, div.callout-pair.c
 </header>
 
 
-<p>In diesem ersten Teil des Workshops legen wir die Grundlagen für ein fundiertes Verständnis von Künstlicher Intelligenz im Bildungskontext. Wir beginnen mit einer klaren Einordnung, was KI ist und wie sie funktioniert – insbesondere die Large Language Models (LLMs), die hinter Chatbots wie ChatGPT stehen. Du lernst die Mechanismen der Textvorhersage kennen, verstehst die Stärken und Grenzen dieser Technologie und erhältst praktische Einblicke ins effektive Prompting.</p>
-<p>Dieses Grundverständnis ist essentiell, um später informierte Entscheidungen über den didaktisch sinnvollen Einsatz von KI in deiner Lehre treffen zu können. Der Fokus liegt dabei nicht auf technischen Details, sondern auf dem für die Lehre relevanten Verständnis: Was kann KI leisten, was nicht, und was bedeutet das für das Lernen deiner Studierenden?</p>
-<section id="was-ist-künstliche-intelligenz" class="level2">
-<h2 class="anchored" data-anchor-id="was-ist-künstliche-intelligenz"><i class="bi-file-slides " style="" role="img" aria-hidden="true"></i> Was ist Künstliche Intelligenz</h2>
+<p>In diesem ersten Teil des Workshops (30 Min.) legen wir die Grundlagen für ein fundiertes Verständnis von <strong>Sprachmodellen und Chatbots</strong>.</p>
+<section id="was-meinen-wir-mit-ki-in-diesem-workshop" class="level2">
+<h2 class="anchored" data-anchor-id="was-meinen-wir-mit-ki-in-diesem-workshop">Was meinen wir mit “KI” in diesem Workshop?</h2>
+<p>Künstliche Intelligenz (KI) ist ein breiter Begriff für viele verschiedene Technologien. In diesem Workshop konzentrieren wir uns auf:</p>
+<ul>
+<li><strong>Large Language Models (LLMs)</strong> wie ChatGPT, Claude, Gemini</li>
+<li><strong>Textbasierte Chatbots</strong> für Lehre und Beratung</li>
+<li><strong>AI Agents</strong> (Programme, die LLMs nutzen, um Aufgaben zu erledigen)</li>
+</ul>
+<p><strong>Nicht Thema</strong> in diesem Workshop sind: Bilderkennung, Empfehlungssysteme, autonome Systeme, Robotik und andere KI-Technologien.</p>
+<hr>
+<p>Wir beginnen mit einer klaren Einordnung, was <strong>Sprachmodelle</strong> sind und wie sie funktionieren – insbesondere die Large Language Models (LLMs), die hinter Chatbots wie ChatGPT stehen. Du lernst die Mechanismen der Textvorhersage kennen, verstehst die Stärken und Grenzen dieser Technologie und erhältst praktische Einblicke ins effektive Prompting.</p>
+<p>Dieses Grundverständnis ist essentiell, um später informierte Entscheidungen über den sinnvollen Einsatz von <strong>Chatbots</strong> in Unterricht und Beratung treffen zu können. Der Fokus liegt dabei nicht auf technischen Details, sondern auf dem praxisrelevanten Verständnis: Was können Sprachmodelle leisten, was nicht, und was bedeutet das für deine Arbeit mit Studierenden und Lernenden?</p>
+</section>
+<section id="was-ist-künstliche-intelligenz-optional" class="level2">
+<h2 class="anchored" data-anchor-id="was-ist-künstliche-intelligenz-optional"><i class="bi-file-slides " style="" role="img" aria-hidden="true"></i> Was ist Künstliche Intelligenz (Optional)</h2>
 <div class="callout callout-style-simple callout-note no-icon callout-titled">
 <div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Optional
+<span class="screen-reader-only">Note</span>Optional: Überspringen oder bei Bedarf einbauen
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
@@ -321,16 +338,16 @@ div.callout-pair.callout-style-default .callout-icon::before, div.callout-pair.c
 </div>
 </div>
 </section>
-<section id="wie-funktionieren-chatbots" class="level2">
-<h2 class="anchored" data-anchor-id="wie-funktionieren-chatbots"><i class="bi-file-slides " style="" role="img" aria-hidden="true"></i> Wie funktionieren Chatbots?</h2>
+<section id="wie-funktionieren-chatbots-15-min" class="level2">
+<h2 class="anchored" data-anchor-id="wie-funktionieren-chatbots-15-min"><i class="bi-file-slides " style="" role="img" aria-hidden="true"></i> Wie funktionieren Chatbots? (15 Min)</h2>
     <p><a href="../slides/was-sind-chatbots/index.html" target="_blank">View slides in full screen</a></p>
        <div class="ratio ratio-16x9">
       <iframe class="slide-deck" src="../slides/was-sind-chatbots/index.html" height="500px"></iframe>
     </div>
   
 </section>
-<section id="aktive-verarbeitung" class="level2">
-<h2 class="anchored" data-anchor-id="aktive-verarbeitung"><i class="bi-megaphone " style="" role="img" aria-hidden="true"></i> Aktive Verarbeitung</h2>
+<section id="aktive-verarbeitung-5-min" class="level2">
+<h2 class="anchored" data-anchor-id="aktive-verarbeitung-5-min"><i class="bi-megaphone " style="" role="img" aria-hidden="true"></i> Aktive Verarbeitung (5 Min)</h2>
 <div class="callout callout-style-default callout-active-processing callout-titled">
 <div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
@@ -362,31 +379,23 @@ div.callout-pair.callout-style-default .callout-icon::before, div.callout-pair.c
 </div>
 </div>
 </section>
-<section id="was-sind-agents" class="level2">
-<h2 class="anchored" data-anchor-id="was-sind-agents"><i class="bi-file-slides " style="" role="img" aria-hidden="true"></i> Was sind Agents?</h2>
+<section id="was-sind-agents-15-min" class="level2">
+<h2 class="anchored" data-anchor-id="was-sind-agents-15-min"><i class="bi-file-slides " style="" role="img" aria-hidden="true"></i> Was sind Agents? (15 Min)</h2>
     <p><a href="../slides/was-sind-agenten/index.html" target="_blank">View slides in full screen</a></p>
        <div class="ratio ratio-16x9">
       <iframe class="slide-deck" src="../slides/was-sind-agenten/index.html" height="500px"></iframe>
     </div>
   
 </section>
-<section id="möglichkeiten-und-grenzen" class="level2">
-<h2 class="anchored" data-anchor-id="möglichkeiten-und-grenzen"><i class="bi-file-slides " style="" role="img" aria-hidden="true"></i> Möglichkeiten und Grenzen</h2>
-    <p><a href="../slides/möglichkeiten-grenzen/index.html" target="_blank">View slides in full screen</a></p>
-       <div class="ratio ratio-16x9">
-      <iframe class="slide-deck" src="../slides/möglichkeiten-grenzen/index.html" height="500px"></iframe>
-    </div>
-  
-</section>
-<section id="prompting-tipps" class="level2">
-<h2 class="anchored" data-anchor-id="prompting-tipps"><i class="bi-file-slides " style="" role="img" aria-hidden="true"></i> Prompting Tipps</h2>
+<section id="prompting-tipps-5-min" class="level2">
+<h2 class="anchored" data-anchor-id="prompting-tipps-5-min"><i class="bi-file-slides " style="" role="img" aria-hidden="true"></i> Prompting Tipps (5 Min)</h2>
 <div class="callout callout-style-simple callout-note no-icon callout-titled">
 <div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-3-contents" aria-controls="callout-3" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Optional
+<span class="screen-reader-only">Note</span>Schneller Überblick – bei Bedarf vertiefen
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
