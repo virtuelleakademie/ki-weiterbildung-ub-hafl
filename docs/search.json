@@ -768,54 +768,54 @@
   {
     "objectID": "workshop/einstieg/index.html",
     "href": "workshop/einstieg/index.html",
-    "title": "Aktivierender Einstieg",
+    "title": "Einstieg",
     "section": "",
     "text": "Stelle dich kurz vor:\n\nName & Fachbereich/Institut\nKI-Erfahrung (Skala 0-10: 0 = noch nie benutzt, 10 = täglich im Einsatz)\nEine Erwartung an den heutigen Workshop",
     "crumbs": [
       "Workshop",
-      "Aktivierender Einstieg"
+      "Einstieg"
     ]
   },
   {
     "objectID": "workshop/einstieg/index.html#kurze-vorstellungsrunde-5-min",
     "href": "workshop/einstieg/index.html#kurze-vorstellungsrunde-5-min",
-    "title": "Aktivierender Einstieg",
+    "title": "Einstieg",
     "section": "",
     "text": "Stelle dich kurz vor:\n\nName & Fachbereich/Institut\nKI-Erfahrung (Skala 0-10: 0 = noch nie benutzt, 10 = täglich im Einsatz)\nEine Erwartung an den heutigen Workshop",
     "crumbs": [
       "Workshop",
-      "Aktivierender Einstieg"
+      "Einstieg"
     ]
   },
   {
     "objectID": "workshop/einstieg/index.html#überblick-was-uns-heute-erwartet-5-min",
     "href": "workshop/einstieg/index.html#überblick-was-uns-heute-erwartet-5-min",
-    "title": "Aktivierender Einstieg",
+    "title": "Einstieg",
     "section": "Überblick: Was uns heute erwartet (5 Min)",
-    "text": "Überblick: Was uns heute erwartet (5 Min)\n\nUnser Ziel heute:\nIhr lernt, wie Sprachmodelle und Chatbots (wie ChatGPT, Claude, Copilot) euch in Unterricht und Beratung konkret unterstützen können – wissenschaftlich fundiert und verantwortungsvoll eingesetzt.\n\n\n\n\n\n\nNoteWas meinen wir mit “KI” in diesem Workshop?\n\n\n\nIn diesem Workshop fokussieren wir auf Large Language Models (LLMs) und textbasierte Chatbots wie ChatGPT, Claude und Copilot. Andere KI-Technologien (z.B. Bilderkennung, Empfehlungssysteme) sind nicht Thema.\n\n\n\n\nWas ihr heute lernt:\n\nKI verstehen: Wie funktionieren Chatbots und Agents?\nLernpsychologie: Wie lernen Menschen wirklich?\nKI im Unterricht: Hands-on Unterrichtsplanung mit Sprachmodellen\nKI in der Beratung: Simulation von Beratungsgesprächen\nEthik & Reflexion: Verantwortungsvoller Einsatz von Sprachmodellen\n\n\n\nWas ihr mitnehmt:\n\nPraktische Erfahrung mit sprachmodellgestützter Lehr- und Beratungsplanung\nKonkrete Anwendungsideen für euren eigenen Kontext\nKritisches Verständnis für Chancen und Grenzen von Sprachmodellen",
+    "text": "Überblick: Was uns heute erwartet (5 Min)\n\nUnser Ziel heute:\nIhr lernt, wie Sprachmodelle und Chatbots (wie ChatGPT, Claude, Copilot) euch in Unterricht und Beratung konkret unterstützen können —wissenschaftlich fundiert und verantwortungsvoll eingesetzt.\n\n\n\n\n\n\nNoteWas meinen wir mit “KI” in diesem Workshop?\n\n\n\nIn diesem Workshop fokussieren wir auf Large Language Models (LLMs) und textbasierte Chatbots wie ChatGPT, Claude und Copilot. Andere KI-Technologien (z.B. Bilderkennung, Empfehlungssysteme) sind nicht Thema.\n\n\n\n\nWas ihr heute lernt:\n\nKI verstehen: Wie funktionieren Chatbots und Agents?\nLernpsychologie: Wie lernen Menschen wirklich?\nKI im Unterricht: Hands-on Unterrichtsplanung mit Sprachmodellen\nKI in der Beratung: Simulation von Beratungsgesprächen\nEthik & Reflexion: Verantwortungsvoller Einsatz von Sprachmodellen\n\n\n\nWas ihr mitnehmt:\n\nPraktische Erfahrung mit sprachmodellgestützter Lehr- und Beratungsplanung\nKonkrete Anwendungsideen für euren eigenen Kontext\nKritisches Verständnis für Chancen und Grenzen von Sprachmodellen",
     "crumbs": [
       "Workshop",
-      "Aktivierender Einstieg"
+      "Einstieg"
     ]
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "KI-Weiterbildung für UB",
+    "title": "KI-Weiterbildung UB",
     "section": "",
     "text": "12. November 2025\n9:00–12:00 Uhr\n21. November 2025\n13:00–16:00 Uhr\nB.2.61, HAFL Zollikofen"
   },
   {
     "objectID": "index.html#dozent",
     "href": "index.html#dozent",
-    "title": "KI-Weiterbildung für UB",
+    "title": "KI-Weiterbildung UB",
     "section": "Dozent",
     "text": "Dozent\nDr. Andrew Ellis ist Kognitionspsychologe und Wissenschaftlicher Mitarbeiter an der Virtuellen Akademie der Berner Fachhochschule. Er erforscht, wie künstliche Intelligenz in Bildungssystemen wirkungsvoll eingesetzt werden kann."
   },
   {
     "objectID": "index.html#website",
     "href": "index.html#website",
-    "title": "KI-Weiterbildung für UB",
+    "title": "KI-Weiterbildung UB",
     "section": "Website",
     "text": "Website\n virtuelleakademie.github.io/ki-weiterbildung-ub-hafl/"
   },
@@ -824,7 +824,7 @@
     "href": "workshop/diskussion/index.html",
     "title": "Transfer & Abschluss",
     "section": "",
-    "text": "Überlege für dich (kann auch in Partnerarbeit):\n\n\n\nEine wichtige Erkenntnis aus dem Workshop\nEin konkreter Anwendungsfall für meinen Unterricht oder meine Beratung\nMein erster Schritt: Was probiere ich als nächstes aus?\n\n\n\n\n\nTool-Wahl: Welches KI-Tool werde ich nutzen? (ChatGPT, Claude, Copilot, etc.)\nKontext: In welcher konkreten Situation setze ich KI ein?\nGrenzen beachten: Wo ziehe ich bewusst eine Grenze?\n\nOptional - Notiere dir:\nMeine wichtigste Erkenntnis: ____________________\nMein erster Schritt: ____________________________\nBis wann: ______________________________________\n\n\n\n\nJede/r teilt in 30 Sekunden:\n\nEine Erkenntnis aus dem heutigen Workshop, oder\nEinen konkreten nächsten Schritt, den ihr umsetzen wollt\n\n\n\n\n\n\n\nTipTake-Away Message\n\n\n\nVerantwortungsvoller KI-Einsatz bedeutet:\n\nKI unterstützt pädagogische und beraterische Professionalität, ersetzt sie nicht\nKI fördert kognitive Anstrengung bei Lernenden, umgeht sie nicht\nKI respektiert Datenschutz und Vertraulichkeit\nWir bleiben reflektiert und kritisch im Umgang mit der Technologie",
+    "text": "Überlege für dich (oder in Partnerarbeit):\n\n\n\nEine wichtige Erkenntnis aus dem Workshop\nEin konkreter Anwendungsfall für meinen Unterricht oder meine Beratung\nMein erster Schritt: Was probiere ich als nächstes aus?\n\n\n\n\n\nTool-Wahl: Welche KI-Tools werde ich nutzen? (ChatGPT, Claude, Copilot, etc.)\nKontext: In welcher konkreten Situation setze ich KI ein?\nGrenzen beachten: Wo ziehe ich bewusst eine Grenze? Wo werde ich KI nicht einsetzen?\n\n\n\n\n\nJede/r teilt in 30 Sekunden:\n\nEine Erkenntnis aus dem heutigen Workshop, oder\nEinen konkreten nächsten Schritt, den ihr umsetzen wollt",
     "crumbs": [
       "Workshop",
       "Transfer & Abschluss"
@@ -835,7 +835,7 @@
     "href": "workshop/diskussion/index.html#von-der-idee-zur-umsetzung-15-min",
     "title": "Transfer & Abschluss",
     "section": "",
-    "text": "Überlege für dich (kann auch in Partnerarbeit):\n\n\n\nEine wichtige Erkenntnis aus dem Workshop\nEin konkreter Anwendungsfall für meinen Unterricht oder meine Beratung\nMein erster Schritt: Was probiere ich als nächstes aus?\n\n\n\n\n\nTool-Wahl: Welches KI-Tool werde ich nutzen? (ChatGPT, Claude, Copilot, etc.)\nKontext: In welcher konkreten Situation setze ich KI ein?\nGrenzen beachten: Wo ziehe ich bewusst eine Grenze?\n\nOptional - Notiere dir:\nMeine wichtigste Erkenntnis: ____________________\nMein erster Schritt: ____________________________\nBis wann: ______________________________________\n\n\n\n\nJede/r teilt in 30 Sekunden:\n\nEine Erkenntnis aus dem heutigen Workshop, oder\nEinen konkreten nächsten Schritt, den ihr umsetzen wollt\n\n\n\n\n\n\n\nTipTake-Away Message\n\n\n\nVerantwortungsvoller KI-Einsatz bedeutet:\n\nKI unterstützt pädagogische und beraterische Professionalität, ersetzt sie nicht\nKI fördert kognitive Anstrengung bei Lernenden, umgeht sie nicht\nKI respektiert Datenschutz und Vertraulichkeit\nWir bleiben reflektiert und kritisch im Umgang mit der Technologie",
+    "text": "Überlege für dich (oder in Partnerarbeit):\n\n\n\nEine wichtige Erkenntnis aus dem Workshop\nEin konkreter Anwendungsfall für meinen Unterricht oder meine Beratung\nMein erster Schritt: Was probiere ich als nächstes aus?\n\n\n\n\n\nTool-Wahl: Welche KI-Tools werde ich nutzen? (ChatGPT, Claude, Copilot, etc.)\nKontext: In welcher konkreten Situation setze ich KI ein?\nGrenzen beachten: Wo ziehe ich bewusst eine Grenze? Wo werde ich KI nicht einsetzen?\n\n\n\n\n\nJede/r teilt in 30 Sekunden:\n\nEine Erkenntnis aus dem heutigen Workshop, oder\nEinen konkreten nächsten Schritt, den ihr umsetzen wollt",
     "crumbs": [
       "Workshop",
       "Transfer & Abschluss"
@@ -846,7 +846,7 @@
     "href": "workshop/index.html",
     "title": "Ablauf",
     "section": "",
-    "text": "Zeit\n Thema\n Dauer\n\n\n\n\n09:00 - 09:10\n Einstieg\n\n\n\n\nAktivierende Begrüssung\n10 min\n\n\n09:10 - 09:40\n Teil 1: KI verstehen\n\n\n\n\nGrundlagen: KI & Agents\n30 min\n\n\n09:40 - 09:55\n Pause\n\n\n\n\nKaffee\n15 min\n\n\n09:55 - 10:10\n Teil 2: Lernen verstehen\n\n\n\n\nWie Menschen lernen\n15 min\n\n\n10:10 - 11:00\n Teil 3A: KI im Unterricht\n\n\n\n\nKI-gestützte Lehrplanung\n50 min\n\n\n11:00 - 11:30\n Teil 3B: KI in der Beratung\n\n\n\n\nBeratungsgespräche simulieren\n30 min\n\n\n11:30 - 11:45\n Teil 4: Ethik & Reflexion\n\n\n\n\nVerantwortungsvoller KI-Einsatz\n15 min\n\n\n11:45 - 12:00\n Transfer & Abschluss\n\n\n\n\nUmsetzung & nächste Schritte\n15 min",
+    "text": "Zeit\n Thema\n Dauer\n\n\n\n\n09:00 - 09:10\n Einstieg\n\n\n\n\nBegrüssung\n10 min\n\n\n09:10 - 09:40\n Teil 1: KI verstehen\n\n\n\n\nGrundlagen: KI, Chatbots & Agents\n30 min\n\n\n09:40 - 09:55\n Teil 2: Lernen verstehen\n\n\n\n\nWie Menschen lernen\n15 min\n\n\n09:55 - 10:10\n Pause\n\n\n\n\nKaffee\n15 min\n\n\n10:10 - 11:00\n Teil 3A: KI im Unterricht\n\n\n\n\nKI-gestützte Lehrplanung\n50 min\n\n\n11:00 - 11:30\n Teil 3B: KI in der Beratung\n\n\n\n\nBeratungsgespräche simulieren\n30 min\n\n\n11:30 - 11:45\n Teil 4: Ethik & Reflexion\n\n\n\n\nVerantwortungsvoller KI-Einsatz\n15 min\n\n\n11:45 - 12:00\n Transfer & Abschluss\n\n\n\n\nUmsetzung & nächste Schritte\n15 min",
     "crumbs": [
       "Workshop",
       "Ablauf"
@@ -857,7 +857,7 @@
     "href": "workshop/index.html#workshop-ablauf-ki-für-unterricht-beratung-3-stunden",
     "title": "Ablauf",
     "section": "",
-    "text": "Zeit\n Thema\n Dauer\n\n\n\n\n09:00 - 09:10\n Einstieg\n\n\n\n\nAktivierende Begrüssung\n10 min\n\n\n09:10 - 09:40\n Teil 1: KI verstehen\n\n\n\n\nGrundlagen: KI & Agents\n30 min\n\n\n09:40 - 09:55\n Pause\n\n\n\n\nKaffee\n15 min\n\n\n09:55 - 10:10\n Teil 2: Lernen verstehen\n\n\n\n\nWie Menschen lernen\n15 min\n\n\n10:10 - 11:00\n Teil 3A: KI im Unterricht\n\n\n\n\nKI-gestützte Lehrplanung\n50 min\n\n\n11:00 - 11:30\n Teil 3B: KI in der Beratung\n\n\n\n\nBeratungsgespräche simulieren\n30 min\n\n\n11:30 - 11:45\n Teil 4: Ethik & Reflexion\n\n\n\n\nVerantwortungsvoller KI-Einsatz\n15 min\n\n\n11:45 - 12:00\n Transfer & Abschluss\n\n\n\n\nUmsetzung & nächste Schritte\n15 min",
+    "text": "Zeit\n Thema\n Dauer\n\n\n\n\n09:00 - 09:10\n Einstieg\n\n\n\n\nBegrüssung\n10 min\n\n\n09:10 - 09:40\n Teil 1: KI verstehen\n\n\n\n\nGrundlagen: KI, Chatbots & Agents\n30 min\n\n\n09:40 - 09:55\n Teil 2: Lernen verstehen\n\n\n\n\nWie Menschen lernen\n15 min\n\n\n09:55 - 10:10\n Pause\n\n\n\n\nKaffee\n15 min\n\n\n10:10 - 11:00\n Teil 3A: KI im Unterricht\n\n\n\n\nKI-gestützte Lehrplanung\n50 min\n\n\n11:00 - 11:30\n Teil 3B: KI in der Beratung\n\n\n\n\nBeratungsgespräche simulieren\n30 min\n\n\n11:30 - 11:45\n Teil 4: Ethik & Reflexion\n\n\n\n\nVerantwortungsvoller KI-Einsatz\n15 min\n\n\n11:45 - 12:00\n Transfer & Abschluss\n\n\n\n\nUmsetzung & nächste Schritte\n15 min",
     "crumbs": [
       "Workshop",
       "Ablauf"
@@ -868,7 +868,7 @@
     "href": "workshop/index.html#lernziele",
     "title": "Ablauf",
     "section": "Lernziele",
-    "text": "Lernziele\nAm Ende des Workshops können die Teilnehmer:\n\nKI verstehen: Grundlegende Funktionsweise und Grenzen von LLMs und Chatbots (ChatGPT, Claude, Copilot) erklären\nKI im Unterricht einsetzen: Sprachmodelle gezielt zur Planung, Gestaltung und Reflexion von Lehrsituationen nutzen\nKI in der Beratung einsetzen: Beratungsgespräche mit Chatbot-Unterstützung vorbereiten und reflektieren\nEthisch reflektieren: Ethische, didaktische und psychologische Implikationen des Sprachmodell-Einsatzes kritisch diskutieren\nTransfer leisten: Konkrete Anwendungsideen für den eigenen Unterrichts- oder Beratungskontext entwickeln",
+    "text": "Lernziele\nAm Ende des Workshops können die Teilnehmer:\n\nKI verstehen: Grundlegende Funktionsweise und Grenzen von LLMs und Chatbots erklären\nKI im Unterricht einsetzen: Sprachmodelle gezielt zur Planung, Gestaltung und Reflexion von Lehrsituationen nutzen\nKI in der Beratung einsetzen: Beratungsgespräche mit Chatbot-Unterstützung vorbereiten und reflektieren\nEthisch reflektieren: Ethische, didaktische und psychologische Implikationen des Sprachmodell-Einsatzes kritisch diskutieren\nTransfer leisten: Konkrete Anwendungsideen für den eigenen Unterrichts- oder Beratungskontext entwickeln",
     "crumbs": [
       "Workshop",
       "Ablauf"
@@ -1642,5 +1642,54 @@
     "title": "Wie funktionieren Chatbots?",
     "section": "Custom GPTs",
     "text": "Custom GPTs"
+  },
+  {
+    "objectID": "slides/was-sind-chatbots/index.html#extended-thinking-wenn-llms-nachdenken",
+    "href": "slides/was-sind-chatbots/index.html#extended-thinking-wenn-llms-nachdenken",
+    "title": "Wie funktionieren Chatbots?",
+    "section": "Extended Thinking: Wenn LLMs nachdenken",
+    "text": "Extended Thinking: Wenn LLMs nachdenken\nVon Reaktion zu Reasoning\n\n\nNeuere Modelle (OpenAI o1/o3, Claude Extended Thinking) können vor der Antwort “nachdenken”:\n\nProblem analysieren - Aufgabe in Teilschritte zerlegen\nOptionen durchdenken - Verschiedene Ansätze prüfen\nReasoning-Kette aufbauen - Schritte logisch verbinden\nAntwort generieren - Basierend auf Denkprozess\n\nVorteil: Bessere Antworten bei komplexen Aufgaben (Planung, Problemlösung, Mathematik)\nNachteil: Langsamer und teurer als Standard-Modus\n\nStandard-Modus\nFrage → Antwort\nSchnell, direkt\n\nThinking-Modus\nFrage → &lt;denkt nach…&gt; → Antwort\nLangsam, gründlich\n\n\n\n\nIn eurem Kontext: Thinking-Modus besonders nützlich für Lehrplanung, Fallanalysen, ethische Dilemmata."
+  },
+  {
+    "objectID": "slides/was-sind-chatbots/index.html#der-paradigmenwechsel",
+    "href": "slides/was-sind-chatbots/index.html#der-paradigmenwechsel",
+    "title": "Wie funktionieren Chatbots?",
+    "section": "Der Paradigmenwechsel",
+    "text": "Der Paradigmenwechsel\nVon reaktiven Tools zu proaktiven Partnern\n\n\nTraditional Chatbot\nBenutzer: “Plane eine Reise nach Paris”\nChatbot:\n\n“Hier sind 5 Hotels in Paris…”\n“Diese Flüge sind verfügbar…”\n“Sehenswürdigkeiten: Eiffelturm…”\nDu musst alles selbst buchen\n\n\nAI Agent\nBenutzer: “Plane eine Reise nach Paris”\nAgent:\n\nCheckt deinen Kalender\nBucht Flug und Hotel\nErstellt Reiseroute\nSendet Bestätigungen\nErledigt die komplette Aufgabe\n\n\n\n\n\nDer Unterschied: Ein Chatbot beantwortet die nächste Frage. Ein Agent arbeitet das Problem, bis der Job erledigt ist."
+  },
+  {
+    "objectID": "slides/was-sind-chatbots/index.html#was-sind-ai-agents",
+    "href": "slides/was-sind-chatbots/index.html#was-sind-ai-agents",
+    "title": "Wie funktionieren Chatbots?",
+    "section": "Was sind AI Agents?",
+    "text": "Was sind AI Agents?\nLLM + Gedächtnis + Werkzeuge + Entscheidungsschleife\n\n\nDie Grundformel\nLLM-basierte Agenten =\n\nLLM (GPT-5, Claude, …) für Reasoning\n+ Gedächtnis (Kurz- & Langzeit)\n+ Werkzeuge (APIs, Datenbanken, Code)\n+ Entscheidungsschleife (kontinuierlich)\n\n\nDer Agent-Zyklus\n\nWahrnehmung - Input/Umgebung\nPlanung - LLM überlegt Schritte\nHandlung - Tools/APIs verwenden\nFeedback - Ergebnisse bewerten\n\n\n\n\n\nAgents verwandeln passive Sprachmodelle in aktive, handelnde Systeme durch kontinuierliche Wahrnehmung-Planung-Handlung-Zyklen."
+  },
+  {
+    "objectID": "slides/was-sind-chatbots/index.html#von-chatbot-zu-agent-unterschiedie",
+    "href": "slides/was-sind-chatbots/index.html#von-chatbot-zu-agent-unterschiedie",
+    "title": "Wie funktionieren Chatbots?",
+    "section": "Von Chatbot zu Agent: Unterschiedie",
+    "text": "Von Chatbot zu Agent: Unterschiedie\nZwei verschiedene Paradigmen\n\n\n\n\n\n\n\n\nDimension\nChatbot\nAI Agent\n\n\n\n\nVerhalten\n• Reaktiv: Antwortet nur auf Anfragen\n• Proaktiv: Arbeitet kontinuierlich zum Ziel\n\n\nAufgaben\n• Einzelne Antworten• Session-basiert\n• Komplette Workflows• End-to-End Execution\n\n\nGedächtnis\n• Nur während Konversation (im Kontext)• Kein Lernen\n• Persistent über Zeit• Lernt aus Interaktionen (speichert “Memories”)\n\n\nTools\n• Keine externen Integrationen\n• APIs, Datenbanken, Apps• Real-time Integration\n\n\nPlanung\n• Keine Strategieentwicklung\n• Multi-step Planning• Selbstkorrektur"
+  },
+  {
+    "objectID": "slides/was-sind-chatbots/index.html#chatgpt-gpts",
+    "href": "slides/was-sind-chatbots/index.html#chatgpt-gpts",
+    "title": "Wie funktionieren Chatbots?",
+    "section": "ChatGPT: GPTs",
+    "text": "ChatGPT: GPTs"
+  },
+  {
+    "objectID": "slides/was-sind-chatbots/index.html#copilot-agents",
+    "href": "slides/was-sind-chatbots/index.html#copilot-agents",
+    "title": "Wie funktionieren Chatbots?",
+    "section": "Copilot Agents",
+    "text": "Copilot Agents"
+  },
+  {
+    "objectID": "01-ki-verstehen/index.html#wie-funktionieren-chatbots-20-min",
+    "href": "01-ki-verstehen/index.html#wie-funktionieren-chatbots-20-min",
+    "title": "KI verstehen",
+    "section": " Wie funktionieren Chatbots? (20 Min)",
+    "text": "Wie funktionieren Chatbots? (20 Min)\n    View slides in full screen"
   }
 ]
