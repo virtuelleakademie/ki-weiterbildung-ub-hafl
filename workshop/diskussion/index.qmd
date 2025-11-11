@@ -4,37 +4,43 @@ title: Transfer & Abschluss
 
 ## Von der Idee zur Umsetzung (15 Min)
 
-### Schritt 1: Persönlicher Umsetzungsplan (8 Min)
+### Schritt 1: Persönliche Reflexion (8 Min)
 
-**Entwickle deinen konkreten nächsten Schritt:**
+**Überlege für dich (kann auch in Partnerarbeit):**
 
 #### **Was nehme ich mit?**
 
-- Welche **Make-it-Stick-Strategie** will ich als erstes umsetzen?
-- Welches **Agent-Konzept** ist realistisch für meine Lehre?
-- Was ist mein **konkreter erster Schritt**?
+- **Eine wichtige Erkenntnis** aus dem Workshop
+- **Ein konkreter Anwendungsfall** für meinen Unterricht oder meine Beratung
+- **Mein erster Schritt**: Was probiere ich als nächstes aus?
 
 #### **Wie setze ich das um?**
-- **Tool-Wahl**: GPT, Copilot, oder andere KI-Tools?
-- **Pilotversuch**: Wo teste ich meinen Agent zuerst?
-- **Erfolg messen**: Woran erkenne ich, dass es funktioniert?
 
-<!-- **Notiere dir:** -->
-<!-- ``` -->
-<!-- Meine Strategie: ____________________ -->
-<!-- Mein erster Schritt: ________________ -->
-<!-- Bis wann: __________________________ -->
-<!-- ``` -->
+- **Tool-Wahl**: Welches KI-Tool werde ich nutzen? (ChatGPT, Claude, Copilot, etc.)
+- **Kontext**: In welcher konkreten Situation setze ich KI ein?
+- **Grenzen beachten**: Wo ziehe ich bewusst eine Grenze?
 
-### Schritt 2: Blitzlicht (7 Min)
+**Optional - Notiere dir:**
+```
+Meine wichtigste Erkenntnis: ____________________
+Mein erster Schritt: ____________________________
+Bis wann: ______________________________________
+```
 
-**Jeder teilt in 30 Sekunden:**
+### Schritt 2: Blitzlicht-Runde (7 Min)
 
-- **Eine Erkenntnis** aus dem heutigen Workshop
-- **Einen konkreten nächsten Schritt**
+**Jede/r teilt in 30 Sekunden:**
+
+- **Eine Erkenntnis** aus dem heutigen Workshop, oder
+- **Einen konkreten nächsten Schritt**, den ihr umsetzen wollt
 
 ::: {.callout-tip}
 ## Take-Away Message
 
-**Wissenschaftlich fundierter KI Einsatz** bedeutet: KI-Tools sollen die bewährten Lernstrategien **fördern**, nicht **ersetzen**.
+**Verantwortungsvoller KI-Einsatz** bedeutet:
+
+- KI unterstützt **pädagogische und beraterische Professionalität**, ersetzt sie nicht
+- KI fördert **kognitive Anstrengung** bei Lernenden, umgeht sie nicht
+- KI respektiert **Datenschutz und Vertraulichkeit**
+- Wir bleiben **reflektiert und kritisch** im Umgang mit der Technologie
 :::

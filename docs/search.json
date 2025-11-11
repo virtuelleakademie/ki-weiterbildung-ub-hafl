@@ -789,23 +789,23 @@
   {
     "objectID": "workshop/einstieg/index.html",
     "href": "workshop/einstieg/index.html",
-    "title": "Aktivierende Einstieg",
+    "title": "Aktivierender Einstieg",
     "section": "",
-    "text": "Stelle dich kurz vor:\n\nName & Institut\nKI-Erfahrung (Skala 0-10)\nLehrthema das du heute mitgebracht hast",
+    "text": "Stelle dich kurz vor:\n\nName & Fachbereich/Institut\nKI-Erfahrung (Skala 0-10: 0 = noch nie benutzt, 10 = täglich im Einsatz)\nEine Erwartung an den heutigen Workshop",
     "crumbs": [
       "Workshop",
-      "Aktivierende Einstieg"
+      "Aktivierender Einstieg"
     ]
   },
   {
     "objectID": "workshop/einstieg/index.html#kurze-vorstellungsrunde-5-min",
     "href": "workshop/einstieg/index.html#kurze-vorstellungsrunde-5-min",
-    "title": "Aktivierende Einstieg",
+    "title": "Aktivierender Einstieg",
     "section": "",
-    "text": "Stelle dich kurz vor:\n\nName & Institut\nKI-Erfahrung (Skala 0-10)\nLehrthema das du heute mitgebracht hast",
+    "text": "Stelle dich kurz vor:\n\nName & Fachbereich/Institut\nKI-Erfahrung (Skala 0-10: 0 = noch nie benutzt, 10 = täglich im Einsatz)\nEine Erwartung an den heutigen Workshop",
     "crumbs": [
       "Workshop",
-      "Aktivierende Einstieg"
+      "Aktivierender Einstieg"
     ]
   },
   {
@@ -845,7 +845,7 @@
     "href": "workshop/diskussion/index.html",
     "title": "Transfer & Abschluss",
     "section": "",
-    "text": "Entwickle deinen konkreten nächsten Schritt:\n\n\n\nWelche Make-it-Stick-Strategie will ich als erstes umsetzen?\nWelches Agent-Konzept ist realistisch für meine Lehre?\nWas ist mein konkreter erster Schritt?\n\n\n\n\n\nTool-Wahl: GPT, Copilot, oder andere KI-Tools?\nPilotversuch: Wo teste ich meinen Agent zuerst?\nErfolg messen: Woran erkenne ich, dass es funktioniert?\n\n\n\n\n\n\n\n\n\n\n\nJeder teilt in 30 Sekunden:\n\nEine Erkenntnis aus dem heutigen Workshop\nEinen konkreten nächsten Schritt\n\n\n\n\n\n\n\nTipTake-Away Message\n\n\n\nWissenschaftlich fundierter KI Einsatz bedeutet: KI-Tools sollen die bewährten Lernstrategien fördern, nicht ersetzen.",
+    "text": "Überlege für dich (kann auch in Partnerarbeit):\n\n\n\nEine wichtige Erkenntnis aus dem Workshop\nEin konkreter Anwendungsfall für meinen Unterricht oder meine Beratung\nMein erster Schritt: Was probiere ich als nächstes aus?\n\n\n\n\n\nTool-Wahl: Welches KI-Tool werde ich nutzen? (ChatGPT, Claude, Copilot, etc.)\nKontext: In welcher konkreten Situation setze ich KI ein?\nGrenzen beachten: Wo ziehe ich bewusst eine Grenze?\n\nOptional - Notiere dir:\nMeine wichtigste Erkenntnis: ____________________\nMein erster Schritt: ____________________________\nBis wann: ______________________________________\n\n\n\n\nJede/r teilt in 30 Sekunden:\n\nEine Erkenntnis aus dem heutigen Workshop, oder\nEinen konkreten nächsten Schritt, den ihr umsetzen wollt\n\n\n\n\n\n\n\nTipTake-Away Message\n\n\n\nVerantwortungsvoller KI-Einsatz bedeutet: - KI unterstützt pädagogische und beraterische Professionalität, ersetzt sie nicht - KI fördert kognitive Anstrengung bei Lernenden, umgeht sie nicht - KI respektiert Datenschutz und Vertraulichkeit - Wir bleiben reflektiert und kritisch im Umgang mit der Technologie",
     "crumbs": [
       "Workshop",
       "Transfer & Abschluss"
@@ -856,7 +856,7 @@
     "href": "workshop/diskussion/index.html#von-der-idee-zur-umsetzung-15-min",
     "title": "Transfer & Abschluss",
     "section": "",
-    "text": "Entwickle deinen konkreten nächsten Schritt:\n\n\n\nWelche Make-it-Stick-Strategie will ich als erstes umsetzen?\nWelches Agent-Konzept ist realistisch für meine Lehre?\nWas ist mein konkreter erster Schritt?\n\n\n\n\n\nTool-Wahl: GPT, Copilot, oder andere KI-Tools?\nPilotversuch: Wo teste ich meinen Agent zuerst?\nErfolg messen: Woran erkenne ich, dass es funktioniert?\n\n\n\n\n\n\n\n\n\n\n\nJeder teilt in 30 Sekunden:\n\nEine Erkenntnis aus dem heutigen Workshop\nEinen konkreten nächsten Schritt\n\n\n\n\n\n\n\nTipTake-Away Message\n\n\n\nWissenschaftlich fundierter KI Einsatz bedeutet: KI-Tools sollen die bewährten Lernstrategien fördern, nicht ersetzen.",
+    "text": "Überlege für dich (kann auch in Partnerarbeit):\n\n\n\nEine wichtige Erkenntnis aus dem Workshop\nEin konkreter Anwendungsfall für meinen Unterricht oder meine Beratung\nMein erster Schritt: Was probiere ich als nächstes aus?\n\n\n\n\n\nTool-Wahl: Welches KI-Tool werde ich nutzen? (ChatGPT, Claude, Copilot, etc.)\nKontext: In welcher konkreten Situation setze ich KI ein?\nGrenzen beachten: Wo ziehe ich bewusst eine Grenze?\n\nOptional - Notiere dir:\nMeine wichtigste Erkenntnis: ____________________\nMein erster Schritt: ____________________________\nBis wann: ______________________________________\n\n\n\n\nJede/r teilt in 30 Sekunden:\n\nEine Erkenntnis aus dem heutigen Workshop, oder\nEinen konkreten nächsten Schritt, den ihr umsetzen wollt\n\n\n\n\n\n\n\nTipTake-Away Message\n\n\n\nVerantwortungsvoller KI-Einsatz bedeutet: - KI unterstützt pädagogische und beraterische Professionalität, ersetzt sie nicht - KI fördert kognitive Anstrengung bei Lernenden, umgeht sie nicht - KI respektiert Datenschutz und Vertraulichkeit - Wir bleiben reflektiert und kritisch im Umgang mit der Technologie",
     "crumbs": [
       "Workshop",
       "Transfer & Abschluss"
@@ -1716,7 +1716,7 @@
     "href": "03-lernumgebungen/index.html#gruppenarbeit-unterrichtseinheit-mit-ki-planen-30-min",
     "title": "KI im Unterricht",
     "section": "Gruppenarbeit: Unterrichtseinheit mit KI planen (30 Min)",
-    "text": "Gruppenarbeit: Unterrichtseinheit mit KI planen (30 Min)\n\n\n\n\n\n\nGroupAblauf der Gruppenarbeit\n\n\n\nGruppengrösse: 3-4 Personen\n\nPhase 1: Thema wählen & Planung starten (15 Min)\nAufgabe: Wählt ein Unterrichtsthema aus eurem eigenen Lehrkontext und plant gemeinsam eine Unterrichtseinheit mit KI-Unterstützung.\nSchritt für Schritt:\n\nThema festlegen (2 Min)\n\nWählt ein konkretes Thema aus eurem Fachbereich\nDefiniert die Zielgruppe (z.B. Studierende im 2. Semester)\nLegt grobe Lernziele fest\n\nKI zur Lernzielanalyse nutzen (5 Min)\n\nNutzt ChatGPT/Claude, um eure Lernziele zu konkretisieren\nFragt nach: “Wie kann ich diese Lernziele messbarer formulieren?”\nLasst euch Taxonomiestufen (Bloom) vorschlagen\n\nMethodenauswahl mit KI (8 Min)\n\nFragt die KI nach didaktischen Methoden für euer Thema\nWichtig: Filtert kritisch: Welche Methoden fördern produktive Anstrengung?\nWählt 2-3 Methoden aus, die ihr vertiefen wollt\n\n\nTools: ChatGPT, Claude, oder andere verfügbare KI-Tools\n\n\nPhase 2: Aufgabenentwicklung (10 Min)\nAufgabe: Entwickelt mit KI konkrete Lernaufgaben für eure Unterrichtseinheit.\n\nAufgaben generieren (5 Min)\n\nLasst die KI Übungsaufgaben zu eurem Thema erstellen\nVariiert Schwierigkeitsgrade\nFragt nach Aufgaben, die kognitive Anstrengung erfordern\n\nKritisch bewerten (5 Min)\n\nDiskutiert: Fördern diese Aufgaben tiefes Lernen?\nWo müssten die Aufgaben angepasst werden?\nNotiert eure wichtigsten Erkenntnisse\n\n\n\n\nPhase 3: Vorbereitung Präsentation (5 Min)\nBereitet eine 2-minütige Präsentation vor: - Was habt ihr geplant? (30 Sek) - Wie hat KI euch unterstützt? (30 Sek) - Eine Erkenntnis: Was hat überrascht? Wo waren Grenzen? (1 Min)",
+    "text": "Gruppenarbeit: Unterrichtseinheit mit KI planen (30 Min)\n\n\n\n\n\n\nGroupAblauf der Gruppenarbeit\n\n\n\nGruppengrösse: 3-4 Personen\n\nPhase 1: Thema wählen & Planung starten (15 Min)\nAufgabe: Wählt ein Unterrichtsthema aus eurem eigenen Lehrkontext und plant gemeinsam eine Unterrichtseinheit mit KI-Unterstützung.\nSchritt für Schritt:\n\nThema festlegen (2 Min)\n\nWählt ein konkretes Thema aus eurem Fachbereich\nDefiniert die Zielgruppe (z.B. Studierende im 2. Semester)\nLegt grobe Lernziele fest\n\nKI zur Lernzielanalyse nutzen (5 Min)\n\nNutzt ChatGPT/Claude, um eure Lernziele zu konkretisieren\nFragt nach: “Wie kann ich diese Lernziele messbarer formulieren?”\nLasst euch Taxonomiestufen (Bloom) vorschlagen\n\nMethodenauswahl mit KI (8 Min)\n\nFragt die KI nach didaktischen Methoden für euer Thema\nWichtig: Filtert kritisch: Welche Methoden fördern produktive Anstrengung?\nWählt 2-3 Methoden aus, die ihr vertiefen wollt\n\n\nTools: ChatGPT, Claude, oder andere verfügbare KI-Tools\n\n\nPhase 2: Aufgabenentwicklung (10 Min)\nAufgabe: Entwickelt mit KI konkrete Lernaufgaben für eure Unterrichtseinheit.\n\nAufgaben generieren (5 Min)\n\nLasst die KI Übungsaufgaben zu eurem Thema erstellen\nVariiert Schwierigkeitsgrade\nFragt nach Aufgaben, die kognitive Anstrengung erfordern\n\nKritisch bewerten (5 Min)\n\nDiskutiert: Fördern diese Aufgaben tiefes Lernen?\nWo müssten die Aufgaben angepasst werden?\nNotiert eure wichtigsten Erkenntnisse\n\n\n\n\nPhase 3: Vorbereitung Präsentation (5 Min)\nBereitet eine 2-minütige Präsentation vor:\n\nWas habt ihr geplant? (30 Sek)\nWie hat KI euch unterstützt? (30 Sek)\nEine Erkenntnis: Was hat überrascht? Wo waren Grenzen? (1 Min)",
     "crumbs": [
       "3: KI im Unterricht",
       "KI im Unterricht"
@@ -1738,7 +1738,7 @@
     "href": "04-ki-in-beratung/index.html#gruppenarbeit-beratungssimulation-mit-ki-20-min",
     "title": "KI in der Beratung",
     "section": "Gruppenarbeit: Beratungssimulation mit KI (20 Min)",
-    "text": "Gruppenarbeit: Beratungssimulation mit KI (20 Min)\n\n\n\n\n\n\nGroupSimulation von Beratungssituationen\n\n\n\nAblauf (20 Min)\nGruppengrösse: 3-4 Personen\nSchritt 1: Gruppenbildung & Szenario wählen (3 Min)\n\nBildet Gruppen von 3-4 Personen\nWählt gemeinsam ein Beratungsszenario aus den Beispielszenarien\nVerteilt die Rollen:\n\n1 Person: Berater:in (führt das Gespräch mit KI)\n2-3 Personen: Beobachter:innen (achten auf verschiedene Aspekte)\n\n\nSchritt 2: Rollen verteilen & vorbereiten (2 Min)\nBerater:in: - Liest das Szenario durch - Überlegt sich den Einstieg ins Gespräch\nBeobachter:innen verteilen Beobachtungsfokus: - Person 1: Achtet auf Gesprächsführung (Fragetechniken, Struktur, Zuhören) - Person 2: Achtet auf Beziehungsgestaltung (Empathie, Wertschätzung, Rapport) - Person 3 (falls vorhanden): Achtet auf Lösungsorientierung (Ressourcen, Ziele, Handlungsschritte)\nSchritt 3: Simulation durchführen (10 Min)\nBerater:in: - Gibt der KI (ChatGPT/Claude) die Rolle aus dem Szenario - Führt das Beratungsgespräch (ca. 8-10 Min) - Versucht professionelle Gesprächstechniken anzuwenden\nBeobachter:innen: - Machen sich Notizen zu ihrem Beobachtungsfokus - Achten auch auf: Wo wirkt die KI realistisch? Wo nicht?\nSchritt 4: Reflexion in der Gruppe (5 Min)\nAustausch im Gruppe:\n\nBerater:in berichtet (1 Min): Wie war das Gespräch? Was war schwierig?\nBeobachter:innen geben Feedback (3 Min):\n\nWas hat gut funktioniert?\nWo waren die Grenzen der KI spürbar?\nWelche Gesprächstechniken haben gut/nicht gut funktioniert?\n\nGemeinsame Einschätzung (1 Min):\n\nWo könnte dieses Übungsformat hilfreich sein?\nWas müsste man beachten beim Üben mit KI?",
+    "text": "Gruppenarbeit: Beratungssimulation mit KI (20 Min)\n\n\n\n\n\n\nGroupSimulation von Beratungssituationen\n\n\n\nAblauf (20 Min)\nGruppengrösse: 3-4 Personen\nSchritt 1: Gruppenbildung & Szenario wählen (3 Min)\n\nBildet Gruppen von 3-4 Personen\nWählt gemeinsam ein Beratungsszenario aus den Beispielszenarien\nVerteilt die Rollen:\n\n1 Person: Berater:in (führt das Gespräch mit KI)\n2-3 Personen: Beobachter:innen (achten auf verschiedene Aspekte)\n\n\nSchritt 2: Rollen verteilen & vorbereiten (2 Min)\nBerater:in:\n\nLiest das Szenario durch\nÜberlegt sich den Einstieg ins Gespräch\n\nBeobachter:innen verteilen Beobachtungsfokus:\n\nPerson 1: Achtet auf Gesprächsführung (Fragetechniken, Struktur, Zuhören)\nPerson 2: Achtet auf Beziehungsgestaltung (Empathie, Wertschätzung, Rapport)\nPerson 3 (falls vorhanden): Achtet auf Lösungsorientierung (Ressourcen, Ziele, Handlungsschritte)\n\nSchritt 3: Simulation durchführen (10 Min)\nBerater:in: - Gibt der KI (ChatGPT/Claude) die Rolle aus dem Szenario - Führt das Beratungsgespräch (ca. 8-10 Min) - Versucht professionelle Gesprächstechniken anzuwenden\nBeobachter:innen: - Machen sich Notizen zu ihrem Beobachtungsfokus - Achten auch auf: Wo wirkt die KI realistisch? Wo nicht?\nSchritt 4: Reflexion in der Gruppe (5 Min)\nAustausch im Gruppe:\n\nBerater:in berichtet (1 Min): Wie war das Gespräch? Was war schwierig?\nBeobachter:innen geben Feedback (3 Min):\n\nWas hat gut funktioniert?\nWo waren die Grenzen der KI spürbar?\nWelche Gesprächstechniken haben gut/nicht gut funktioniert?\n\nGemeinsame Einschätzung (1 Min):\n\nWo könnte dieses Übungsformat hilfreich sein?\nWas müsste man beachten beim Üben mit KI?",
     "crumbs": [
       "4: KI in der Beratung",
       "KI in der Beratung"
@@ -1775,6 +1775,17 @@
     "crumbs": [
       "4: KI in der Beratung",
       "Ethik & Reflexion"
+    ]
+  },
+  {
+    "objectID": "workshop/einstieg/index.html#überblick-was-uns-heute-erwartet-5-min",
+    "href": "workshop/einstieg/index.html#überblick-was-uns-heute-erwartet-5-min",
+    "title": "Aktivierender Einstieg",
+    "section": "Überblick: Was uns heute erwartet (5 Min)",
+    "text": "Überblick: Was uns heute erwartet (5 Min)\n\nUnser Ziel heute:\nIhr lernt, wie KI euch in Unterricht und Beratung konkret unterstützen kann – wissenschaftlich fundiert und verantwortungsvoll eingesetzt.\n\n\nWas ihr heute lernt:\n\nKI verstehen: Wie funktionieren Chatbots und Agents?\nLernpsychologie: Wie lernen Menschen wirklich?\nKI im Unterricht: Hands-on Unterrichtsplanung mit KI\nKI in der Beratung: Simulation von Beratungsgesprächen\nEthik & Reflexion: Verantwortungsvoller KI-Einsatz\n\n\n\nWas ihr mitnehmt:\n\nPraktische Erfahrung mit KI-gestützter Lehr- und Beratungsplanung\nKonkrete Anwendungsideen für euren eigenen Kontext\nKritisches Verständnis für Chancen und Grenzen von KI",
+    "crumbs": [
+      "Workshop",
+      "Aktivierender Einstieg"
     ]
   }
 ]

@@ -60,10 +60,12 @@ KI kann Beratende in verschiedenen Phasen unterstützen:
 **Schritt 2: Rollen verteilen & vorbereiten (2 Min)**
 
 **Berater:in:**
+
 - Liest das Szenario durch
 - Überlegt sich den Einstieg ins Gespräch
 
 **Beobachter:innen verteilen Beobachtungsfokus:**
+
 - Person 1: Achtet auf **Gesprächsführung** (Fragetechniken, Struktur, Zuhören)
 - Person 2: Achtet auf **Beziehungsgestaltung** (Empathie, Wertschätzung, Rapport)
 - Person 3 (falls vorhanden): Achtet auf **Lösungsorientierung** (Ressourcen, Ziele, Handlungsschritte)
@@ -71,11 +73,13 @@ KI kann Beratende in verschiedenen Phasen unterstützen:
 **Schritt 3: Simulation durchführen (10 Min)**
 
 **Berater:in:**
+
 - Gibt der KI (ChatGPT/Claude) die Rolle aus dem Szenario
 - Führt das Beratungsgespräch (ca. 8-10 Min)
 - Versucht professionelle Gesprächstechniken anzuwenden
 
 **Beobachter:innen:**
+
 - Machen sich Notizen zu ihrem Beobachtungsfokus
 - Achten auch auf: Wo wirkt die KI realistisch? Wo nicht?
 

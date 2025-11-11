@@ -82,6 +82,7 @@ Denkt an Teil 2: **Produktivität ≠ Lernen**
 ### Phase 3: Vorbereitung Präsentation (5 Min)
 
 Bereitet eine 2-minütige Präsentation vor:
+
 - **Was** habt ihr geplant? (30 Sek)
 - **Wie** hat KI euch unterstützt? (30 Sek)
 - **Eine Erkenntnis**: Was hat überrascht? Wo waren Grenzen? (1 Min)
@@ -94,17 +95,20 @@ Bereitet eine 2-minütige Präsentation vor:
 ## Austausch der Gruppen
 
 **Ablauf:**
+
 - Jede Gruppe stellt ihre Unterrichtseinheit vor (2 Min pro Gruppe)
 - Kurze Rückfragen aus dem Plenum
 
 **Leitfragen für die Diskussion:**
 
 ### Gemeinsame Muster
+
 - Welche KI-Unterstützung war besonders hilfreich?
 - Wo stiess die KI an Grenzen?
 - Welche Prompting-Strategien haben gut funktioniert?
 
 ### Kritische Reflexion
+
 - Wo besteht die Gefahr, dass KI die kognitive Anstrengung der Lernenden reduziert?
 - Wie können wir sicherstellen, dass KI uns als Lehrende unterstützt, ohne das Lernen zu behindern?
 :::

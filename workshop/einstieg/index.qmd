@@ -1,28 +1,30 @@
 ---
-title: Aktivierende Einstieg
+title: Aktivierender Einstieg
 ---
 
 ## Kurze Vorstellungsrunde (5 Min)
 
 **Stelle dich kurz vor:**
 
-1. **Name & Institut**
-2. **KI-Erfahrung** (Skala 0-10)
-3. **Lehrthema** das du heute mitgebracht hast
+1. **Name & Fachbereich/Institut**
+2. **KI-Erfahrung** (Skala 0-10: 0 = noch nie benutzt, 10 = täglich im Einsatz)
+3. **Eine Erwartung** an den heutigen Workshop
 
 
-## Heute entwickeln wir gemeinsam (5 Min)
+## Überblick: Was uns heute erwartet (5 Min)
 
-**Unser Ziel**: Jeder entwickelt einen **wissenschaftlich fundierten Copilot Agent** für sein eigenes Lehrthema.
-
-### **Was ihr mitgebracht habt:**
-- **Euer spezifisches Lehrthema** (aus der Vorbereitung)
-- **Konkrete Lernprobleme** eurer Studierenden
-- **Erste Ideen** für KI-Unterstützung
+### **Unser Ziel heute:**
+Ihr lernt, wie KI euch in **Unterricht und Beratung** konkret unterstützen kann – wissenschaftlich fundiert und verantwortungsvoll eingesetzt.
 
 ### **Was ihr heute lernt:**
-- **Unterschied** zwischen Tools und Agents
-- **8 wissenschaftlich bewährte** Lernstrategien
-- **Praktisches Agent-Design** mit Think-Pair-Share
-- **Konkrete Umsetzung** für eure Lehre
+1. **KI verstehen**: Wie funktionieren Chatbots und Agents?
+2. **Lernpsychologie**: Wie lernen Menschen wirklich?
+3. **KI im Unterricht**: Hands-on Unterrichtsplanung mit KI
+4. **KI in der Beratung**: Simulation von Beratungsgesprächen
+5. **Ethik & Reflexion**: Verantwortungsvoller KI-Einsatz
+
+### **Was ihr mitnehmt:**
+- **Praktische Erfahrung** mit KI-gestützter Lehr- und Beratungsplanung
+- **Konkrete Anwendungsideen** für euren eigenen Kontext
+- **Kritisches Verständnis** für Chancen und Grenzen von KI
 
