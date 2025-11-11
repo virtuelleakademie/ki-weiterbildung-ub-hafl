@@ -10,10 +10,10 @@ title: "Ablauf"
 |                            | [Aktivierende Begrüssung](einstieg/index.qmd)                          | 10 min                           |
 | **09:10 - 09:40**          | {{< bi collection-play >}} **Teil 1: KI verstehen**                    |                                  |
 |                            | [Grundlagen: KI & Agents](../01-ki-verstehen/index.qmd)                | 30 min                           |
-| **09:40 - 09:55**          | {{< bi cup-hot-fill >}} **Pause**                                      |                                  |
-|                            | Kaffee                                                                 | 15 min                           |
-| **09:55 - 10:10**          | {{< bi collection-play >}} **Teil 2: Lernen verstehen**                |                                  |
+| **09:40 - 09:55**          | {{< bi collection-play >}} **Teil 2: Lernen verstehen**                |                                  |
 |                            | [Wie Menschen lernen](../02-wie-menschen-lernen/index.qmd)             | 15 min                           |
+| **09:55 - 10:10**          | {{< bi cup-hot-fill >}} **Pause**                                      |                                  |
+|                            | Kaffee                                                                 | 15 min                           |
 | **10:10 - 11:00**          | {{< bi collection-play >}} **Teil 3A: KI im Unterricht**               |                                  |
 |                            | [KI-gestützte Lehrplanung](../03-lernumgebungen/index.qmd)             | 50 min                           |
 | **11:00 - 11:30**          | {{< bi collection-play >}} **Teil 3B: KI in der Beratung**             |                                  |
