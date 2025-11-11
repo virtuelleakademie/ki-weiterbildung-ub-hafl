@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "slides/wie-menschen-lernen/index.html",
-    "href": "slides/wie-menschen-lernen/index.html",
-    "title": "Wie Menschen lernen",
-    "section": "",
-    "text": "Wichtige Erkenntnisse aus der Forschung:\n\nDell’Acqua et al. (2023) erforschen die Möglichkeiten, mit KI-Unterstützung kognitive Aufgaben zu verbessern. Fazit: KI kann Produktivität und Qualität steigern, aber auch neue Herausforderungen ergeben.\nToner-Rodgers (2025) diskutiert die Implikationen von KI für die Forschung und betont die Balance zwischen menschlicher und maschineller Intelligenz.\nCui et al. (2024) analysieren die Auswirkungen von generativer KI auf Software Engineering und hebt sowohl Chancen als auch Herausforderungen hervor.\n\nErkenntnisse:\n\nAutomatisierung von routinemässigen kognitiven Aufgaben ist möglich\nUnterstützung kreativer Arbeit ist möglich\nDeskilling: Gefahr, bei ständiger KI-Unterstützung eigene Fähigkeiten zu verlieren\nOhne Training: KI-Tools werden oft für ungeeignete Aufgaben eingesetzt"
-  },
-  {
     "objectID": "slides/wie-menschen-lernen/index.html#ki-kann-uns-produktiver-machen",
     "href": "slides/wie-menschen-lernen/index.html#ki-kann-uns-produktiver-machen",
     "title": "Wie Menschen lernen",
@@ -91,13 +84,6 @@
     "text": "Bibliographie\n\n\nCui, Zheyuan (Kevin), Mert Demirer, Sonia Jaffe, Leon Musolff, Sida Peng, and Tobias Salz. 2024. “The Effects of Generative AI on High Skilled Work: Evidence from Three Field Experiments with Software Developers.” SSRN Scholarly Paper. Rochester, NY. September 3, 2024. https://doi.org/10.2139/ssrn.4945566.\n\n\nDell’Acqua, Fabrizio, Edward McFowland, Ethan R. Mollick, Hila Lifshitz-Assaf, Katherine Kellogg, Saran Rajendran, Lisa Krayer, François Candelon, and Karim R. Lakhani. 2023. “Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of AI on Knowledge Worker Productivity and Quality.” SSRN Electronic Journal. https://doi.org/10.2139/ssrn.4573321.\n\n\nToner-Rodgers, Aidan. 2025. “Artificial Intelligence, Scientific Discovery, and Product Innovation.” May 20, 2025. https://doi.org/10.48550/arXiv.2412.17866."
   },
   {
-    "objectID": "slides/was-sind-agenten/index.html",
-    "href": "slides/was-sind-agenten/index.html",
-    "title": "Was sind Agents?",
-    "section": "",
-    "text": "Von reaktiven Tools zu proaktiven Partnern\n\n\n\n\nBenutzer: “Plane eine Reise nach Paris”\nChatbot:\n\n“Hier sind 5 Hotels in Paris…”\n“Diese Flüge sind verfügbar…”\n“Sehenswürdigkeiten: Eiffelturm…”\nDu musst alles selbst buchen\n\n\n\n\n\nBenutzer: “Plane eine Reise nach Paris”\nAgent:\n\nCheckt deinen Kalender\nBucht Flug und Hotel\nErstellt Reiseroute\nSendet Bestätigungen\nErledigt die komplette Aufgabe\n\n\n\n\n\n\n\n\n\n\nImportant\n\n\n\nDer Unterschied: Ein Chatbot beantwortet die nächste Frage. Ein Agent arbeitet das Problem, bis der Job erledigt ist."
-  },
-  {
     "objectID": "slides/was-sind-agenten/index.html#der-paradigmenwechsel",
     "href": "slides/was-sind-agenten/index.html#der-paradigmenwechsel",
     "title": "Was sind Agents?",
@@ -133,25 +119,11 @@
     "text": "Copilot Agents"
   },
   {
-    "objectID": "slides/timer-1.html",
-    "href": "slides/timer-1.html",
-    "title": "Solo Exploration",
-    "section": "",
-    "text": "Summarize the paper’s key points and contributions (First Pass)\nAnalyze the methodology and study design (Second Pass)\nIdentify and critique the key findings and limitations (Third Pass)\nSuggest potential future research directions or applications\n\n\nRemember to transfer your key findings, insights, and effective prompting strategies to the Miro board for further discussion and collaboration.\n\n\n\n                    \n                    \n                \n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "slides/möglichkeiten-grenzen/index.html",
-    "href": "slides/möglichkeiten-grenzen/index.html",
-    "title": "Möglichkeiten und Grenzen",
-    "section": "",
-    "text": "Zwei wichtige Aspekte, welche bei der Benutzung von LLMs beachtet werden müssen:\n \n\n\nRechtliche Aspekte \n\nWer besitzt die Rechte an den von LLMs generierten Inhalten?\nRisiko von Plagiaten und Urheberrechtsverletzungen\nRichtlinien für den Umgang mit generierten Inhalten\n\n\nDatenschutz \n\nSchutz personenbezogener Daten\nEinhaltung von Datenschutzbestimmungen"
-  },
-  {
     "objectID": "slides/möglichkeiten-grenzen/index.html#rechtliche-aspekte",
     "href": "slides/möglichkeiten-grenzen/index.html#rechtliche-aspekte",
     "title": "Möglichkeiten und Grenzen",
-    "section": "",
-    "text": "Zwei wichtige Aspekte, welche bei der Benutzung von LLMs beachtet werden müssen:\n \n\n\nRechtliche Aspekte \n\nWer besitzt die Rechte an den von LLMs generierten Inhalten?\nRisiko von Plagiaten und Urheberrechtsverletzungen\nRichtlinien für den Umgang mit generierten Inhalten\n\n\nDatenschutz \n\nSchutz personenbezogener Daten\nEinhaltung von Datenschutzbestimmungen"
+    "section": "Rechtliche Aspekte",
+    "text": "Rechtliche Aspekte\nZwei wichtige Aspekte, welche bei der Benutzung von LLMs beachtet werden müssen:\n \n\n\nRechtliche Aspekte \n\nWer besitzt die Rechte an den von LLMs generierten Inhalten?\nRisiko von Plagiaten und Urheberrechtsverletzungen\nRichtlinien für den Umgang mit generierten Inhalten\n\n\nDatenschutz \n\nSchutz personenbezogener Daten\nEinhaltung von Datenschutzbestimmungen"
   },
   {
     "objectID": "slides/möglichkeiten-grenzen/index.html#rechtliche-aspekte-1",
@@ -172,14 +144,14 @@
     "href": "slides/möglichkeiten-grenzen/index.html#empfehlung",
     "title": "Möglichkeiten und Grenzen",
     "section": "Empfehlung",
-    "text": "Empfehlung\nKI-Policy: Geben Sie deutlich an, dass der Inhalt von einer KI erstellt wurde, sodass kein Nutzer dies übersehen oder missverstehen kann:\n\n\n\n\n\n\nTipDeklaration\n\n\n\nDer/die Autor*in hat diesen Text teilweise mit [Modell] erstellt. Nach der Erstellung des Entwurfs hat der/die Autor*in den Text überprüft, bearbeitet und nach eigenem Ermessen angepasst und übernimmt die volle Verantwortung für den Inhalt dieser Veröffentlichung.\n\n\nZitieren Sie das verwendete Modell in ähnlicher Weise, wie Sie Software zitieren würden."
+    "text": "Empfehlung\nKI-Policy: Geben Sie deutlich an, dass der Inhalt von einer KI erstellt wurde, sodass kein Nutzer dies übersehen oder missverstehen kann:\n\n\n\n\nDeklaration\n\n\nDer/die Autor*in hat diesen Text teilweise mit [Modell] erstellt. Nach der Erstellung des Entwurfs hat der/die Autor*in den Text überprüft, bearbeitet und nach eigenem Ermessen angepasst und übernimmt die volle Verantwortung für den Inhalt dieser Veröffentlichung.\n\n\n\n\nZitieren Sie das verwendete Modell in ähnlicher Weise, wie Sie Software zitieren würden."
   },
   {
     "objectID": "slides/möglichkeiten-grenzen/index.html#datenschutz",
     "href": "slides/möglichkeiten-grenzen/index.html#datenschutz",
     "title": "Möglichkeiten und Grenzen",
     "section": "Datenschutz",
-    "text": "Datenschutz\nDatenschutz allgemein bedeutet:\n\nsicherzustellen, dass keine persönlichen Daten der Lehrenden oder Lernenden ohne deren Zustimmung gesammelt, gespeichert oder weiterverarbeitet werden, um ihre Privatsphäre und Sicherheit zu gewährleisten.\nTransparenz darüber, welche Daten erhoben und wie sie verwendet werden.\nsicherzustellen, dass Daten nicht für andere Zwecke als die ursprünglich angegebenen verwendet werden\nRecht der Betroffenen auf Auskunft, Berichtigung, Löschung und Widerspruch\nEinhaltung von Datenschutzgesetzen und -vorschriften\n\n\n\n\n\n\n\nLehrpersonen müssen Datenschutz beim Einsatz von (digitalen) Tools immer beachten."
+    "text": "Datenschutz\nDatenschutz allgemein bedeutet:\n\nsicherzustellen, dass keine persönlichen Daten der Lehrenden oder Lernenden ohne deren Zustimmung gesammelt, gespeichert oder weiterverarbeitet werden, um ihre Privatsphäre und Sicherheit zu gewährleisten.\nTransparenz darüber, welche Daten erhoben und wie sie verwendet werden.\nsicherzustellen, dass Daten nicht für andere Zwecke als die ursprünglich angegebenen verwendet werden\nRecht der Betroffenen auf Auskunft, Berichtigung, Löschung und Widerspruch\nEinhaltung von Datenschutzgesetzen und -vorschriften\n\n\n\n\nLehrpersonen müssen Datenschutz beim Einsatz von (digitalen) Tools immer beachten."
   },
   {
     "objectID": "slides/möglichkeiten-grenzen/index.html#datensicherheit",
@@ -280,51 +252,51 @@
     "text": "Wie können Sprachmodelle in Beratungskontexten sinnvoll eingesetzt werden, ohne die menschliche Beziehung und professionelle Verantwortung zu untergraben?",
     "crumbs": [
       "4: KI in der Beratung",
-      "Chatbots in der Beratung"
+      "KI in der Beratung"
     ]
   },
   {
-    "objectID": "04-ki-in-beratung/index.html#beratungsgespräche-mit-ki-unterstützen-30-min",
-    "href": "04-ki-in-beratung/index.html#beratungsgespräche-mit-ki-unterstützen-30-min",
+    "objectID": "04-ki-in-beratung/index.html#beratungsgespräche-mit-chatbots-unterstützen-30-min",
+    "href": "04-ki-in-beratung/index.html#beratungsgespräche-mit-chatbots-unterstützen-30-min",
     "title": "KI in der Beratung",
     "section": "",
-    "text": "Wie kann KI in Beratungskontexten sinnvoll eingesetzt werden, ohne die menschliche Beziehung und professionelle Verantwortung zu untergraben?",
+    "text": "Wie können Sprachmodelle in Beratungskontexten sinnvoll eingesetzt werden, ohne die menschliche Beziehung und professionelle Verantwortung zu untergraben?",
     "crumbs": [
       "4: KI in der Beratung",
       "KI in der Beratung"
     ]
   },
   {
-    "objectID": "04-ki-in-beratung/index.html#ki-anwendungen-in-der-beratung-5-min",
-    "href": "04-ki-in-beratung/index.html#ki-anwendungen-in-der-beratung-5-min",
+    "objectID": "04-ki-in-beratung/index.html#anwendungen-von-chatbots-in-der-beratung-5-min",
+    "href": "04-ki-in-beratung/index.html#anwendungen-von-chatbots-in-der-beratung-5-min",
     "title": "KI in der Beratung",
-    "section": "KI-Anwendungen in der Beratung (5 Min)",
-    "text": "KI-Anwendungen in der Beratung (5 Min)\nKI kann Beratende in verschiedenen Phasen unterstützen:\n\n1. Vorbereitung von Beratungsgesprächen\n\nStrukturierung: KI hilft, Gesprächsleitfäden zu entwickeln\nPerspektivenwechsel: Alternative Sichtweisen auf Beratungssituationen\nRessourcen: Zusammenstellung relevanter Informationen und Materialien\n\n\n\n2. Simulation und Rollenspiele\n\nÜbungsgespräche: KI nimmt verschiedene Rollen ein (z.B. ratsuchende Person, kritischer Gesprächspartner)\nGesprächstechniken: Üben von aktiver Zuhören, Fragetechniken, lösungsorientiertem Vorgehen\nSichere Umgebung: Fehler machen und lernen ohne reale Konsequenzen\n\n\n\n3. Reflexion und Nachbereitung\n\nGesprächsanalyse: KI als Reflexionspartner nach Beratungsgesprächen\nDokumentation: Unterstützung beim Erfassen wichtiger Gesprächspunkte\nWeiterentwicklung: Identifikation von Mustern und Entwicklungsfeldern\n\n\n\n\n\n\n\nWarningKritische Grenzen\n\n\n\nWas KI NICHT kann und soll:\n\nEchte menschliche Beziehung und Empathie ersetzen\nVertrauliche Informationen von Klient:innen verarbeiten (Datenschutz!)\nProfessionelle Beurteilung und Verantwortung übernehmen\nEthische Dilemmata auflösen",
+    "section": "Anwendungen von Chatbots in der Beratung (5 Min)",
+    "text": "Anwendungen von Chatbots in der Beratung (5 Min)\nSprachmodelle können Beratende in verschiedenen Phasen unterstützen:\n\n1. Vorbereitung von Beratungsgesprächen\n\nStrukturierung: Chatbots helfen, Gesprächsleitfäden zu entwickeln\nPerspektivenwechsel: Alternative Sichtweisen auf Beratungssituationen\nRessourcen: Zusammenstellung relevanter Informationen und Materialien\n\n\n\n2. Simulation und Rollenspiele\n\nÜbungsgespräche: Chatbots nehmen verschiedene Rollen ein (z.B. ratsuchende Person, kritischer Gesprächspartner)\nGesprächstechniken: Üben von aktiver Zuhören, Fragetechniken, lösungsorientiertem Vorgehen\nSichere Umgebung: Fehler machen und lernen ohne reale Konsequenzen\n\n\n\n3. Reflexion und Nachbereitung\n\nGesprächsanalyse: Chatbot als Reflexionspartner nach Beratungsgesprächen\nDokumentation: Unterstützung beim Erfassen wichtiger Gesprächspunkte\nWeiterentwicklung: Identifikation von Mustern und Entwicklungsfeldern\n\n\n\n\n\n\n\nWarningKritische Grenzen\n\n\n\nWas Chatbots NICHT können und sollen:\n\nEchte menschliche Beziehung und Empathie ersetzen\nVertrauliche Informationen von Klient:innen verarbeiten (Datenschutz!)\nProfessionelle Beurteilung und Verantwortung übernehmen\nEthische Dilemmata auflösen",
     "crumbs": [
       "4: KI in der Beratung",
       "KI in der Beratung"
     ]
   },
   {
-    "objectID": "04-ki-in-beratung/index.html#hands-on-beratungssimulation-mit-ki-15-min",
-    "href": "04-ki-in-beratung/index.html#hands-on-beratungssimulation-mit-ki-15-min",
+    "objectID": "04-ki-in-beratung/index.html#gruppenarbeit-beratungssimulation-mit-chatbot-20-min",
+    "href": "04-ki-in-beratung/index.html#gruppenarbeit-beratungssimulation-mit-chatbot-20-min",
     "title": "KI in der Beratung",
-    "section": "Hands-on: Beratungssimulation mit KI (15 Min)",
-    "text": "Hands-on: Beratungssimulation mit KI (15 Min)\n\n\n\n\n\n\nPairPartner-Aktivität: Beratungsgespräch simulieren\n\n\n\nAblauf (15 Min)\nSchritt 1: Paarbildung & Szenario wählen (2 Min)\n\nFindet euch zu zweit zusammen\nWählt ein Beratungsszenario aus den Beispielszenarien\nEntscheidet, wer startet (ihr wechselt nach 5 Minuten)\n\nSchritt 2: Erste Simulation (5 Min)\n\nPerson A: Berater:in (führt Gespräch mit KI)\nPerson B: Beobachter:in (achtet auf Gesprächsdynamik)\nKI: Nimmt Rolle der ratsuchenden Person ein\n\nAufgabe für Person A:\n\nGebt der KI (ChatGPT/Claude) die Rolle aus dem Szenario\nFührt ein kurzes Beratungsgespräch (5 Min)\nVersucht aktives Zuhören und lösungsorientierte Fragen\n\nAufgabe für Person B:\n\nBeobachtet: Was funktioniert gut? Was wirkt unnatürlich?\nAchtet auf: Gesprächsführung, Empathie, Lösungsorientierung\n\nSchritt 3: Rollenwechsel (5 Min)\n\nTauscht die Rollen\nPerson B wird Berater:in, Person A beobachtet\nNutzt dasselbe oder ein anderes Szenario\n\nSchritt 4: Kurzer Austausch (3 Min)\n\nWas war überraschend?\nWo waren die Grenzen der KI spürbar?\nWo könnte dieses Übungsformat hilfreich sein?",
+    "section": "Gruppenarbeit: Beratungssimulation mit Chatbot (20 Min)",
+    "text": "Gruppenarbeit: Beratungssimulation mit Chatbot (20 Min)\n\n\n\n\n\n\nGroupSimulation von Beratungssituationen\n\n\n\nAblauf (20 Min)\nGruppengrösse: 3-4 Personen\nSchritt 1: Gruppenbildung & Szenario wählen (3 Min)\n\nBildet Gruppen von 3-4 Personen\nWählt gemeinsam ein Beratungsszenario aus den Beispielszenarien\nVerteilt die Rollen:\n\n1 Person: Berater:in (führt das Gespräch mit KI)\n2-3 Personen: Beobachter:innen (achten auf verschiedene Aspekte)\n\n\nSchritt 2: Rollen verteilen & vorbereiten (2 Min)\nBerater:in:\n\nLiest das Szenario durch\nÜberlegt sich den Einstieg ins Gespräch\n\nBeobachter:innen verteilen Beobachtungsfokus:\n\nPerson 1: Achtet auf Gesprächsführung (Fragetechniken, Struktur, Zuhören)\nPerson 2: Achtet auf Beziehungsgestaltung (Empathie, Wertschätzung, Rapport)\nPerson 3 (falls vorhanden): Achtet auf Lösungsorientierung (Ressourcen, Ziele, Handlungsschritte)\n\nSchritt 3: Simulation durchführen (10 Min)\nBerater:in:\n\nGibt dem Chatbot (ChatGPT/Claude) die Rolle aus dem Szenario\nFührt das Beratungsgespräch (ca. 8-10 Min)\nVersucht professionelle Gesprächstechniken anzuwenden\n\nBeobachter:innen:\n\nMachen sich Notizen zu ihrem Beobachtungsfokus\nAchten auch auf: Wo wirkt der Chatbot realistisch? Wo nicht?\n\nSchritt 4: Reflexion in der Gruppe (5 Min)\nAustausch im Gruppe:\n\nBerater:in berichtet (1 Min): Wie war das Gespräch? Was war schwierig?\nBeobachter:innen geben Feedback (3 Min):\n\nWas hat gut funktioniert?\nWo waren die Grenzen des Chatbots spürbar?\nWelche Gesprächstechniken haben gut/nicht gut funktioniert?\n\nGemeinsame Einschätzung (1 Min):\n\nWo könnte dieses Übungsformat hilfreich sein?\nWas müsste man beachten beim Üben mit Chatbots?",
     "crumbs": [
       "4: KI in der Beratung",
       "KI in der Beratung"
     ]
   },
   {
-    "objectID": "04-ki-in-beratung/index.html#reflexion-ki-in-der-beratungspraxis-10-min",
-    "href": "04-ki-in-beratung/index.html#reflexion-ki-in-der-beratungspraxis-10-min",
-    "title": "Chatbots in der Beratung",
-    "section": "Reflexion: KI in der Beratungspraxis (10 Min)",
-    "text": "Reflexion: KI in der Beratungspraxis (10 Min)\n\n\n\n\n\n\nGroupPlenum-Diskussion\n\n\n\n\nErfahrungen aus der Simulation\n\nWas hat gut funktioniert? Welche Aspekte der Simulation waren realistisch?\nWas fehlte? Wo wurde die Künstlichkeit der KI spürbar?\nÜberraschungen? Gab es unerwartete Wendungen im Gespräch?\n\n\n\nÜbertragung in die Praxis\n\nWo sinnvoll? In welchen Beratungssituationen könnte KI-gestütztes Üben helfen?\n\nVorbereitung auf schwierige Gespräche?\nTraining neuer Gesprächstechniken?\nReflexion eigener Kommunikationsmuster?\n\nWo problematisch? Welche Risiken und Grenzen seht ihr?\n\nDatenschutz bei echten Fällen?\nVereinfachung komplexer menschlicher Dynamiken?\nAbhängigkeit von KI-Vorschlägen?\n\n\n\n\nEthische Fragen\n\nWann wird aus Unterstützung Abhängigkeit?\nWie bleibt professionelle Verantwortung gewahrt?\nWas darf automatisiert werden, was nicht?",
+    "objectID": "04-ki-in-beratung/index.html#reflexion-chatbots-in-der-beratungspraxis-10-min",
+    "href": "04-ki-in-beratung/index.html#reflexion-chatbots-in-der-beratungspraxis-10-min",
+    "title": "KI in der Beratung",
+    "section": "Reflexion: Chatbots in der Beratungspraxis (10 Min)",
+    "text": "Reflexion: Chatbots in der Beratungspraxis (10 Min)\n\n\n\n\n\n\nGroupPlenum-Diskussion\n\n\n\n\nErfahrungen aus der Simulation\n\nWas hat gut funktioniert? Welche Aspekte der Simulation waren realistisch?\nWas fehlte? Wo wurde die Künstlichkeit des Chatbots spürbar?\nÜberraschungen? Gab es unerwartete Wendungen im Gespräch?\n\n\n\nÜbertragung in die Praxis\n\nWo sinnvoll? In welchen Beratungssituationen könnte chatbot-gestütztes Üben helfen?\n\nVorbereitung auf schwierige Gespräche?\nTraining neuer Gesprächstechniken?\nReflexion eigener Kommunikationsmuster?\n\nWo problematisch? Welche Risiken und Grenzen seht ihr?\n\nDatenschutz bei echten Fällen?\nVereinfachung komplexer menschlicher Dynamiken?\nAbhängigkeit von Chatbot-Vorschlägen?\n\n\n\n\nEthische Fragen\n\nWann wird aus Unterstützung Abhängigkeit?\nWie bleibt professionelle Verantwortung gewahrt?\nWas darf automatisiert werden, was nicht?",
     "crumbs": [
       "4: KI in der Beratung",
-      "Chatbots in der Beratung"
+      "KI in der Beratung"
     ]
   },
   {
@@ -335,7 +307,7 @@
     "text": "Vertiefende Ressourcen\n\nBeispielszenarien\n\nBeratungsszenarien für die Simulation - Verschiedene Übungssituationen\n\n\n\nWeiterführende Diskussion\n\nEthik & Reflexion: Verantwortungsvoller KI-Einsatz - Vertiefung der ethischen Fragen\n\n\n\n\n\n\n\nTipPraxis-Tipp\n\n\n\nFür den Einstieg: Beginnt mit fiktiven Szenarien, die KEINE echten Klient:innen-Daten enthalten. Nutzt Chatbots nur für Übung und Reflexion, nicht für die Verarbeitung vertraulicher Informationen.",
     "crumbs": [
       "4: KI in der Beratung",
-      "Chatbots in der Beratung"
+      "KI in der Beratung"
     ]
   },
   {
@@ -427,44 +399,44 @@
     ]
   },
   {
-    "objectID": "03-lernumgebungen/index.html#ki-gestützte-lehrplanung-20-min",
-    "href": "03-lernumgebungen/index.html#ki-gestützte-lehrplanung-20-min",
+    "objectID": "03-lernumgebungen/index.html#chatbot-gestützte-lehrplanung-50-min",
+    "href": "03-lernumgebungen/index.html#chatbot-gestützte-lehrplanung-50-min",
     "title": "KI im Unterricht",
     "section": "",
-    "text": "Wie kann KI konkret den Unterricht unterstützen, ohne die notwendige kognitive Anstrengung der Lernenden zu umgehen?",
+    "text": "Wie können Sprachmodelle konkret den Unterricht unterstützen, ohne die notwendige kognitive Anstrengung der Lernenden zu umgehen?",
     "crumbs": [
       "3: KI im Unterricht",
       "KI im Unterricht"
     ]
   },
   {
-    "objectID": "03-lernumgebungen/index.html#ki-anwendungen-im-unterricht-5-min",
-    "href": "03-lernumgebungen/index.html#ki-anwendungen-im-unterricht-5-min",
+    "objectID": "03-lernumgebungen/index.html#anwendungen-von-chatbots-im-unterricht-10-min",
+    "href": "03-lernumgebungen/index.html#anwendungen-von-chatbots-im-unterricht-10-min",
     "title": "KI im Unterricht",
-    "section": "KI-Anwendungen im Unterricht (5 Min)",
-    "text": "KI-Anwendungen im Unterricht (5 Min)\nKI kann Lehrende in verschiedenen Phasen unterstützen:\n\n1. Planung & Vorbereitung\n\nLernzielanalyse: KI hilft, Lernziele zu konkretisieren und zu strukturieren\nMethodenauswahl: Vorschläge für passende didaktische Ansätze\nAufgabenentwicklung: Erstellung von Übungen und Prüfungsfragen\n\n\n\n2. Materialerstellung\n\nArbeitsblätter: Generierung von strukturierten Übungsmaterialien\nBeispiele: Entwicklung von Fallstudien und Anwendungsbeispielen\nDifferenzierung: Anpassung von Materialien für verschiedene Lernniveaus\n\n\n\n3. Reflexion & Verbesserung\n\nKI als Reflexionspartner: Feedback zu Unterrichtsplanung\nKritische Begleitung: Alternative Perspektiven auf didaktische Entscheidungen\n\n\n\n\n\n\n\nWarningWichtig: Die Lernparadox-Falle\n\n\n\nDenkt an Teil 2: Produktivität ≠ Lernen\n\nKI kann Lehrende produktiver machen (Planung, Materialien)\nKI sollte Lernende nicht von kognitiver Anstrengung entlasten\nDie 8 Make-it-Stick-Strategien bleiben zentral: Strategien im Detail",
+    "section": "Anwendungen von Chatbots im Unterricht (10 Min)",
+    "text": "Anwendungen von Chatbots im Unterricht (10 Min)\nSprachmodelle können Lehrende in verschiedenen Phasen unterstützen:\n\n1. Planung & Vorbereitung\n\nLernzielanalyse: Chatbots helfen, Lernziele zu konkretisieren und zu strukturieren\nMethodenauswahl: Vorschläge für passende didaktische Ansätze\nAufgabenentwicklung: Erstellung von Übungen und Prüfungsfragen\n\n\n\n2. Materialerstellung\n\nArbeitsblätter: Generierung von strukturierten Übungsmaterialien\nBeispiele: Entwicklung von Fallstudien und Anwendungsbeispielen\nDifferenzierung: Anpassung von Materialien für verschiedene Lernniveaus\n\n\n\n3. Reflexion & Verbesserung\n\nChatbot als Reflexionspartner: Feedback zu Unterrichtsplanung\nKritische Begleitung: Alternative Perspektiven auf didaktische Entscheidungen\n\n\n\n\n\n\n\nWarningWichtig: Die Lernparadox-Falle\n\n\n\nDenkt an Teil 2: Produktivität ≠ Lernen\n\nSprachmodelle können Lehrende produktiver machen (Planung, Materialien)\nSprachmodelle sollten Lernende nicht von kognitiver Anstrengung entlasten\nDie 8 Make-it-Stick-Strategien bleiben zentral: Strategien im Detail",
     "crumbs": [
       "3: KI im Unterricht",
       "KI im Unterricht"
     ]
   },
   {
-    "objectID": "03-lernumgebungen/index.html#live-demo-ki-für-unterrichtsplanung-5-min",
-    "href": "03-lernumgebungen/index.html#live-demo-ki-für-unterrichtsplanung-5-min",
+    "objectID": "03-lernumgebungen/index.html#gruppenarbeit-unterrichtseinheit-mit-chatbot-planen-30-min",
+    "href": "03-lernumgebungen/index.html#gruppenarbeit-unterrichtseinheit-mit-chatbot-planen-30-min",
     "title": "KI im Unterricht",
-    "section": "Live-Demo: KI für Unterrichtsplanung (5 Min)",
-    "text": "Live-Demo: KI für Unterrichtsplanung (5 Min)\nBeispiel-Szenario: Planung einer Unterrichtseinheit mit KI-Unterstützung\n\n\n\n\n\n\nTipDemo-Ablauf\n\n\n\n\n\nDer/die Workshop-Leiter/in demonstriert live:\n\nAusgangslage formulieren: Ein konkretes Lehrthema und Lernziel eingeben\nKI als Ideengeber: Vorschläge für didaktische Methoden und Aktivitäten\nKritisch hinterfragen: Welche Vorschläge fördern kognitive Anstrengung? Welche nicht?\nVerfeinern: Prompts anpassen, um lernförderliche Ansätze zu bekommen\n\nBeispiel-Tools: ChatGPT, Claude, oder Copilot",
+    "section": "Gruppenarbeit: Unterrichtseinheit mit Chatbot planen (30 Min)",
+    "text": "Gruppenarbeit: Unterrichtseinheit mit Chatbot planen (30 Min)\n\n\n\n\n\n\nGroupAblauf der Gruppenarbeit\n\n\n\nGruppengrösse: 3-4 Personen\n\nPhase 1: Thema wählen & Planung starten (15 Min)\nAufgabe: Wählt ein Unterrichtsthema aus eurem eigenen Lehrkontext und plant gemeinsam eine Unterrichtseinheit mit Chatbot-Unterstützung.\nSchritt für Schritt:\n\nThema festlegen (2 Min)\n\nWählt ein konkretes Thema aus eurem Fachbereich\nDefiniert die Zielgruppe (z.B. Studierende im 2. Semester)\nLegt grobe Lernziele fest\n\nChatbot zur Lernzielanalyse nutzen (5 Min)\n\nNutzt ChatGPT/Claude, um eure Lernziele zu konkretisieren\nFragt nach: “Wie kann ich diese Lernziele messbarer formulieren?”\nLasst euch Taxonomiestufen (Bloom) vorschlagen\n\nMethodenauswahl mit Chatbot (8 Min)\n\nFragt den Chatbot nach didaktischen Methoden für euer Thema\nWichtig: Filtert kritisch: Welche Methoden fördern produktive Anstrengung?\nWählt 2-3 Methoden aus, die ihr vertiefen wollt\n\n\nTools: ChatGPT, Claude, oder andere verfügbare Chatbots\n\n\nPhase 2: Aufgabenentwicklung (10 Min)\nAufgabe: Entwickelt mit dem Chatbot konkrete Lernaufgaben für eure Unterrichtseinheit.\n\nAufgaben generieren (5 Min)\n\nLasst den Chatbot Übungsaufgaben zu eurem Thema erstellen\nVariiert Schwierigkeitsgrade\nFragt nach Aufgaben, die kognitive Anstrengung erfordern\n\nKritisch bewerten (5 Min)\n\nDiskutiert: Fördern diese Aufgaben tiefes Lernen?\nWo müssten die Aufgaben angepasst werden?\nNotiert eure wichtigsten Erkenntnisse\n\n\n\n\nPhase 3: Vorbereitung Präsentation (5 Min)\nBereitet eine 2-minütige Präsentation vor:\n\nWas habt ihr geplant? (30 Sek)\nWie hat der Chatbot euch unterstützt? (30 Sek)\nEine Erkenntnis: Was hat überrascht? Wo waren Grenzen? (1 Min)",
     "crumbs": [
       "3: KI im Unterricht",
       "KI im Unterricht"
     ]
   },
   {
-    "objectID": "03-lernumgebungen/index.html#diskussion-chancen-und-grenzen-10-min",
-    "href": "03-lernumgebungen/index.html#diskussion-chancen-und-grenzen-10-min",
+    "objectID": "03-lernumgebungen/index.html#präsentation-diskussion-im-plenum-10-min",
+    "href": "03-lernumgebungen/index.html#präsentation-diskussion-im-plenum-10-min",
     "title": "KI im Unterricht",
-    "section": "Diskussion: Chancen und Grenzen (10 Min)",
-    "text": "Diskussion: Chancen und Grenzen (10 Min)\n\n\n\n\n\n\nGroupAustausch im Plenum\n\n\n\nLeitfragen für die Diskussion:\n\nWo seht ihr Chancen?\n\nIn welchen Bereichen eurer Lehre könnte KI euch am meisten unterstützen?\nWelche zeitraubenden Aufgaben könnten effizienter werden?\nWo könnte KI neue didaktische Möglichkeiten eröffnen?\n\n\n\nWo seht ihr Herausforderungen?\n\nWas macht euch Sorgen beim KI-Einsatz im Unterricht?\nWie stellt ihr sicher, dass Lernende noch selbst denken?\nWelche ethischen Fragen tauchen auf?\n\n\n\nWas möchtet ihr ausprobieren?\n\nWelche konkreten Anwendungsfälle möchtet ihr nach dem Workshop testen?",
+    "section": "Präsentation & Diskussion im Plenum (10 Min)",
+    "text": "Präsentation & Diskussion im Plenum (10 Min)\n\n\n\n\n\n\nGroupAustausch der Gruppen\n\n\n\nAblauf:\n\nJede Gruppe stellt ihre Unterrichtseinheit vor (2 Min pro Gruppe)\nKurze Rückfragen aus dem Plenum\n\nLeitfragen für die Diskussion:\n\nGemeinsame Muster\n\nWelche Chatbot-Unterstützung war besonders hilfreich?\nWo stiessen die Sprachmodelle an Grenzen?\nWelche Prompting-Strategien haben gut funktioniert?\n\n\n\nKritische Reflexion\n\nWo besteht die Gefahr, dass Chatbots die kognitive Anstrengung der Lernenden reduzieren?\nWie können wir sicherstellen, dass Sprachmodelle uns als Lehrende unterstützen, ohne das Lernen zu behindern?",
     "crumbs": [
       "3: KI im Unterricht",
       "KI im Unterricht"
@@ -745,6 +717,13 @@
     "text": "In diesem ersten Teil des Workshops (30 Min.) legen wir die Grundlagen für ein fundiertes Verständnis von Sprachmodellen und Chatbots."
   },
   {
+    "objectID": "01-ki-verstehen/index.html#was-meinen-wir-mit-ki-in-diesem-workshop",
+    "href": "01-ki-verstehen/index.html#was-meinen-wir-mit-ki-in-diesem-workshop",
+    "title": "KI verstehen",
+    "section": "Was meinen wir mit “KI” in diesem Workshop?",
+    "text": "Was meinen wir mit “KI” in diesem Workshop?\nKünstliche Intelligenz (KI) ist ein breiter Begriff für viele verschiedene Technologien. In diesem Workshop konzentrieren wir uns auf:\n\nLarge Language Models (LLMs) wie ChatGPT, Claude, Gemini\nTextbasierte Chatbots für Lehre und Beratung\nAI Agents (Programme, die LLMs nutzen, um Aufgaben zu erledigen)\n\nNicht Thema in diesem Workshop sind: Bilderkennung, Empfehlungssysteme, autonome Systeme, Robotik und andere KI-Technologien.\n\nWir beginnen mit einer klaren Einordnung, was Sprachmodelle sind und wie sie funktionieren – insbesondere die Large Language Models (LLMs), die hinter Chatbots wie ChatGPT stehen. Du lernst die Mechanismen der Textvorhersage kennen, verstehst die Stärken und Grenzen dieser Technologie und erhältst praktische Einblicke ins effektive Prompting.\nDieses Grundverständnis ist essentiell, um später informierte Entscheidungen über den sinnvollen Einsatz von Chatbots in Unterricht und Beratung treffen zu können. Der Fokus liegt dabei nicht auf technischen Details, sondern auf dem praxisrelevanten Verständnis: Was können Sprachmodelle leisten, was nicht, und was bedeutet das für deine Arbeit mit Studierenden und Lernenden?"
+  },
+  {
     "objectID": "01-ki-verstehen/index.html#was-ist-künstliche-intelligenz-optional",
     "href": "01-ki-verstehen/index.html#was-ist-künstliche-intelligenz-optional",
     "title": "KI verstehen",
@@ -809,14 +788,14 @@
     ]
   },
   {
-    "objectID": "workshop/einstieg/index.html#heute-entwickeln-wir-gemeinsam-5-min",
-    "href": "workshop/einstieg/index.html#heute-entwickeln-wir-gemeinsam-5-min",
-    "title": "Aktivierende Einstieg",
-    "section": "Heute entwickeln wir gemeinsam (5 Min)",
-    "text": "Heute entwickeln wir gemeinsam (5 Min)\nUnser Ziel: Jeder entwickelt einen wissenschaftlich fundierten Copilot Agent für sein eigenes Lehrthema.\n\nWas ihr mitgebracht habt:\n\nEuer spezifisches Lehrthema (aus der Vorbereitung)\nKonkrete Lernprobleme eurer Studierenden\nErste Ideen für KI-Unterstützung\n\n\n\nWas ihr heute lernt:\n\nUnterschied zwischen Tools und Agents\n8 wissenschaftlich bewährte Lernstrategien\nPraktisches Agent-Design mit Think-Pair-Share\nKonkrete Umsetzung für eure Lehre",
+    "objectID": "workshop/einstieg/index.html#überblick-was-uns-heute-erwartet-5-min",
+    "href": "workshop/einstieg/index.html#überblick-was-uns-heute-erwartet-5-min",
+    "title": "Aktivierender Einstieg",
+    "section": "Überblick: Was uns heute erwartet (5 Min)",
+    "text": "Überblick: Was uns heute erwartet (5 Min)\n\nUnser Ziel heute:\nIhr lernt, wie Sprachmodelle und Chatbots (wie ChatGPT, Claude, Copilot) euch in Unterricht und Beratung konkret unterstützen können – wissenschaftlich fundiert und verantwortungsvoll eingesetzt.\n\n\n\n\n\n\nNoteWas meinen wir mit “KI” in diesem Workshop?\n\n\n\nIn diesem Workshop fokussieren wir auf Large Language Models (LLMs) und textbasierte Chatbots wie ChatGPT, Claude und Copilot. Andere KI-Technologien (z.B. Bilderkennung, Empfehlungssysteme) sind nicht Thema.\n\n\n\n\nWas ihr heute lernt:\n\nKI verstehen: Wie funktionieren Chatbots und Agents?\nLernpsychologie: Wie lernen Menschen wirklich?\nKI im Unterricht: Hands-on Unterrichtsplanung mit Sprachmodellen\nKI in der Beratung: Simulation von Beratungsgesprächen\nEthik & Reflexion: Verantwortungsvoller Einsatz von Sprachmodellen\n\n\n\nWas ihr mitnehmt:\n\nPraktische Erfahrung mit sprachmodellgestützter Lehr- und Beratungsplanung\nKonkrete Anwendungsideen für euren eigenen Kontext\nKritisches Verständnis für Chancen und Grenzen von Sprachmodellen",
     "crumbs": [
       "Workshop",
-      "Aktivierende Einstieg"
+      "Aktivierender Einstieg"
     ]
   },
   {
@@ -845,7 +824,7 @@
     "href": "workshop/diskussion/index.html",
     "title": "Transfer & Abschluss",
     "section": "",
-    "text": "Überlege für dich (kann auch in Partnerarbeit):\n\n\n\nEine wichtige Erkenntnis aus dem Workshop\nEin konkreter Anwendungsfall für meinen Unterricht oder meine Beratung\nMein erster Schritt: Was probiere ich als nächstes aus?\n\n\n\n\n\nTool-Wahl: Welches KI-Tool werde ich nutzen? (ChatGPT, Claude, Copilot, etc.)\nKontext: In welcher konkreten Situation setze ich KI ein?\nGrenzen beachten: Wo ziehe ich bewusst eine Grenze?\n\nOptional - Notiere dir:\nMeine wichtigste Erkenntnis: ____________________\nMein erster Schritt: ____________________________\nBis wann: ______________________________________\n\n\n\n\nJede/r teilt in 30 Sekunden:\n\nEine Erkenntnis aus dem heutigen Workshop, oder\nEinen konkreten nächsten Schritt, den ihr umsetzen wollt\n\n\n\n\n\n\n\nTipTake-Away Message\n\n\n\nVerantwortungsvoller KI-Einsatz bedeutet: - KI unterstützt pädagogische und beraterische Professionalität, ersetzt sie nicht - KI fördert kognitive Anstrengung bei Lernenden, umgeht sie nicht - KI respektiert Datenschutz und Vertraulichkeit - Wir bleiben reflektiert und kritisch im Umgang mit der Technologie",
+    "text": "Überlege für dich (kann auch in Partnerarbeit):\n\n\n\nEine wichtige Erkenntnis aus dem Workshop\nEin konkreter Anwendungsfall für meinen Unterricht oder meine Beratung\nMein erster Schritt: Was probiere ich als nächstes aus?\n\n\n\n\n\nTool-Wahl: Welches KI-Tool werde ich nutzen? (ChatGPT, Claude, Copilot, etc.)\nKontext: In welcher konkreten Situation setze ich KI ein?\nGrenzen beachten: Wo ziehe ich bewusst eine Grenze?\n\nOptional - Notiere dir:\nMeine wichtigste Erkenntnis: ____________________\nMein erster Schritt: ____________________________\nBis wann: ______________________________________\n\n\n\n\nJede/r teilt in 30 Sekunden:\n\nEine Erkenntnis aus dem heutigen Workshop, oder\nEinen konkreten nächsten Schritt, den ihr umsetzen wollt\n\n\n\n\n\n\n\nTipTake-Away Message\n\n\n\nVerantwortungsvoller KI-Einsatz bedeutet:\n\nKI unterstützt pädagogische und beraterische Professionalität, ersetzt sie nicht\nKI fördert kognitive Anstrengung bei Lernenden, umgeht sie nicht\nKI respektiert Datenschutz und Vertraulichkeit\nWir bleiben reflektiert und kritisch im Umgang mit der Technologie",
     "crumbs": [
       "Workshop",
       "Transfer & Abschluss"
@@ -856,7 +835,7 @@
     "href": "workshop/diskussion/index.html#von-der-idee-zur-umsetzung-15-min",
     "title": "Transfer & Abschluss",
     "section": "",
-    "text": "Überlege für dich (kann auch in Partnerarbeit):\n\n\n\nEine wichtige Erkenntnis aus dem Workshop\nEin konkreter Anwendungsfall für meinen Unterricht oder meine Beratung\nMein erster Schritt: Was probiere ich als nächstes aus?\n\n\n\n\n\nTool-Wahl: Welches KI-Tool werde ich nutzen? (ChatGPT, Claude, Copilot, etc.)\nKontext: In welcher konkreten Situation setze ich KI ein?\nGrenzen beachten: Wo ziehe ich bewusst eine Grenze?\n\nOptional - Notiere dir:\nMeine wichtigste Erkenntnis: ____________________\nMein erster Schritt: ____________________________\nBis wann: ______________________________________\n\n\n\n\nJede/r teilt in 30 Sekunden:\n\nEine Erkenntnis aus dem heutigen Workshop, oder\nEinen konkreten nächsten Schritt, den ihr umsetzen wollt\n\n\n\n\n\n\n\nTipTake-Away Message\n\n\n\nVerantwortungsvoller KI-Einsatz bedeutet: - KI unterstützt pädagogische und beraterische Professionalität, ersetzt sie nicht - KI fördert kognitive Anstrengung bei Lernenden, umgeht sie nicht - KI respektiert Datenschutz und Vertraulichkeit - Wir bleiben reflektiert und kritisch im Umgang mit der Technologie",
+    "text": "Überlege für dich (kann auch in Partnerarbeit):\n\n\n\nEine wichtige Erkenntnis aus dem Workshop\nEin konkreter Anwendungsfall für meinen Unterricht oder meine Beratung\nMein erster Schritt: Was probiere ich als nächstes aus?\n\n\n\n\n\nTool-Wahl: Welches KI-Tool werde ich nutzen? (ChatGPT, Claude, Copilot, etc.)\nKontext: In welcher konkreten Situation setze ich KI ein?\nGrenzen beachten: Wo ziehe ich bewusst eine Grenze?\n\nOptional - Notiere dir:\nMeine wichtigste Erkenntnis: ____________________\nMein erster Schritt: ____________________________\nBis wann: ______________________________________\n\n\n\n\nJede/r teilt in 30 Sekunden:\n\nEine Erkenntnis aus dem heutigen Workshop, oder\nEinen konkreten nächsten Schritt, den ihr umsetzen wollt\n\n\n\n\n\n\n\nTipTake-Away Message\n\n\n\nVerantwortungsvoller KI-Einsatz bedeutet:\n\nKI unterstützt pädagogische und beraterische Professionalität, ersetzt sie nicht\nKI fördert kognitive Anstrengung bei Lernenden, umgeht sie nicht\nKI respektiert Datenschutz und Vertraulichkeit\nWir bleiben reflektiert und kritisch im Umgang mit der Technologie",
     "crumbs": [
       "Workshop",
       "Transfer & Abschluss"
@@ -1189,8 +1168,8 @@
     ]
   },
   {
-    "objectID": "04-ki-in-beratung/ethik/index.html#verantwortungsvoller-ki-einsatz-in-unterricht-beratung-35-min",
-    "href": "04-ki-in-beratung/ethik/index.html#verantwortungsvoller-ki-einsatz-in-unterricht-beratung-35-min",
+    "objectID": "04-ki-in-beratung/ethik/index.html#verantwortungsvoller-ki-einsatz-in-unterricht-beratung-15-min",
+    "href": "04-ki-in-beratung/ethik/index.html#verantwortungsvoller-ki-einsatz-in-unterricht-beratung-15-min",
     "title": "Ethik & Reflexion",
     "section": "",
     "text": "In diesem Teil reflektieren wir gemeinsam die ethischen Implikationen des KI-Einsatzes und entwickeln Orientierungspunkte für verantwortungsvolle Praxis.",
@@ -1211,33 +1190,22 @@
     ]
   },
   {
-    "objectID": "04-ki-in-beratung/ethik/index.html#diskussionsrunde-was-dürfen-wir-automatisieren-25-min",
-    "href": "04-ki-in-beratung/ethik/index.html#diskussionsrunde-was-dürfen-wir-automatisieren-25-min",
+    "objectID": "04-ki-in-beratung/ethik/index.html#blitz-diskussion-was-dürfen-wir-automatisieren-10-min",
+    "href": "04-ki-in-beratung/ethik/index.html#blitz-diskussion-was-dürfen-wir-automatisieren-10-min",
     "title": "Ethik & Reflexion",
-    "section": "Diskussionsrunde: “Was dürfen wir automatisieren?” (25 Min)",
-    "text": "Diskussionsrunde: “Was dürfen wir automatisieren?” (25 Min)\n\n\n\n\n\n\nGroupStrukturierte Gruppendiskussion\n\n\n\n\nPhase 1: Dilemmata vorstellen (5 Min)\nDer/die Workshop-Leiter:in stellt konkrete Dilemmata vor. Beispiele:\nDilemma 1: KI-generierte Lernmaterialien &gt; Eine Lehrperson nutzt KI, um Arbeitsblätter und Übungsaufgaben zu erstellen. Die Qualität ist gut, die Zeitersparnis enorm. Die Lehrperson gibt die Materialien ohne Hinweis auf KI-Nutzung an Studierende weiter.\n\nIst das ethisch vertretbar? Warum (nicht)?\nWann wird es problematisch?\n\nDilemma 2: KI in der Beratungsdokumentation &gt; Ein:e Berater:in nutzt KI, um nach Gesprächen Notizen zu strukturieren und wichtige Punkte zusammenzufassen. Dafür werden Gesprächsinhalte (anonymisiert) in ChatGPT eingegeben.\n\nIst das datenschutzkonform? Was sind die Risiken?\nWie könnte man es verantwortungsvoll gestalten?\n\nDilemma 3: KI-Feedback an Lernende &gt; Eine Lehrperson lässt KI automatisch Feedback zu Studierenden-Arbeiten geben. Das KI-Feedback ist ausführlich und konstruktiv, aber die Lehrperson liest es nicht gegen und schickt es direkt weiter.\n\nWas sind die Probleme?\nWo läge die Grenze zu verantwortungsvollem KI-Einsatz?\n\nDilemma 4: KI zur Vorbereitung schwieriger Gespräche &gt; Ein:e Berater:in übt vor einem schwierigen Konfliktgespräch mit KI, indem sie der KI die Rolle der Konfliktpartei gibt und echte Details aus der Situation mitteilt.\n\nWo liegt hier die ethische Grenze?\nWie könnte man sicher üben, ohne Vertraulichkeit zu verletzen?\n\n\n\nPhase 2: Kleingruppen-Diskussion (12 Min)\nGruppengroesse: 3-4 Personen\nAufgabe: Wählt 2 Dilemmata und diskutiert:\n\nWo zieht ihr die Grenze?\n\nWas ist für euch akzeptabel?\nWas geht zu weit?\n\nWelche Kriterien nutzt ihr?\n\nWoran macht ihr fest, ob etwas verantwortungsvoll ist oder nicht?\n\nPraktische Handlungsregeln\n\nWelche konkreten “Dos and Don’ts” würdet ihr formulieren?\n\n\nNotiert eure wichtigsten Erkenntnisse (für die Präsentation im Plenum).\n\n\nPhase 3: Plenum – Synthese (8 Min)\nJede Gruppe teilt (jeweils 1-2 Min):\n\nEine zentrale Erkenntnis aus der Diskussion\nEine konkrete Handlungsregel für verantwortungsvollen KI-Einsatz\n\nDer/die Workshop-Leiter:in sammelt die Regeln und clustert sie (z.B. an Flipchart/Whiteboard).",
+    "section": "Blitz-Diskussion: “Was dürfen wir automatisieren?” (10 Min)",
+    "text": "Blitz-Diskussion: “Was dürfen wir automatisieren?” (10 Min)\n\n\n\n\n\n\nGroupPlenum-Diskussion\n\n\n\nDer/die Workshop-Leiter:in stellt 2-3 konkrete Dilemmata vor und diskutiert diese direkt im Plenum.\nBeispiel-Dilemmata:\nDilemma 1: KI-generierte Lernmaterialien &gt; Eine Lehrperson nutzt KI, um Arbeitsblätter zu erstellen und gibt sie ohne Hinweis auf KI-Nutzung weiter.\n\nIst das ethisch vertretbar? Warum (nicht)?\n\nDilemma 2: KI in der Beratungsdokumentation &gt; Ein:e Berater:in nutzt KI, um Gesprächsnotizen zu strukturieren. Dafür werden Gesprächsinhalte (anonymisiert) in ChatGPT eingegeben.\n\nIst das datenschutzkonform? Was sind die Risiken?\n\nDilemma 3: KI-Feedback an Lernende &gt; Eine Lehrperson lässt KI automatisch Feedback geben, ohne es selbst zu lesen.\n\nWas sind die Probleme?\n\nDiskussion im Plenum: - Spontane Wortmeldungen zu den Dilemmata - Workshop-Leiter:in moderiert und fasst Kernpunkte zusammen",
     "crumbs": [
       "4: KI in der Beratung",
       "Ethik & Reflexion"
     ]
   },
   {
-    "objectID": "04-ki-in-beratung/ethik/index.html#orientierungsrahmen-verantwortungsvoller-ki-einsatz-5-min",
-    "href": "04-ki-in-beratung/ethik/index.html#orientierungsrahmen-verantwortungsvoller-ki-einsatz-5-min",
+    "objectID": "04-ki-in-beratung/ethik/index.html#orientierungsrahmen-verantwortungsvoller-ki-einsatz-optional---als-handout",
+    "href": "04-ki-in-beratung/ethik/index.html#orientierungsrahmen-verantwortungsvoller-ki-einsatz-optional---als-handout",
     "title": "Ethik & Reflexion",
-    "section": "Orientierungsrahmen: Verantwortungsvoller KI-Einsatz (5 Min)",
-    "text": "Orientierungsrahmen: Verantwortungsvoller KI-Einsatz (5 Min)\nBasierend auf den Diskussionen entwickelt sich oft ein gemeinsames Verständnis. Hier ein möglicher Orientierungsrahmen:\n\n1. Transparenz-Prinzip\n\nOffenlegen, wenn KI eingesetzt wurde (gegenüber Lernenden, Klient:innen, Kolleg:innen)\nBegründen, warum und wie KI genutzt wird\n\n\n\n2. Verantwortungs-Prinzip\n\nKI ist Werkzeug, nicht Entscheider\nProfessionelle Verantwortung bleibt immer bei der Person (Lehrperson, Berater:in)\nKI-Output nie ungeprüft übernehmen\n\n\n\n3. Datenschutz-Prinzip\n\nKEINE vertraulichen, personenbezogenen oder sensiblen Daten in öffentliche KI-Tools\nBei Beratung: Anonymisierung reicht oft nicht (Kontext kann Personen identifizierbar machen)\nInstitutional guidelines beachten (Hochschulrichtlinien, Datenschutzbestimmungen)\n\n\n\n4. Lernförderung-Prinzip (Unterricht)\n\nKI sollte kognitive Anstrengung fördern, nicht ersetzen\nLernende müssen noch denken, nicht nur konsumieren\nProduktivitätssteigerung ≠ Lernzuwachs\n\n\n\n5. Authentizitäts-Prinzip (Beratung)\n\nMenschliche Beziehung bleibt zentral – KI kann sie nicht ersetzen\nKI zur Vorbereitung und Reflexion, nicht als Ersatz für echtes Gespräch\nEmpathie und ethisches Urteil bleiben menschliche Aufgaben",
-    "crumbs": [
-      "4: KI in der Beratung",
-      "Ethik & Reflexion"
-    ]
-  },
-  {
-    "objectID": "04-ki-in-beratung/ethik/index.html#reflexionsfragen-für-die-eigene-praxis",
-    "href": "04-ki-in-beratung/ethik/index.html#reflexionsfragen-für-die-eigene-praxis",
-    "title": "Ethik & Reflexion",
-    "section": "Reflexionsfragen für die eigene Praxis",
-    "text": "Reflexionsfragen für die eigene Praxis\n\n\n\n\n\n\nReflectPersönliche Reflexion (kann als Hausaufgabe dienen)\n\n\n\nÜberlegt für euch:\n\nEuer aktueller KI-Einsatz\n\nWo nutze ich KI bereits in meiner Lehr- oder Beratungspraxis?\nBin ich transparent darüber?\nWelche Daten gebe ich weiter – bewusst oder unbewusst?\n\n\n\nEure Grenzen\n\nWas fühlt sich für mich richtig an beim KI-Einsatz?\nWo würde ich eine Grenze ziehen (“das würde ich nicht tun”)?\nWarum ist diese Grenze für mich wichtig?\n\n\n\nNächste Schritte\n\nWas möchte ich ändern in meinem KI-Einsatz?\nWelche Absicherung brauche ich (Richtlinien, Kolleg:innenaustausch, technische Lösungen)?\nWen kann ich fragen, wenn ich unsicher bin?",
+    "section": "Orientierungsrahmen: Verantwortungsvoller KI-Einsatz (Optional - als Handout)",
+    "text": "Orientierungsrahmen: Verantwortungsvoller KI-Einsatz (Optional - als Handout)\nBasierend auf den Diskussionen können folgende Prinzipien als Orientierung dienen:\n\n1. Transparenz-Prinzip\n\nOffenlegen, wenn KI eingesetzt wurde (gegenüber Lernenden, Klient:innen, Kolleg:innen)\nBegründen, warum und wie KI genutzt wird\n\n\n\n2. Verantwortungs-Prinzip\n\nKI ist Werkzeug, nicht Entscheider\nProfessionelle Verantwortung bleibt immer bei der Person (Lehrperson, Berater:in)\nKI-Output nie ungeprüft übernehmen\n\n\n\n3. Datenschutz-Prinzip\n\nKEINE vertraulichen, personenbezogenen oder sensiblen Daten in öffentliche KI-Tools\nBei Beratung: Anonymisierung reicht oft nicht (Kontext kann Personen identifizierbar machen)\nInstitutional guidelines beachten (Hochschulrichtlinien, Datenschutzbestimmungen)\n\n\n\n4. Lernförderung-Prinzip (Unterricht)\n\nKI sollte kognitive Anstrengung fördern, nicht ersetzen\nLernende müssen noch denken, nicht nur konsumieren\nProduktivitätssteigerung ≠ Lernzuwachs\n\n\n\n5. Authentizitäts-Prinzip (Beratung)\n\nMenschliche Beziehung bleibt zentral – KI kann sie nicht ersetzen\nKI zur Vorbereitung und Reflexion, nicht als Ersatz für echtes Gespräch\nEmpathie und ethisches Urteil bleiben menschliche Aufgaben",
     "crumbs": [
       "4: KI in der Beratung",
       "Ethik & Reflexion"
@@ -1368,13 +1336,6 @@
     "text": "KI-basierte Schreibtools in der Lehre – Knowledge Base"
   },
   {
-    "objectID": "slides/prompting/index.html",
-    "href": "slides/prompting/index.html",
-    "title": "Prompting: Eine Einführung",
-    "section": "",
-    "text": "Ein Prompt ist ein Text (Anweisung), das einem generativen KI-Modell gegeben wird, um bestimmte Informationen zu generieren oder zu verstehen.\nPrompts dienen als Startpunkt beispielsweise für die Generierung von Ideen, Texten, Übersetzungen und Antworten auf Fragen."
-  },
-  {
     "objectID": "slides/prompting/index.html#was-ist-ein-prompt",
     "href": "slides/prompting/index.html#was-ist-ein-prompt",
     "title": "Prompting: Eine Einführung",
@@ -1464,13 +1425,6 @@
     "title": "Prompting: Eine Einführung",
     "section": "Bonustips",
     "text": "Bonustips\n \n\n\n\n\nMentales Modell: Ein LLM wie einen “Junior Assistant” behandeln.\nStruktierten Output verlangen (Tabellen, Listen, etc.)\nInput strukturieren (LLMs können diesen besser “verstehen”)\nEin LLM (z.B. ChatGPT/Copilot) nach Prompting Tips fragen. LLMs sind nicht auf dem neuesten Stand, aber haben sehr wahrscheinlich die bis vor kurzem aktuelle Literatur “gelesen”.\nChatGPT Tip: Anweisen, Python zu benutzen. Python ist eine Programmiersprache, die ChatGPT sehr gut beherrscht. Mit Python kann ChatGPT Daten analysieren, Grafiken erstellen, Word/Excel/Powerpoint Dateien erstellen."
-  },
-  {
-    "objectID": "slides/was-ist-ki/index.html",
-    "href": "slides/was-ist-ki/index.html",
-    "title": "Was ist Künstliche Intelligenz?",
-    "section": "",
-    "text": "Blog Post: KI integrieren\n\n\n\n\n\n\nGrafik von Barbara Geyer"
   },
   {
     "objectID": "slides/was-ist-ki/index.html#erster-schritt-eigene-ki-kompetenz-entwickeln",
@@ -1569,6 +1523,13 @@
     "title": "Was ist Künstliche Intelligenz?",
     "section": "Was kann KI?",
     "text": "Was kann KI?"
+  },
+  {
+    "objectID": "slides/was-sind-chatbots/index.html#was-sind-chatbots",
+    "href": "slides/was-sind-chatbots/index.html#was-sind-chatbots",
+    "title": "Wie funktionieren Chatbots?",
+    "section": "Was sind Chatbots?",
+    "text": "Was sind Chatbots?"
   },
   {
     "objectID": "slides/was-sind-chatbots/index.html#was-sind-llms",
@@ -1681,202 +1642,5 @@
     "title": "Wie funktionieren Chatbots?",
     "section": "Custom GPTs",
     "text": "Custom GPTs"
-  },
-  {
-    "objectID": "slides/was-sind-chatbots/index.html#footnotes",
-    "href": "slides/was-sind-chatbots/index.html#footnotes",
-    "title": "Wie funktionieren Chatbots?",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nDas ganze Wissen, welches nötig ist, um Texte Wort für Wort vorherzusagen.↩︎"
-  },
-  {
-    "objectID": "03-lernumgebungen/index.html#ki-gestützte-lehrplanung-50-min",
-    "href": "03-lernumgebungen/index.html#ki-gestützte-lehrplanung-50-min",
-    "title": "KI im Unterricht",
-    "section": "",
-    "text": "Wie kann KI konkret den Unterricht unterstützen, ohne die notwendige kognitive Anstrengung der Lernenden zu umgehen?",
-    "crumbs": [
-      "3: KI im Unterricht",
-      "KI im Unterricht"
-    ]
-  },
-  {
-    "objectID": "03-lernumgebungen/index.html#ki-anwendungen-im-unterricht-10-min",
-    "href": "03-lernumgebungen/index.html#ki-anwendungen-im-unterricht-10-min",
-    "title": "KI im Unterricht",
-    "section": "KI-Anwendungen im Unterricht (10 Min)",
-    "text": "KI-Anwendungen im Unterricht (10 Min)\nKI kann Lehrende in verschiedenen Phasen unterstützen:\n\n1. Planung & Vorbereitung\n\nLernzielanalyse: KI hilft, Lernziele zu konkretisieren und zu strukturieren\nMethodenauswahl: Vorschläge für passende didaktische Ansätze\nAufgabenentwicklung: Erstellung von Übungen und Prüfungsfragen\n\n\n\n2. Materialerstellung\n\nArbeitsblätter: Generierung von strukturierten Übungsmaterialien\nBeispiele: Entwicklung von Fallstudien und Anwendungsbeispielen\nDifferenzierung: Anpassung von Materialien für verschiedene Lernniveaus\n\n\n\n3. Reflexion & Verbesserung\n\nKI als Reflexionspartner: Feedback zu Unterrichtsplanung\nKritische Begleitung: Alternative Perspektiven auf didaktische Entscheidungen\n\n\n\n\n\n\n\nWarningWichtig: Die Lernparadox-Falle\n\n\n\nDenkt an Teil 2: Produktivität ≠ Lernen\n\nKI kann Lehrende produktiver machen (Planung, Materialien)\nKI sollte Lernende nicht von kognitiver Anstrengung entlasten\nDie 8 Make-it-Stick-Strategien bleiben zentral: Strategien im Detail",
-    "crumbs": [
-      "3: KI im Unterricht",
-      "KI im Unterricht"
-    ]
-  },
-  {
-    "objectID": "03-lernumgebungen/index.html#gruppenarbeit-unterrichtseinheit-mit-ki-planen-30-min",
-    "href": "03-lernumgebungen/index.html#gruppenarbeit-unterrichtseinheit-mit-ki-planen-30-min",
-    "title": "KI im Unterricht",
-    "section": "Gruppenarbeit: Unterrichtseinheit mit KI planen (30 Min)",
-    "text": "Gruppenarbeit: Unterrichtseinheit mit KI planen (30 Min)\n\n\n\n\n\n\nGroupAblauf der Gruppenarbeit\n\n\n\nGruppengrösse: 3-4 Personen\n\nPhase 1: Thema wählen & Planung starten (15 Min)\nAufgabe: Wählt ein Unterrichtsthema aus eurem eigenen Lehrkontext und plant gemeinsam eine Unterrichtseinheit mit KI-Unterstützung.\nSchritt für Schritt:\n\nThema festlegen (2 Min)\n\nWählt ein konkretes Thema aus eurem Fachbereich\nDefiniert die Zielgruppe (z.B. Studierende im 2. Semester)\nLegt grobe Lernziele fest\n\nKI zur Lernzielanalyse nutzen (5 Min)\n\nNutzt ChatGPT/Claude, um eure Lernziele zu konkretisieren\nFragt nach: “Wie kann ich diese Lernziele messbarer formulieren?”\nLasst euch Taxonomiestufen (Bloom) vorschlagen\n\nMethodenauswahl mit KI (8 Min)\n\nFragt die KI nach didaktischen Methoden für euer Thema\nWichtig: Filtert kritisch: Welche Methoden fördern produktive Anstrengung?\nWählt 2-3 Methoden aus, die ihr vertiefen wollt\n\n\nTools: ChatGPT, Claude, oder andere verfügbare KI-Tools\n\n\nPhase 2: Aufgabenentwicklung (10 Min)\nAufgabe: Entwickelt mit KI konkrete Lernaufgaben für eure Unterrichtseinheit.\n\nAufgaben generieren (5 Min)\n\nLasst die KI Übungsaufgaben zu eurem Thema erstellen\nVariiert Schwierigkeitsgrade\nFragt nach Aufgaben, die kognitive Anstrengung erfordern\n\nKritisch bewerten (5 Min)\n\nDiskutiert: Fördern diese Aufgaben tiefes Lernen?\nWo müssten die Aufgaben angepasst werden?\nNotiert eure wichtigsten Erkenntnisse\n\n\n\n\nPhase 3: Vorbereitung Präsentation (5 Min)\nBereitet eine 2-minütige Präsentation vor:\n\nWas habt ihr geplant? (30 Sek)\nWie hat KI euch unterstützt? (30 Sek)\nEine Erkenntnis: Was hat überrascht? Wo waren Grenzen? (1 Min)",
-    "crumbs": [
-      "3: KI im Unterricht",
-      "KI im Unterricht"
-    ]
-  },
-  {
-    "objectID": "03-lernumgebungen/index.html#präsentation-diskussion-im-plenum-10-min",
-    "href": "03-lernumgebungen/index.html#präsentation-diskussion-im-plenum-10-min",
-    "title": "KI im Unterricht",
-    "section": "Präsentation & Diskussion im Plenum (10 Min)",
-    "text": "Präsentation & Diskussion im Plenum (10 Min)\n\n\n\n\n\n\nGroupAustausch der Gruppen\n\n\n\nAblauf:\n\nJede Gruppe stellt ihre Unterrichtseinheit vor (2 Min pro Gruppe)\nKurze Rückfragen aus dem Plenum\n\nLeitfragen für die Diskussion:\n\nGemeinsame Muster\n\nWelche Chatbot-Unterstützung war besonders hilfreich?\nWo stiessen die Sprachmodelle an Grenzen?\nWelche Prompting-Strategien haben gut funktioniert?\n\n\n\nKritische Reflexion\n\nWo besteht die Gefahr, dass Chatbots die kognitive Anstrengung der Lernenden reduzieren?\nWie können wir sicherstellen, dass Sprachmodelle uns als Lehrende unterstützen, ohne das Lernen zu behindern?",
-    "crumbs": [
-      "3: KI im Unterricht",
-      "KI im Unterricht"
-    ]
-  },
-  {
-    "objectID": "04-ki-in-beratung/index.html#gruppenarbeit-beratungssimulation-mit-ki-20-min",
-    "href": "04-ki-in-beratung/index.html#gruppenarbeit-beratungssimulation-mit-ki-20-min",
-    "title": "KI in der Beratung",
-    "section": "Gruppenarbeit: Beratungssimulation mit KI (20 Min)",
-    "text": "Gruppenarbeit: Beratungssimulation mit KI (20 Min)\n\n\n\n\n\n\nGroupSimulation von Beratungssituationen\n\n\n\nAblauf (20 Min)\nGruppengrösse: 3-4 Personen\nSchritt 1: Gruppenbildung & Szenario wählen (3 Min)\n\nBildet Gruppen von 3-4 Personen\nWählt gemeinsam ein Beratungsszenario aus den Beispielszenarien\nVerteilt die Rollen:\n\n1 Person: Berater:in (führt das Gespräch mit KI)\n2-3 Personen: Beobachter:innen (achten auf verschiedene Aspekte)\n\n\nSchritt 2: Rollen verteilen & vorbereiten (2 Min)\nBerater:in:\n\nLiest das Szenario durch\nÜberlegt sich den Einstieg ins Gespräch\n\nBeobachter:innen verteilen Beobachtungsfokus:\n\nPerson 1: Achtet auf Gesprächsführung (Fragetechniken, Struktur, Zuhören)\nPerson 2: Achtet auf Beziehungsgestaltung (Empathie, Wertschätzung, Rapport)\nPerson 3 (falls vorhanden): Achtet auf Lösungsorientierung (Ressourcen, Ziele, Handlungsschritte)\n\nSchritt 3: Simulation durchführen (10 Min)\nBerater:in: - Gibt der KI (ChatGPT/Claude) die Rolle aus dem Szenario - Führt das Beratungsgespräch (ca. 8-10 Min) - Versucht professionelle Gesprächstechniken anzuwenden\nBeobachter:innen: - Machen sich Notizen zu ihrem Beobachtungsfokus - Achten auch auf: Wo wirkt die KI realistisch? Wo nicht?\nSchritt 4: Reflexion in der Gruppe (5 Min)\nAustausch im Gruppe:\n\nBerater:in berichtet (1 Min): Wie war das Gespräch? Was war schwierig?\nBeobachter:innen geben Feedback (3 Min):\n\nWas hat gut funktioniert?\nWo waren die Grenzen der KI spürbar?\nWelche Gesprächstechniken haben gut/nicht gut funktioniert?\n\nGemeinsame Einschätzung (1 Min):\n\nWo könnte dieses Übungsformat hilfreich sein?\nWas müsste man beachten beim Üben mit KI?",
-    "crumbs": [
-      "4: KI in der Beratung",
-      "KI in der Beratung"
-    ]
-  },
-  {
-    "objectID": "04-ki-in-beratung/ethik/index.html#verantwortungsvoller-ki-einsatz-in-unterricht-beratung-15-min",
-    "href": "04-ki-in-beratung/ethik/index.html#verantwortungsvoller-ki-einsatz-in-unterricht-beratung-15-min",
-    "title": "Ethik & Reflexion",
-    "section": "",
-    "text": "In diesem Teil reflektieren wir gemeinsam die ethischen Implikationen des KI-Einsatzes und entwickeln Orientierungspunkte für verantwortungsvolle Praxis.",
-    "crumbs": [
-      "4: KI in der Beratung",
-      "Ethik & Reflexion"
-    ]
-  },
-  {
-    "objectID": "04-ki-in-beratung/ethik/index.html#blitz-diskussion-was-dürfen-wir-automatisieren-10-min",
-    "href": "04-ki-in-beratung/ethik/index.html#blitz-diskussion-was-dürfen-wir-automatisieren-10-min",
-    "title": "Ethik & Reflexion",
-    "section": "Blitz-Diskussion: “Was dürfen wir automatisieren?” (10 Min)",
-    "text": "Blitz-Diskussion: “Was dürfen wir automatisieren?” (10 Min)\n\n\n\n\n\n\nGroupPlenum-Diskussion\n\n\n\nDer/die Workshop-Leiter:in stellt 2-3 konkrete Dilemmata vor und diskutiert diese direkt im Plenum.\nBeispiel-Dilemmata:\nDilemma 1: KI-generierte Lernmaterialien &gt; Eine Lehrperson nutzt KI, um Arbeitsblätter zu erstellen und gibt sie ohne Hinweis auf KI-Nutzung weiter.\n\nIst das ethisch vertretbar? Warum (nicht)?\n\nDilemma 2: KI in der Beratungsdokumentation &gt; Ein:e Berater:in nutzt KI, um Gesprächsnotizen zu strukturieren. Dafür werden Gesprächsinhalte (anonymisiert) in ChatGPT eingegeben.\n\nIst das datenschutzkonform? Was sind die Risiken?\n\nDilemma 3: KI-Feedback an Lernende &gt; Eine Lehrperson lässt KI automatisch Feedback geben, ohne es selbst zu lesen.\n\nWas sind die Probleme?\n\nDiskussion im Plenum: - Spontane Wortmeldungen zu den Dilemmata - Workshop-Leiter:in moderiert und fasst Kernpunkte zusammen",
-    "crumbs": [
-      "4: KI in der Beratung",
-      "Ethik & Reflexion"
-    ]
-  },
-  {
-    "objectID": "04-ki-in-beratung/ethik/index.html#orientierungsrahmen-verantwortungsvoller-ki-einsatz-optional---als-handout",
-    "href": "04-ki-in-beratung/ethik/index.html#orientierungsrahmen-verantwortungsvoller-ki-einsatz-optional---als-handout",
-    "title": "Ethik & Reflexion",
-    "section": "Orientierungsrahmen: Verantwortungsvoller KI-Einsatz (Optional - als Handout)",
-    "text": "Orientierungsrahmen: Verantwortungsvoller KI-Einsatz (Optional - als Handout)\nBasierend auf den Diskussionen können folgende Prinzipien als Orientierung dienen:\n\n1. Transparenz-Prinzip\n\nOffenlegen, wenn KI eingesetzt wurde (gegenüber Lernenden, Klient:innen, Kolleg:innen)\nBegründen, warum und wie KI genutzt wird\n\n\n\n2. Verantwortungs-Prinzip\n\nKI ist Werkzeug, nicht Entscheider\nProfessionelle Verantwortung bleibt immer bei der Person (Lehrperson, Berater:in)\nKI-Output nie ungeprüft übernehmen\n\n\n\n3. Datenschutz-Prinzip\n\nKEINE vertraulichen, personenbezogenen oder sensiblen Daten in öffentliche KI-Tools\nBei Beratung: Anonymisierung reicht oft nicht (Kontext kann Personen identifizierbar machen)\nInstitutional guidelines beachten (Hochschulrichtlinien, Datenschutzbestimmungen)\n\n\n\n4. Lernförderung-Prinzip (Unterricht)\n\nKI sollte kognitive Anstrengung fördern, nicht ersetzen\nLernende müssen noch denken, nicht nur konsumieren\nProduktivitätssteigerung ≠ Lernzuwachs\n\n\n\n5. Authentizitäts-Prinzip (Beratung)\n\nMenschliche Beziehung bleibt zentral – KI kann sie nicht ersetzen\nKI zur Vorbereitung und Reflexion, nicht als Ersatz für echtes Gespräch\nEmpathie und ethisches Urteil bleiben menschliche Aufgaben",
-    "crumbs": [
-      "4: KI in der Beratung",
-      "Ethik & Reflexion"
-    ]
-  },
-  {
-    "objectID": "workshop/einstieg/index.html#überblick-was-uns-heute-erwartet-5-min",
-    "href": "workshop/einstieg/index.html#überblick-was-uns-heute-erwartet-5-min",
-    "title": "Aktivierender Einstieg",
-    "section": "Überblick: Was uns heute erwartet (5 Min)",
-    "text": "Überblick: Was uns heute erwartet (5 Min)\n\nUnser Ziel heute:\nIhr lernt, wie Sprachmodelle und Chatbots (wie ChatGPT, Claude, Copilot) euch in Unterricht und Beratung konkret unterstützen können – wissenschaftlich fundiert und verantwortungsvoll eingesetzt.\n\n\n\n\n\n\nNoteWas meinen wir mit “KI” in diesem Workshop?\n\n\n\nIn diesem Workshop fokussieren wir auf Large Language Models (LLMs) und textbasierte Chatbots wie ChatGPT, Claude und Copilot. Andere KI-Technologien (z.B. Bilderkennung, Empfehlungssysteme) sind nicht Thema.\n\n\n\n\nWas ihr heute lernt:\n\nKI verstehen: Wie funktionieren Chatbots und Agents?\nLernpsychologie: Wie lernen Menschen wirklich?\nKI im Unterricht: Hands-on Unterrichtsplanung mit Sprachmodellen\nKI in der Beratung: Simulation von Beratungsgesprächen\nEthik & Reflexion: Verantwortungsvoller Einsatz von Sprachmodellen\n\n\n\nWas ihr mitnehmt:\n\nPraktische Erfahrung mit sprachmodellgestützter Lehr- und Beratungsplanung\nKonkrete Anwendungsideen für euren eigenen Kontext\nKritisches Verständnis für Chancen und Grenzen von Sprachmodellen",
-    "crumbs": [
-      "Workshop",
-      "Aktivierender Einstieg"
-    ]
-  },
-  {
-    "objectID": "01-ki-verstehen/index.html#was-meinen-wir-mit-ki-in-diesem-workshop",
-    "href": "01-ki-verstehen/index.html#was-meinen-wir-mit-ki-in-diesem-workshop",
-    "title": "KI verstehen",
-    "section": "Was meinen wir mit “KI” in diesem Workshop?",
-    "text": "Was meinen wir mit “KI” in diesem Workshop?\nKünstliche Intelligenz (KI) ist ein breiter Begriff für viele verschiedene Technologien. In diesem Workshop konzentrieren wir uns auf:\n\nLarge Language Models (LLMs) wie ChatGPT, Claude, Gemini\nTextbasierte Chatbots für Lehre und Beratung\nAI Agents (Programme, die LLMs nutzen, um Aufgaben zu erledigen)\n\nNicht Thema in diesem Workshop sind: Bilderkennung, Empfehlungssysteme, autonome Systeme, Robotik und andere KI-Technologien.\n\nWir beginnen mit einer klaren Einordnung, was Sprachmodelle sind und wie sie funktionieren – insbesondere die Large Language Models (LLMs), die hinter Chatbots wie ChatGPT stehen. Du lernst die Mechanismen der Textvorhersage kennen, verstehst die Stärken und Grenzen dieser Technologie und erhältst praktische Einblicke ins effektive Prompting.\nDieses Grundverständnis ist essentiell, um später informierte Entscheidungen über den sinnvollen Einsatz von Chatbots in Unterricht und Beratung treffen zu können. Der Fokus liegt dabei nicht auf technischen Details, sondern auf dem praxisrelevanten Verständnis: Was können Sprachmodelle leisten, was nicht, und was bedeutet das für deine Arbeit mit Studierenden und Lernenden?"
-  },
-  {
-    "objectID": "slides/was-sind-chatbots/index.html#was-sind-chatbots",
-    "href": "slides/was-sind-chatbots/index.html#was-sind-chatbots",
-    "title": "Wie funktionieren Chatbots?",
-    "section": "Was sind Chatbots?",
-    "text": "Was sind Chatbots?"
-  },
-  {
-    "objectID": "03-lernumgebungen/index.html#chatbot-gestützte-lehrplanung-50-min",
-    "href": "03-lernumgebungen/index.html#chatbot-gestützte-lehrplanung-50-min",
-    "title": "KI im Unterricht",
-    "section": "",
-    "text": "Wie können Sprachmodelle konkret den Unterricht unterstützen, ohne die notwendige kognitive Anstrengung der Lernenden zu umgehen?",
-    "crumbs": [
-      "3: KI im Unterricht",
-      "KI im Unterricht"
-    ]
-  },
-  {
-    "objectID": "03-lernumgebungen/index.html#anwendungen-von-chatbots-im-unterricht-10-min",
-    "href": "03-lernumgebungen/index.html#anwendungen-von-chatbots-im-unterricht-10-min",
-    "title": "KI im Unterricht",
-    "section": "Anwendungen von Chatbots im Unterricht (10 Min)",
-    "text": "Anwendungen von Chatbots im Unterricht (10 Min)\nSprachmodelle können Lehrende in verschiedenen Phasen unterstützen:\n\n1. Planung & Vorbereitung\n\nLernzielanalyse: Chatbots helfen, Lernziele zu konkretisieren und zu strukturieren\nMethodenauswahl: Vorschläge für passende didaktische Ansätze\nAufgabenentwicklung: Erstellung von Übungen und Prüfungsfragen\n\n\n\n2. Materialerstellung\n\nArbeitsblätter: Generierung von strukturierten Übungsmaterialien\nBeispiele: Entwicklung von Fallstudien und Anwendungsbeispielen\nDifferenzierung: Anpassung von Materialien für verschiedene Lernniveaus\n\n\n\n3. Reflexion & Verbesserung\n\nChatbot als Reflexionspartner: Feedback zu Unterrichtsplanung\nKritische Begleitung: Alternative Perspektiven auf didaktische Entscheidungen\n\n\n\n\n\n\n\nWarningWichtig: Die Lernparadox-Falle\n\n\n\nDenkt an Teil 2: Produktivität ≠ Lernen\n\nSprachmodelle können Lehrende produktiver machen (Planung, Materialien)\nSprachmodelle sollten Lernende nicht von kognitiver Anstrengung entlasten\nDie 8 Make-it-Stick-Strategien bleiben zentral: Strategien im Detail",
-    "crumbs": [
-      "3: KI im Unterricht",
-      "KI im Unterricht"
-    ]
-  },
-  {
-    "objectID": "03-lernumgebungen/index.html#gruppenarbeit-unterrichtseinheit-mit-chatbot-planen-30-min",
-    "href": "03-lernumgebungen/index.html#gruppenarbeit-unterrichtseinheit-mit-chatbot-planen-30-min",
-    "title": "KI im Unterricht",
-    "section": "Gruppenarbeit: Unterrichtseinheit mit Chatbot planen (30 Min)",
-    "text": "Gruppenarbeit: Unterrichtseinheit mit Chatbot planen (30 Min)\n\n\n\n\n\n\nGroupAblauf der Gruppenarbeit\n\n\n\nGruppengrösse: 3-4 Personen\n\nPhase 1: Thema wählen & Planung starten (15 Min)\nAufgabe: Wählt ein Unterrichtsthema aus eurem eigenen Lehrkontext und plant gemeinsam eine Unterrichtseinheit mit Chatbot-Unterstützung.\nSchritt für Schritt:\n\nThema festlegen (2 Min)\n\nWählt ein konkretes Thema aus eurem Fachbereich\nDefiniert die Zielgruppe (z.B. Studierende im 2. Semester)\nLegt grobe Lernziele fest\n\nChatbot zur Lernzielanalyse nutzen (5 Min)\n\nNutzt ChatGPT/Claude, um eure Lernziele zu konkretisieren\nFragt nach: “Wie kann ich diese Lernziele messbarer formulieren?”\nLasst euch Taxonomiestufen (Bloom) vorschlagen\n\nMethodenauswahl mit Chatbot (8 Min)\n\nFragt den Chatbot nach didaktischen Methoden für euer Thema\nWichtig: Filtert kritisch: Welche Methoden fördern produktive Anstrengung?\nWählt 2-3 Methoden aus, die ihr vertiefen wollt\n\n\nTools: ChatGPT, Claude, oder andere verfügbare Chatbots\n\n\nPhase 2: Aufgabenentwicklung (10 Min)\nAufgabe: Entwickelt mit dem Chatbot konkrete Lernaufgaben für eure Unterrichtseinheit.\n\nAufgaben generieren (5 Min)\n\nLasst den Chatbot Übungsaufgaben zu eurem Thema erstellen\nVariiert Schwierigkeitsgrade\nFragt nach Aufgaben, die kognitive Anstrengung erfordern\n\nKritisch bewerten (5 Min)\n\nDiskutiert: Fördern diese Aufgaben tiefes Lernen?\nWo müssten die Aufgaben angepasst werden?\nNotiert eure wichtigsten Erkenntnisse\n\n\n\n\nPhase 3: Vorbereitung Präsentation (5 Min)\nBereitet eine 2-minütige Präsentation vor:\n\nWas habt ihr geplant? (30 Sek)\nWie hat der Chatbot euch unterstützt? (30 Sek)\nEine Erkenntnis: Was hat überrascht? Wo waren Grenzen? (1 Min)",
-    "crumbs": [
-      "3: KI im Unterricht",
-      "KI im Unterricht"
-    ]
-  },
-  {
-    "objectID": "04-ki-in-beratung/index.html#beratungsgespräche-mit-chatbots-unterstützen-30-min",
-    "href": "04-ki-in-beratung/index.html#beratungsgespräche-mit-chatbots-unterstützen-30-min",
-    "title": "KI in der Beratung",
-    "section": "",
-    "text": "Wie können Sprachmodelle in Beratungskontexten sinnvoll eingesetzt werden, ohne die menschliche Beziehung und professionelle Verantwortung zu untergraben?",
-    "crumbs": [
-      "4: KI in der Beratung",
-      "Chatbots in der Beratung"
-    ]
-  },
-  {
-    "objectID": "04-ki-in-beratung/index.html#anwendungen-von-chatbots-in-der-beratung-5-min",
-    "href": "04-ki-in-beratung/index.html#anwendungen-von-chatbots-in-der-beratung-5-min",
-    "title": "KI in der Beratung",
-    "section": "Anwendungen von Chatbots in der Beratung (5 Min)",
-    "text": "Anwendungen von Chatbots in der Beratung (5 Min)\nSprachmodelle können Beratende in verschiedenen Phasen unterstützen:\n\n1. Vorbereitung von Beratungsgesprächen\n\nStrukturierung: Chatbots helfen, Gesprächsleitfäden zu entwickeln\nPerspektivenwechsel: Alternative Sichtweisen auf Beratungssituationen\nRessourcen: Zusammenstellung relevanter Informationen und Materialien\n\n\n\n2. Simulation und Rollenspiele\n\nÜbungsgespräche: Chatbots nehmen verschiedene Rollen ein (z.B. ratsuchende Person, kritischer Gesprächspartner)\nGesprächstechniken: Üben von aktiver Zuhören, Fragetechniken, lösungsorientiertem Vorgehen\nSichere Umgebung: Fehler machen und lernen ohne reale Konsequenzen\n\n\n\n3. Reflexion und Nachbereitung\n\nGesprächsanalyse: Chatbot als Reflexionspartner nach Beratungsgesprächen\nDokumentation: Unterstützung beim Erfassen wichtiger Gesprächspunkte\nWeiterentwicklung: Identifikation von Mustern und Entwicklungsfeldern\n\n\n\n\n\n\n\nWarningKritische Grenzen\n\n\n\nWas Chatbots NICHT können und sollen:\n\nEchte menschliche Beziehung und Empathie ersetzen\nVertrauliche Informationen von Klient:innen verarbeiten (Datenschutz!)\nProfessionelle Beurteilung und Verantwortung übernehmen\nEthische Dilemmata auflösen",
-    "crumbs": [
-      "4: KI in der Beratung",
-      "Chatbots in der Beratung"
-    ]
-  },
-  {
-    "objectID": "04-ki-in-beratung/index.html#gruppenarbeit-beratungssimulation-mit-chatbot-20-min",
-    "href": "04-ki-in-beratung/index.html#gruppenarbeit-beratungssimulation-mit-chatbot-20-min",
-    "title": "KI in der Beratung",
-    "section": "Gruppenarbeit: Beratungssimulation mit Chatbot (20 Min)",
-    "text": "Gruppenarbeit: Beratungssimulation mit Chatbot (20 Min)\n\n\n\n\n\n\nGroupSimulation von Beratungssituationen\n\n\n\nAblauf (20 Min)\nGruppengrösse: 3-4 Personen\nSchritt 1: Gruppenbildung & Szenario wählen (3 Min)\n\nBildet Gruppen von 3-4 Personen\nWählt gemeinsam ein Beratungsszenario aus den Beispielszenarien\nVerteilt die Rollen:\n\n1 Person: Berater:in (führt das Gespräch mit KI)\n2-3 Personen: Beobachter:innen (achten auf verschiedene Aspekte)\n\n\nSchritt 2: Rollen verteilen & vorbereiten (2 Min)\nBerater:in:\n\nLiest das Szenario durch\nÜberlegt sich den Einstieg ins Gespräch\n\nBeobachter:innen verteilen Beobachtungsfokus:\n\nPerson 1: Achtet auf Gesprächsführung (Fragetechniken, Struktur, Zuhören)\nPerson 2: Achtet auf Beziehungsgestaltung (Empathie, Wertschätzung, Rapport)\nPerson 3 (falls vorhanden): Achtet auf Lösungsorientierung (Ressourcen, Ziele, Handlungsschritte)\n\nSchritt 3: Simulation durchführen (10 Min)\nBerater:in:\n\nGibt dem Chatbot (ChatGPT/Claude) die Rolle aus dem Szenario\nFührt das Beratungsgespräch (ca. 8-10 Min)\nVersucht professionelle Gesprächstechniken anzuwenden\n\nBeobachter:innen:\n\nMachen sich Notizen zu ihrem Beobachtungsfokus\nAchten auch auf: Wo wirkt der Chatbot realistisch? Wo nicht?\n\nSchritt 4: Reflexion in der Gruppe (5 Min)\nAustausch im Gruppe:\n\nBerater:in berichtet (1 Min): Wie war das Gespräch? Was war schwierig?\nBeobachter:innen geben Feedback (3 Min):\n\nWas hat gut funktioniert?\nWo waren die Grenzen des Chatbots spürbar?\nWelche Gesprächstechniken haben gut/nicht gut funktioniert?\n\nGemeinsame Einschätzung (1 Min):\n\nWo könnte dieses Übungsformat hilfreich sein?\nWas müsste man beachten beim Üben mit Chatbots?",
-    "crumbs": [
-      "4: KI in der Beratung",
-      "Chatbots in der Beratung"
-    ]
-  },
-  {
-    "objectID": "04-ki-in-beratung/index.html#reflexion-chatbots-in-der-beratungspraxis-10-min",
-    "href": "04-ki-in-beratung/index.html#reflexion-chatbots-in-der-beratungspraxis-10-min",
-    "title": "KI in der Beratung",
-    "section": "Reflexion: Chatbots in der Beratungspraxis (10 Min)",
-    "text": "Reflexion: Chatbots in der Beratungspraxis (10 Min)\n\n\n\n\n\n\nGroupPlenum-Diskussion\n\n\n\n\nErfahrungen aus der Simulation\n\nWas hat gut funktioniert? Welche Aspekte der Simulation waren realistisch?\nWas fehlte? Wo wurde die Künstlichkeit des Chatbots spürbar?\nÜberraschungen? Gab es unerwartete Wendungen im Gespräch?\n\n\n\nÜbertragung in die Praxis\n\nWo sinnvoll? In welchen Beratungssituationen könnte chatbot-gestütztes Üben helfen?\n\nVorbereitung auf schwierige Gespräche?\nTraining neuer Gesprächstechniken?\nReflexion eigener Kommunikationsmuster?\n\nWo problematisch? Welche Risiken und Grenzen seht ihr?\n\nDatenschutz bei echten Fällen?\nVereinfachung komplexer menschlicher Dynamiken?\nAbhängigkeit von Chatbot-Vorschlägen?\n\n\n\n\nEthische Fragen\n\nWann wird aus Unterstützung Abhängigkeit?\nWie bleibt professionelle Verantwortung gewahrt?\nWas darf automatisiert werden, was nicht?",
-    "crumbs": [
-      "4: KI in der Beratung",
-      "Chatbots in der Beratung"
-    ]
   }
 ]
