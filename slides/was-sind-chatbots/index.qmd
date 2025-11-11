@@ -152,29 +152,30 @@ Ein LLM wird in drei Schritten aufgebaut:
 
 ## Extended Thinking: Wenn LLMs nachdenken {.smaller}
 
-**Von Reaktion zu Reasoning**
+**Von Textgenerierung zu Reasoning**
+Neuere Modelle (o0/o3, GPT-5,  Claude Opus/Sonnet/Haiku) können "nachdenken" bevor sie eine Antwort generieren:
 
-::::{.columns}
-:::{.column width="60%"}
-Neuere Modelle (OpenAI o1/o3, Claude Extended Thinking) können vor der Antwort "nachdenken":
-
-1. **Problem analysieren** - Aufgabe in Teilschritte zerlegen
-2. **Optionen durchdenken** - Verschiedene Ansätze prüfen
-3. **Reasoning-Kette aufbauen** - Schritte logisch verbinden
-4. **Antwort generieren** - Basierend auf Denkprozess
+1. **Problem analysieren**: Aufgabe in Teilschritte zerlegen
+2. **Optionen durchdenken**:Verschiedene Ansätze prüfen
+3. **Reasoning-Kette aufbauen**: Schritte logisch verbinden
+4. **Antwort generieren**: Basierend auf Thinkink-Output
 
 **Vorteil:** Bessere Antworten bei komplexen Aufgaben (Planung, Problemlösung, Mathematik)
 
 **Nachteil:** Langsamer und teurer als Standard-Modus
-:::
 
-:::{.column width="40%"}
+<br>
+
+::::{.columns}
+:::{.column width="50%"}
+
 ### Standard-Modus
 **Frage** → **Antwort**
 
 *Schnell, direkt*
+:::
 
-<br>
+:::{.column width="50%"}
 
 ### Thinking-Modus
 **Frage** → **<denkt nach...>** → **Antwort**
@@ -183,9 +184,6 @@ Neuere Modelle (OpenAI o1/o3, Claude Extended Thinking) können vor der Antwort 
 :::
 ::::
 
-::: {.callout-note}
-**In eurem Kontext:** Thinking-Modus besonders nützlich für Lehrplanung, Fallanalysen, ethische Dilemmata.
-:::
 
 
 ## Gefahren und Herausforderungen
@@ -267,7 +265,6 @@ Die verschiedenen Stufen des Trainings sind mit verschiedenen Arten von Bedenken
 
 ## Der Paradigmenwechsel {.smaller}
 
-**Von reaktiven Tools zu proaktiven Partnern**
 
 ::::{.columns}
 :::{.column width="50%"}
@@ -297,7 +294,7 @@ Die verschiedenen Stufen des Trainings sind mit verschiedenen Arten von Bedenken
 ::::
 
 ::: {.callout-important}
-**Der Unterschied**: Ein Chatbot beantwortet die nächste Frage. Ein Agent arbeitet das Problem, bis der Job erledigt ist.
+**Der Unterschied**: Ein Chatbot kann eine Frage beantworten. Ein Agent bearbeitet das Problem, bis der Job erledigt ist.
 :::
 
 
@@ -307,13 +304,12 @@ Die verschiedenen Stufen des Trainings sind mit verschiedenen Arten von Bedenken
 
 ::::{.columns}
 :::{.column width="50%"}
-### Die Grundformel
 
 **LLM-basierte Agenten** =
 
 - **LLM** (GPT-5, Claude, ...) für Reasoning
-- **+ Gedächtnis** (Kurz- & Langzeit)
-- **+ Werkzeuge** (APIs, Datenbanken, Code)
+- **+ Gedächtnis**
+- **+ Werkzeuge (Tools)** (APIs, Datenbanken, Code)
 - **+ Entscheidungsschleife** (kontinuierlich)
 
 :::
@@ -321,17 +317,14 @@ Die verschiedenen Stufen des Trainings sind mit verschiedenen Arten von Bedenken
 ::: {.column width="50%"}
 ### Der Agent-Zyklus
 
-1. **Wahrnehmung** - Input/Umgebung
-2. **Planung** - LLM überlegt Schritte
-3. **Handlung** - Tools/APIs verwenden
-4. **Feedback** - Ergebnisse bewerten
+1. **Wahrnehmung**: Input/Umgebung
+2. **Planung**: LLM überlegt Schritte
+3. **Handlung**: Tools/APIs verwenden
+4. **Feedback**: Ergebnisse bewerten
 
 :::
 ::::
 
-::: {.callout-tip}
-Agents verwandeln passive Sprachmodelle in aktive, handelnde Systeme durch kontinuierliche Wahrnehmung-Planung-Handlung-Zyklen.
-:::
 
 
 ## Von Chatbot zu Agent: Unterschiedie {.smaller}
