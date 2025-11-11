@@ -6,35 +6,28 @@ title: Transfer & Abschluss
 
 ### Schritt 1: Persönliche Reflexion (8 Min)
 
-**Überlege für dich (kann auch in Partnerarbeit):**
+Überlege für dich (oder in Partnerarbeit):
 
-#### **Was nehme ich mit?**
+#### Was nehme ich mit?
 
-- **Eine wichtige Erkenntnis** aus dem Workshop
-- **Ein konkreter Anwendungsfall** für meinen Unterricht oder meine Beratung
-- **Mein erster Schritt**: Was probiere ich als nächstes aus?
+- Eine wichtige Erkenntnis aus dem Workshop
+- Ein konkreter Anwendungsfall für meinen Unterricht oder meine Beratung
+- Mein erster Schritt: Was probiere ich als nächstes aus?
 
-#### **Wie setze ich das um?**
+#### Wie setze ich das um?
 
-- **Tool-Wahl**: Welches KI-Tool werde ich nutzen? (ChatGPT, Claude, Copilot, etc.)
-- **Kontext**: In welcher konkreten Situation setze ich KI ein?
-- **Grenzen beachten**: Wo ziehe ich bewusst eine Grenze?
-
-**Optional - Notiere dir:**
-```
-Meine wichtigste Erkenntnis: ____________________
-Mein erster Schritt: ____________________________
-Bis wann: ______________________________________
-```
+- Tool-Wahl: Welche KI-Tools werde ich nutzen? (ChatGPT, Claude, Copilot, etc.)
+- Kontext: In welcher konkreten Situation setze ich KI ein?
+- Grenzen beachten: Wo ziehe ich bewusst eine Grenze? Wo werde ich KI nicht einsetzen?
 
 ### Schritt 2: Blitzlicht-Runde (7 Min)
 
 **Jede/r teilt in 30 Sekunden:**
 
-- **Eine Erkenntnis** aus dem heutigen Workshop, oder
-- **Einen konkreten nächsten Schritt**, den ihr umsetzen wollt
+- Eine Erkenntnis aus dem heutigen Workshop, oder
+- Einen konkreten nächsten Schritt, den ihr umsetzen wollt
 
-::: {.callout-tip}
+<!-- ::: {.callout-tip}
 ## Take-Away Message
 
 **Verantwortungsvoller KI-Einsatz** bedeutet:
@@ -43,4 +36,4 @@ Bis wann: ______________________________________
 - KI fördert **kognitive Anstrengung** bei Lernenden, umgeht sie nicht
 - KI respektiert **Datenschutz und Vertraulichkeit**
 - Wir bleiben **reflektiert und kritisch** im Umgang mit der Technologie
-:::
+::: -->
