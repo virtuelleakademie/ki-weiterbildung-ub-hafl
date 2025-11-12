@@ -14,9 +14,9 @@ title: "Ablauf"
 |                            | [Wie Menschen lernen](../02-wie-menschen-lernen/index.qmd)             | 15 min                           |
 | **09:55 - 10:10**          | {{< bi cup-hot-fill >}} **Pause**                                      |                                  |
 |                            | Kaffee                                                                 | 15 min                           |
-| **10:10 - 11:00**          | {{< bi collection-play >}} **Teil 3A: KI im Unterricht**               |                                  |
+| **10:10 - 11:00**          | {{< bi collection-play >}} **Teil 3: KI im Unterricht**               |                                  |
 |                            | [KI-gestützte Lehrplanung](../03-lernumgebungen/index.qmd)             | 50 min                           |
-| **11:00 - 11:30**          | {{< bi collection-play >}} **Teil 3B: KI in der Beratung**             |                                  |
+| **11:00 - 11:30**          | {{< bi collection-play >}} **Teil 4: KI in der Beratung**             |                                  |
 |                            | [Beratungsgespräche simulieren](../04-ki-in-beratung/index.qmd)        | 30 min                           |
 | **11:30 - 12:00**          | {{< bi collection-play >}} **Abschlussdiskussion & Transfer**          |                                  |
 |                            | [KI in der Praxis: Chancen, Grenzen & Ethik](diskussion/index.qmd)     | 30 min                           |
