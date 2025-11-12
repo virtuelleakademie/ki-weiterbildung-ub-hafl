@@ -846,7 +846,7 @@
     "href": "workshop/index.html",
     "title": "Ablauf",
     "section": "",
-    "text": "Zeit\n Thema\n Dauer\n\n\n\n\n09:00 - 09:10\n Einstieg\n\n\n\n\nBegrüssung\n10 min\n\n\n09:10 - 09:40\n Teil 1: KI verstehen\n\n\n\n\nGrundlagen: KI, Chatbots & Agents\n30 min\n\n\n09:40 - 09:55\n Teil 2: Lernen verstehen\n\n\n\n\nWie Menschen lernen\n15 min\n\n\n09:55 - 10:10\n Pause\n\n\n\n\nKaffee\n15 min\n\n\n10:10 - 11:00\n Teil 3A: KI im Unterricht\n\n\n\n\nKI-gestützte Lehrplanung\n50 min\n\n\n11:00 - 11:30\n Teil 3B: KI in der Beratung\n\n\n\n\nBeratungsgespräche simulieren\n30 min\n\n\n11:30 - 12:00\n Abschlussdiskussion & Transfer\n\n\n\n\nKI in der Praxis: Chancen, Grenzen & Ethik\n30 min",
+    "text": "Zeit\n Thema\n Dauer\n\n\n\n\n09:00 - 09:10\n Einstieg\n\n\n\n\nBegrüssung\n10 min\n\n\n09:10 - 09:40\n Teil 1: KI verstehen\n\n\n\n\nGrundlagen: KI, Chatbots & Agents\n30 min\n\n\n09:40 - 09:55\n Teil 2: Lernen verstehen\n\n\n\n\nWie Menschen lernen\n15 min\n\n\n09:55 - 10:10\n Pause\n\n\n\n\nKaffee\n15 min\n\n\n10:10 - 11:00\n Teil 3: KI im Unterricht\n\n\n\n\nKI-gestützte Lehrplanung\n50 min\n\n\n11:00 - 11:30\n Teil 4: KI in der Beratung\n\n\n\n\nBeratungsgespräche simulieren\n30 min\n\n\n11:30 - 12:00\n Abschlussdiskussion & Transfer\n\n\n\n\nKI in der Praxis: Chancen, Grenzen & Ethik\n30 min",
     "crumbs": [
       "Workshop",
       "Ablauf"
@@ -857,7 +857,7 @@
     "href": "workshop/index.html#workshop-ablauf-ki-für-unterricht-beratung-3-stunden",
     "title": "Ablauf",
     "section": "",
-    "text": "Zeit\n Thema\n Dauer\n\n\n\n\n09:00 - 09:10\n Einstieg\n\n\n\n\nBegrüssung\n10 min\n\n\n09:10 - 09:40\n Teil 1: KI verstehen\n\n\n\n\nGrundlagen: KI, Chatbots & Agents\n30 min\n\n\n09:40 - 09:55\n Teil 2: Lernen verstehen\n\n\n\n\nWie Menschen lernen\n15 min\n\n\n09:55 - 10:10\n Pause\n\n\n\n\nKaffee\n15 min\n\n\n10:10 - 11:00\n Teil 3A: KI im Unterricht\n\n\n\n\nKI-gestützte Lehrplanung\n50 min\n\n\n11:00 - 11:30\n Teil 3B: KI in der Beratung\n\n\n\n\nBeratungsgespräche simulieren\n30 min\n\n\n11:30 - 12:00\n Abschlussdiskussion & Transfer\n\n\n\n\nKI in der Praxis: Chancen, Grenzen & Ethik\n30 min",
+    "text": "Zeit\n Thema\n Dauer\n\n\n\n\n09:00 - 09:10\n Einstieg\n\n\n\n\nBegrüssung\n10 min\n\n\n09:10 - 09:40\n Teil 1: KI verstehen\n\n\n\n\nGrundlagen: KI, Chatbots & Agents\n30 min\n\n\n09:40 - 09:55\n Teil 2: Lernen verstehen\n\n\n\n\nWie Menschen lernen\n15 min\n\n\n09:55 - 10:10\n Pause\n\n\n\n\nKaffee\n15 min\n\n\n10:10 - 11:00\n Teil 3: KI im Unterricht\n\n\n\n\nKI-gestützte Lehrplanung\n50 min\n\n\n11:00 - 11:30\n Teil 4: KI in der Beratung\n\n\n\n\nBeratungsgespräche simulieren\n30 min\n\n\n11:30 - 12:00\n Abschlussdiskussion & Transfer\n\n\n\n\nKI in der Praxis: Chancen, Grenzen & Ethik\n30 min",
     "crumbs": [
       "Workshop",
       "Ablauf"
@@ -1708,7 +1708,7 @@
     "href": "workshop/diskussion/index.html#teil-1-erfahrungsaustausch-aus-den-übungen-10-min",
     "title": "Abschlussdiskussion & Transfer",
     "section": "Teil 1: Erfahrungsaustausch aus den Übungen (10 Min)",
-    "text": "Teil 1: Erfahrungsaustausch aus den Übungen (10 Min)\n\n\n\n\n\n\nGroupPlenum-Diskussion\n\n\n\nRückblick auf die Praxis\nAus der Lehrplanung (Teil 3A):\n\nWas hat gut funktioniert beim Einsatz von Chatbots für die Unterrichtsplanung?\nWo waren die Grenzen spürbar?\nWelche Überraschungen gab es?\n\nAus der Beratungssimulation (Teil 3B):\n\nWie realistisch war die Simulation mit dem Chatbot?\nWas kann ein Chatbot in der Beratung – und was nicht?\nWo würdet ihr Chatbots zur Vorbereitung nutzen, wo nicht?",
+    "text": "Teil 1: Erfahrungsaustausch aus den Übungen (10 Min)\n\n\n\n\n\n\nGroupPlenum-Diskussion\n\n\n\nRückblick auf die Praxis\nAus der Lehrplanung (Teil 3):\n\nWas hat gut funktioniert beim Einsatz von Chatbots für die Unterrichtsplanung?\nWo waren die Grenzen spürbar?\nWelche Überraschungen gab es?\n\nAus der Beratungssimulation (Teil 4):\n\nWie realistisch war die Simulation mit dem Chatbot?\nWas kann ein Chatbot in der Beratung? Was nicht?\nWo würdet ihr Chatbots zur Vorbereitung nutzen, wo nicht?",
     "crumbs": [
       "Workshop",
       "Abschlussdiskussion & Transfer"
@@ -1719,7 +1719,7 @@
     "href": "workshop/diskussion/index.html#teil-2-ethische-fragen-und-dilemmata-12-min",
     "title": "Abschlussdiskussion & Transfer",
     "section": "Teil 2: Ethische Fragen und Dilemmata (12 Min)",
-    "text": "Teil 2: Ethische Fragen und Dilemmata (12 Min)\n\n\n\n\n\n\nGroupDiskussion konkreter Szenarien\n\n\n\nDer/die Workshop-Leiter:in stellt 2-3 konkrete Dilemmata zur Diskussion:\nDilemma 1: Transparenz bei KI-generierten Materialien &gt; Eine Lehrperson nutzt ChatGPT, um Arbeitsblätter zu erstellen und gibt sie ohne Hinweis auf KI-Nutzung an Studierende weiter.\nFragen zur Diskussion:\n\nIst das ethisch vertretbar? Warum (nicht)?\nWann muss ich transparent machen, dass KI im Spiel war?\n\nDilemma 2: Datenschutz in der Beratung &gt; Ein:e Berater:in möchte ChatGPT nutzen, um Gesprächsnotizen zu strukturieren. Dafür würden (anonymisierte) Gesprächsinhalte in den Chatbot eingegeben.\nFragen zur Diskussion:\n\nIst Anonymisierung ausreichend?\nWas sind die Risiken? (Kontext kann Personen identifizierbar machen)\nWelche Alternativen gibt es?\n\nDilemma 3: Automatisiertes Feedback &gt; Eine Lehrperson lässt Chatbots automatisch Feedback auf studentische Arbeiten geben, ohne es selbst zu prüfen.\nFragen zur Diskussion:\n\nWas sind die Probleme?\nWo ist die Grenze zwischen Unterstützung und Delegation von Verantwortung?",
+    "text": "Teil 2: Ethische Fragen und Dilemmata (12 Min)\n\n\n\n\n\n\nGroupDiskussion konkreter Szenarien\n\n\n\nDilemma 1: Transparenz bei KI-generierten Materialien &gt; Eine Lehrperson nutzt ChatGPT, um Arbeitsblätter zu erstellen und gibt sie ohne Hinweis auf KI-Nutzung an Studierende weiter.\nFragen zur Diskussion:\n\nIst das ethisch vertretbar? Warum (nicht)?\nWann muss ich transparent machen, dass KI im Spiel war?\n\nDilemma 2: Datenschutz in der Beratung &gt; Ein:e Berater:in möchte ChatGPT nutzen, um Gesprächsnotizen zu strukturieren. Dafür würden (anonymisierte) Gesprächsinhalte in den Chatbot eingegeben.\nFragen zur Diskussion:\n\nIst Anonymisierung ausreichend?\nWas sind die Risiken? (Kontext kann Personen identifizierbar machen)\nWelche Alternativen gibt es?\n\nDilemma 3: Automatisiertes Feedback &gt; Eine Lehrperson lässt Chatbots automatisch Feedback auf studentische Arbeiten geben, ohne es selbst zu prüfen.\nFragen zur Diskussion:\n\nWas sind die Probleme?\nWo ist die Grenze zwischen Unterstützung und Delegation von Verantwortung?",
     "crumbs": [
       "Workshop",
       "Abschlussdiskussion & Transfer"
@@ -1730,7 +1730,7 @@
     "href": "workshop/diskussion/index.html#teil-3-orientierungspunkte-für-die-praxis-5-min",
     "title": "Abschlussdiskussion & Transfer",
     "section": "Teil 3: Orientierungspunkte für die Praxis (5 Min)",
-    "text": "Teil 3: Orientierungspunkte für die Praxis (5 Min)\nBasierend auf den Diskussionen können folgende Prinzipien als Orientierung dienen:\n\nVerantwortungs-Prinzip\n\nSprachmodelle sind Werkzeuge, nicht Entscheider\nProfessionelle Verantwortung bleibt immer bei der Person\nKI-Output nie ungeprüft übernehmen\n\n\n\nDatenschutz-Prinzip\n\nKEINE vertraulichen oder personenbezogenen Daten in öffentliche KI-Tools\nBei Beratung: Anonymisierung reicht oft nicht (Kontext kann identifizierbar sein)\nInstitutionelle Richtlinien beachten\n\n\n\nTransparenz-Prinzip\n\nOffenlegen, wenn KI eingesetzt wurde (gegenüber Lernenden, Klient:innen)\nBegründen, warum und wie KI genutzt wird\n\n\n\nLernförderung-Prinzip (Unterricht)\n\nKI sollte kognitive Anstrengung fördern, nicht ersetzen\nProduktivitätssteigerung ≠ Lernzuwachs\n\n\n\nAuthentizitäts-Prinzip (Beratung)\n\nMenschliche Beziehung bleibt zentral\nKI zur Vorbereitung und Reflexion, nicht als Ersatz für echtes Gespräch\nEmpathie und ethisches Urteil bleiben menschliche Aufgaben",
+    "text": "Teil 3: Orientierungspunkte für die Praxis (5 Min)\nFolgende Prinzipien können als Orientierung dienen:\n\nVerantwortung\n\nSprachmodelle sind Werkzeuge\nProfessionelle Verantwortung bleibt immer bei der Person\nKI-Output nie ungeprüft übernehmen\n\n\n\nDatenschutz\n\nKeine vertraulichen oder personenbezogenen Daten in öffentliche KI-Tools\nBei Beratung: Anonymisierung reicht oft nicht (Kontext kann identifizierbar sein)\nInstitutionelle Richtlinien beachten\n\n\n\nTransparenz\n\nOffenlegen, wenn KI eingesetzt wurde (gegenüber Lernenden, Klient:innen)\nBegründen, warum und wie KI genutzt wird\n\n\n\nLernförderung (Unterricht)\n\nKI sollte kognitive Anstrengung fördern, nicht ersetzen\nProduktivitätssteigerung ≠ Lernzuwachs\n\n\n\nAuthentizität (Beratung)\n\nMenschliche Beziehung bleibt zentral\nKI zur Vorbereitung und Reflexion, nicht als Ersatz für echtes Gespräch\nEmpathie und ethisches Urteil bleiben menschliche Aufgaben",
     "crumbs": [
       "Workshop",
       "Abschlussdiskussion & Transfer"
@@ -1741,7 +1741,7 @@
     "href": "workshop/diskussion/index.html#teil-4-transfer-und-nächste-schritte-3-min",
     "title": "Abschlussdiskussion & Transfer",
     "section": "Teil 4: Transfer und nächste Schritte (3 Min)",
-    "text": "Teil 4: Transfer und nächste Schritte (3 Min)\n\n\n\n\n\n\nIndividualPersönliche Reflexion\n\n\n\nÜberlege für dich:\nWas nehme ich mit?\n\nEine wichtige Erkenntnis aus dem Workshop\nEin konkreter Anwendungsfall für meinen Unterricht oder meine Beratung\nMein erster Schritt: Was probiere ich als nächstes aus?\n\nWo setze ich Grenzen?\n\nWo werde ich Sprachmodelle bewusst NICHT einsetzen?\nWelche Prinzipien sind mir besonders wichtig?\n\n\n\n\n\n\n\n\n\nTipTake-Away Message\n\n\n\nVerantwortungsvoller Einsatz von Sprachmodellen bedeutet:\n\nKI unterstützt pädagogische und beraterische Professionalität, ersetzt sie nicht\nKI fördert kognitive Anstrengung bei Lernenden, umgeht sie nicht\nKI respektiert Datenschutz und Vertraulichkeit\nWir bleiben reflektiert und kritisch im Umgang mit der Technologie",
+    "text": "Teil 4: Transfer und nächste Schritte (3 Min)\n\n\n\n\n\n\nIndividualPersönliche Reflexion\n\n\n\nÜberlege für dich:\nWas nehme ich mit?\n\nEine wichtige Erkenntnis aus dem Workshop\nEin konkreter Anwendungsfall für meinen Unterricht oder meine Beratung\nMein erster Schritt: Was probiere ich als nächstes aus?\n\nWo setze ich Grenzen?\n\nWo werde ich Sprachmodelle nicht einsetzen?\nWelche Prinzipien sind mir besonders wichtig?",
     "crumbs": [
       "Workshop",
       "Abschlussdiskussion & Transfer"
