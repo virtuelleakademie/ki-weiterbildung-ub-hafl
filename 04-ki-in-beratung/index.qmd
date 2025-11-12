@@ -4,7 +4,7 @@ title: "KI in der Beratung"
 
 ## Beratungsgespräche mit Chatbots unterstützen (30 Min)
 
-Wie können Sprachmodelle in Beratungskontexten sinnvoll eingesetzt werden, ohne die menschliche Beziehung und professionelle Verantwortung zu untergraben?
+Wie können Sprachmodelle in Beratungskontexten sinnvoll eingesetzt werden?
 
 
 ## Anwendungen von Chatbots in der Beratung (5 Min)
@@ -20,7 +20,7 @@ Sprachmodelle können Beratende in verschiedenen Phasen unterstützen:
 ### 2. Simulation und Rollenspiele
 
 - **Übungsgespräche**: Chatbots nehmen verschiedene Rollen ein (z.B. ratsuchende Person, kritischer Gesprächspartner)
-- **Gesprächstechniken**: Üben von aktiver Zuhören, Fragetechniken, lösungsorientiertem Vorgehen
+- **Gesprächstechniken**: Aktives Zuhören üben, Fragetechniken, lösungsorientiertem Vorgehen
 - **Sichere Umgebung**: Fehler machen und lernen ohne reale Konsequenzen
 
 ### 3. Reflexion und Nachbereitung
@@ -34,7 +34,6 @@ Sprachmodelle können Beratende in verschiedenen Phasen unterstützen:
 
 **Was Chatbots NICHT können und sollen:**
 
-- Echte menschliche Beziehung und Empathie ersetzen
 - Vertrauliche Informationen von Klient:innen verarbeiten (Datenschutz!)
 - Professionelle Beurteilung und Verantwortung übernehmen
 - Ethische Dilemmata auflösen
@@ -136,14 +135,10 @@ Austausch im Gruppe:
 
 ### Beispielszenarien
 
-- [Beratungsszenarien für die Simulation](szenario/) - Verschiedene Übungssituationen
-
-### Weiterführende Diskussion
-
-- [Ethik & Reflexion: Verantwortungsvoller KI-Einsatz](ethik/) - Vertiefung der ethischen Fragen
+- [Beratungsszenarien für die Simulation](szenario/): Verschiedene Übungssituationen
 
 ::: {.callout-tip}
 ## Praxis-Tipp
 
-Für den Einstieg: Beginnt mit fiktiven Szenarien, die KEINE echten Klient:innen-Daten enthalten. Nutzt Chatbots nur für Übung und Reflexion, nicht für die Verarbeitung vertraulicher Informationen.
+Für den Einstieg: Beginnt mit fiktiven Szenarien, die keine echten Daten enthalten. Nutzt Chatbots nur für Übung und Reflexion, nicht für die Verarbeitung vertraulicher Informationen.
 :::

@@ -19,7 +19,7 @@ project:
     - slides/**/*.qmd
 
 website:
-  title: "KI-Weiterbildung für UB"
+  title: "KI-Weiterbildung UB"
   site-url: https://virtuelleakademie.github.io/ki-weiterbildung-ub-hafl/
   # repo-url: https://github.com/virtuelleakademie/cas-hochschuldidaktik/
   # repo-actions: [edit, issue]

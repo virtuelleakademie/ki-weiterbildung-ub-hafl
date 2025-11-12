@@ -130,6 +130,6 @@ Für diejenigen, die tiefer einsteigen möchten:
 - [Agent-Beispiele für jede Strategie](./agent-beispiele/) - Konkrete Umsetzungen der 8 Strategien mit KI
 
 ::: {.callout-note}
-## Für fortgeschrittene Workshops
+## Weiterführende Workshops
 Diese Ressourcen sind besonders nützlich, wenn ihr nach diesem Workshop eigene Agents entwickeln möchtet. Der Workshop "KI in der Lehre: Intermediate" bietet eine 60-minütige hands-on Session zum Agent-Design.
 :::

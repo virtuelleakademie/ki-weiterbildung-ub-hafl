@@ -4,58 +4,6 @@ title: "Was ist Künstliche Intelligenz?"
 ---
 
 
-## Erster Schritt: Eigene KI-Kompetenz entwickeln
-
-:::: {.columns}
-::: {.column width="60%"}
-### Warum du beginnen solltest
-
-![](../../assets/images/funf-schritte-model.png)
-
-[Blog Post: KI integrieren](https://barbarageyer.substack.com/p/ki-integration)
-:::
-
-::: {.column width="40%"}
-
-:::
-::::
-
-::: {.attribution}
-Grafik von [Barbara Geyer](https://barbarageyer.substack.com/p/ki-integration)
-::: 
-
-## Erster Schritt: Eigene KI-Kompetenz entwickeln
-
-:::: {.columns}
-::: {.column width="60%"}
-### Warum du beginnen solltest
-
-![](../../assets/images/funf-schritte-model.png)
-
-[Blog Post: KI integrieren](https://barbarageyer.substack.com/p/ki-integration)
-:::
-
-::: {.column width="40%"}
-
-**Kommerzielle Tools**
-
-- [ChatGPT](https://chatgpt.com/)
-- [Claude](https://claude.ai/)
-- [Copilot](https://copilot.microsoft.com/)
-- [Gemini](https://gemini.google.com/)
-  
-**Lokale Sprachmodelle**
-
-- [LM Studio](https://lmstudio.ai/)
-- [Ollama](https://ollama.com/)
-:::
-::::
-
-::: {.attribution}
-Grafik von [Barbara Geyer](https://barbarageyer.substack.com/p/ki-integration)
-::: 
-
-
 ## Was is KI?
 
 
@@ -89,7 +37,7 @@ Grafik von [Barbara Geyer](https://barbarageyer.substack.com/p/ki-integration)
 **Machine Learning:**
 
 - Lernt automatisch statistische Muster und Beziehungen aus Daten
-- Funktioniert wie eine "Black Box" - Entscheidungen schwerer zu erklären
+- Funktioniert wie eine "Black Box"---Entscheidungen schwerer zu erklären
 - Kann sich durch Training an neue Situationen anpassen
 - Gut für komplexe Muster und unklare Regeln
 :::

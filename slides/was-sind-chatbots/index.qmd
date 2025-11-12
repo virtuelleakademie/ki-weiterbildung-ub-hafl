@@ -150,6 +150,42 @@ Ein LLM wird in drei Schritten aufgebaut:
 ![](../../assets/images/llm-training.png)
 
 
+## Extended Thinking: Wenn LLMs nachdenken {.smaller}
+
+**Von Textgenerierung zu Reasoning**
+Neuere Modelle (o0/o3, GPT-5,  Claude Opus/Sonnet/Haiku) können "nachdenken" bevor sie eine Antwort generieren:
+
+1. **Problem analysieren**: Aufgabe in Teilschritte zerlegen
+2. **Optionen durchdenken**:Verschiedene Ansätze prüfen
+3. **Reasoning-Kette aufbauen**: Schritte logisch verbinden
+4. **Antwort generieren**: Basierend auf Thinkink-Output
+
+**Vorteil:** Bessere Antworten bei komplexen Aufgaben (Planung, Problemlösung, Mathematik)
+
+**Nachteil:** Langsamer und teurer als Standard-Modus
+
+<br>
+
+::::{.columns}
+:::{.column width="50%"}
+
+### Standard-Modus
+**Frage** → **Antwort**
+
+*Schnell, direkt*
+:::
+
+:::{.column width="50%"}
+
+### Thinking-Modus
+**Frage** → **<denkt nach...>** → **Antwort**
+
+*Langsam, gründlich*
+:::
+::::
+
+
+
 ## Gefahren und Herausforderungen
 
 :::: {.columns}
@@ -226,4 +262,104 @@ Die verschiedenen Stufen des Trainings sind mit verschiedenen Arten von Bedenken
 
 ![](../../assets/images/gpts.png)
 
+
+## Der Paradigmenwechsel {.smaller}
+
+
+::::{.columns}
+:::{.column width="50%"}
+### Traditional Chatbot
+**Benutzer**: "Plane eine Reise nach Paris"
+
+**Chatbot**:
+
+- "Hier sind 5 Hotels in Paris..."
+- "Diese Flüge sind verfügbar..."
+- "Sehenswürdigkeiten: Eiffelturm..."
+- **Du musst alles selbst buchen**
+:::
+
+:::{.column width="50%"}
+### AI Agent
+**Benutzer**: "Plane eine Reise nach Paris"
+
+**Agent**:
+
+- Checkt deinen Kalender
+- Bucht Flug und Hotel
+- Erstellt Reiseroute
+- Sendet Bestätigungen
+- **Erledigt die komplette Aufgabe**
+:::
+::::
+
+::: {.callout-important}
+**Der Unterschied**: Ein Chatbot kann eine Frage beantworten. Ein Agent bearbeitet das Problem, bis der Job erledigt ist.
+:::
+
+
+## Was sind AI Agents? {.smaller}
+
+**LLM + Gedächtnis + Werkzeuge + Entscheidungsschleife**
+
+::::{.columns}
+:::{.column width="50%"}
+
+**LLM-basierte Agenten** =
+
+- **LLM** (GPT-5, Claude, ...) für Reasoning
+- **+ Gedächtnis**
+- **+ Werkzeuge (Tools)** (APIs, Datenbanken, Code)
+- **+ Entscheidungsschleife** (kontinuierlich)
+
+:::
+
+::: {.column width="50%"}
+### Der Agent-Zyklus
+
+1. **Wahrnehmung**: Input/Umgebung
+2. **Planung**: LLM überlegt Schritte
+3. **Handlung**: Tools/APIs verwenden
+4. **Feedback**: Ergebnisse bewerten
+
+:::
+::::
+
+
+
+## Von Chatbot zu Agent: Unterschiedie {.smaller}
+
+**Zwei verschiedene Paradigmen**
+
+| Dimension | **Chatbot** | **AI Agent** |
+|-----------|-------------|--------------|
+| **Verhalten** | • Reaktiv: Antwortet nur auf Anfragen | • Proaktiv: Arbeitet kontinuierlich zum Ziel |
+| **Aufgaben** | • Einzelne Antworten<br>• Session-basiert | • Komplette Workflows<br>• End-to-End Execution |
+| **Gedächtnis** | • Nur während Konversation (im Kontext)<br>• Kein Lernen | • Persistent über Zeit<br>• Lernt aus Interaktionen (speichert "Memories") |
+| **Tools** | • Keine externen Integrationen | • APIs, Datenbanken, Apps<br>• Real-time Integration |
+| **Planung** | • Keine Strategieentwicklung | • Multi-step Planning<br>• Selbstkorrektur |
+
+
+
+## ChatGPT: GPTs
+
+:::: {.columns}
+::: {.column width="50%"}
+![](../../assets/images/gpts-1.png)
+:::
+::: {.column width="50%"}
+![](../../assets/images/gpts-2.png)
+:::
+::::
+
+## Copilot Agents
+
+:::: {.columns}
+::: {.column width="50%"}
+![](../../assets/images/copilot-1.png)
+:::
+::: {.column width="50%"}
+![](../../assets/images/copilot-2.png)
+:::
+::::
 

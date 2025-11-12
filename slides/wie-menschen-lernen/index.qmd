@@ -145,14 +145,13 @@ Experten haben eine neuronale Architektur, die Anfänger erst entwickeln müssen
 |---------|--------------|----------------------|-------------|
 | **Worked Examples** | ✅ Reduziert kognitive Last durch Beispiele | ❌ Langweilt und hemmt | Scaffolding anpassen |
 | **Problem Solving** | ❌ Überfordert das Arbeitsgedächtnis | ✅ Fördert Schemabildung | Timing ist kritisch |
-| **Split-Attention** | Text + Bild integriert präsentieren | Weniger relevant | Klare Darstellung wählen  |
 
 <br>
 
 ::: {.callout-important}
 ### Der Expertise Reversal Effect
 
-Was Experten hilft, kann Anfängern schaden – und umgekehrt. Lernumgebungen müssen sich an das Niveau anpassen.
+Was Experten hilft, kann Anfängern schaden---und umgekehrt. Lernumgebungen müssen sich an das Niveau anpassen.
 :::
 
 **Praktische Regel**: Beginne mit hoher Unterstützung (Scaffolding) und reduziere sie graduell mit wachsender Expertise.
@@ -179,18 +178,18 @@ Was Experten hilft, kann Anfängern schaden – und umgekehrt. Lernumgebungen m�
 | **Prozedurale Entwicklung** | Tausende Wiederholungen → Automatismen | Überspringen → keine Expertise |
 
 ::: {.callout-warning}
-**Die CLT-Perspektive**: Schwierigkeit ist kein Bug – sie ist das zentrale Feature für Expertise-Entwicklung
+**Die CLT-Perspektive**: Schwierigkeit ist kein Bug---sie ist das zentrale Feature für Expertise-Entwicklung
 :::
 
 
 ## Wie Expertise entwickelt wird {.smaller}
 
-**Von Fakten zu automatisierten Prozeduren**
+Von Fakten zu automatisierten Prozeduren
 
 | Gedächtnissystem                | Beschreibung        | Eigenschaften                                                       | Beispiel                                                |
 | -------------------------- | ------------------ | --------------------------------------------------------------------- | ------------------------------------------------------ |
-| **Deklaratives Gedächtnis** | **"Wissen dass"** | • Fakten, Regeln<br> • Bewusst, langsamer Abruf | "Um $3x + 5 = 20$ zu lösen, $5$ von beiden Seiten subtrahieren." |
-| **Prozedurales Gedächtnis**   | **"Wissen wie"**  | • Automatisierte Prozesse<br>• Schnelle, mühelose Ausführung  | $3x + 5 = 20$ sehen → direkt wissen: $x = 5$               |
+| Deklaratives Gedächtnis | "Wissen dass" | • Fakten, Regeln<br> • Bewusst, langsamer Abruf | "Um $3x + 5 = 20$ zu lösen, $5$ von beiden Seiten subtrahieren." |
+| Prozedurales Gedächtnis   | "Wissen wie"  | • Automatisierte Prozesse<br>• Schnelle, mühelose Ausführung  | $3x + 5 = 20$ sehen → direkt wissen: $x = 5$               |
 
 <br>
 
@@ -228,7 +227,7 @@ Abbildung von [Scott H Young](https://www.scotthyoung.com/blog/2022/02/15/act-r/
 
 . . .
 
-**Merksatz:** "Cognitive effort isn't a bug---it’s the feature."
+**"Cognitive effort isn't a bug---it’s the feature."**
 
 
 ## Bibliographie
