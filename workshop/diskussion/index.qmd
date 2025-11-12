@@ -1,39 +1,136 @@
 ---
-title: Transfer & Abschluss
+title: Abschlussdiskussion & Transfer
 ---
 
-## Von der Idee zur Umsetzung (15 Min)
+## KI in der Praxis: Chancen, Grenzen & Ethik (30 Min)
 
-### Schritt 1: Persönliche Reflexion (8 Min)
+In dieser Abschlussdiskussion reflektieren wir gemeinsam die Erfahrungen aus den praktischen Übungen und entwickeln Orientierungspunkte für den verantwortungsvollen Einsatz von Sprachmodellen in Unterricht und Beratung.
 
-Überlege für dich (oder in Partnerarbeit):
+## Teil 1: Erfahrungsaustausch aus den Übungen (10 Min)
 
-#### Was nehme ich mit?
+::: {.group}
+## Plenum-Diskussion
+
+### Rückblick auf die Praxis
+
+**Aus der Lehrplanung (Teil 3A):**
+
+- Was hat gut funktioniert beim Einsatz von Chatbots für die Unterrichtsplanung?
+- Wo waren die Grenzen spürbar?
+- Welche Überraschungen gab es?
+
+**Aus der Beratungssimulation (Teil 3B):**
+
+- Wie realistisch war die Simulation mit dem Chatbot?
+- Was kann ein Chatbot in der Beratung – und was nicht?
+- Wo würdet ihr Chatbots zur Vorbereitung nutzen, wo nicht?
+
+:::
+
+## Teil 2: Ethische Fragen und Dilemmata (12 Min)
+
+::: {.group}
+## Diskussion konkreter Szenarien
+
+Der/die Workshop-Leiter:in stellt 2-3 konkrete Dilemmata zur Diskussion:
+
+**Dilemma 1: Transparenz bei KI-generierten Materialien**
+> Eine Lehrperson nutzt ChatGPT, um Arbeitsblätter zu erstellen und gibt sie ohne Hinweis auf KI-Nutzung an Studierende weiter.
+
+**Fragen zur Diskussion:**
+
+- Ist das ethisch vertretbar? Warum (nicht)?
+- Wann muss ich transparent machen, dass KI im Spiel war?
+
+**Dilemma 2: Datenschutz in der Beratung**
+> Ein:e Berater:in möchte ChatGPT nutzen, um Gesprächsnotizen zu strukturieren. Dafür würden (anonymisierte) Gesprächsinhalte in den Chatbot eingegeben.
+
+**Fragen zur Diskussion:**
+
+- Ist Anonymisierung ausreichend?
+- Was sind die Risiken? (Kontext kann Personen identifizierbar machen)
+- Welche Alternativen gibt es?
+
+**Dilemma 3: Automatisiertes Feedback**
+> Eine Lehrperson lässt Chatbots automatisch Feedback auf studentische Arbeiten geben, ohne es selbst zu prüfen.
+
+**Fragen zur Diskussion:**
+
+- Was sind die Probleme?
+- Wo ist die Grenze zwischen Unterstützung und Delegation von Verantwortung?
+
+:::
+
+## Teil 3: Orientierungspunkte für die Praxis (5 Min)
+
+Basierend auf den Diskussionen können folgende Prinzipien als Orientierung dienen:
+
+### Verantwortungs-Prinzip
+
+- Sprachmodelle sind **Werkzeuge**, nicht Entscheider
+- **Professionelle Verantwortung** bleibt immer bei der Person
+- KI-Output **nie ungeprüft** übernehmen
+
+### Datenschutz-Prinzip
+
+- **KEINE** vertraulichen oder personenbezogenen Daten in öffentliche KI-Tools
+- Bei Beratung: **Anonymisierung reicht oft nicht** (Kontext kann identifizierbar sein)
+- **Institutionelle Richtlinien** beachten
+
+### Transparenz-Prinzip
+
+- **Offenlegen**, wenn KI eingesetzt wurde (gegenüber Lernenden, Klient:innen)
+- **Begründen**, warum und wie KI genutzt wird
+
+### Lernförderung-Prinzip (Unterricht)
+
+- KI sollte **kognitive Anstrengung fördern**, nicht ersetzen
+- Produktivitätssteigerung ≠ Lernzuwachs
+
+### Authentizitäts-Prinzip (Beratung)
+
+- **Menschliche Beziehung** bleibt zentral
+- KI zur **Vorbereitung und Reflexion**, nicht als Ersatz für echtes Gespräch
+- **Empathie und ethisches Urteil** bleiben menschliche Aufgaben
+
+## Teil 4: Transfer und nächste Schritte (3 Min)
+
+::: {.individual}
+## Persönliche Reflexion
+
+Überlege für dich:
+
+**Was nehme ich mit?**
 
 - Eine wichtige Erkenntnis aus dem Workshop
 - Ein konkreter Anwendungsfall für meinen Unterricht oder meine Beratung
 - Mein erster Schritt: Was probiere ich als nächstes aus?
 
-#### Wie setze ich das um?
+**Wo setze ich Grenzen?**
 
-- Tool-Wahl: Welche KI-Tools werde ich nutzen? (ChatGPT, Claude, Copilot, etc.)
-- Kontext: In welcher konkreten Situation setze ich KI ein?
-- Grenzen beachten: Wo ziehe ich bewusst eine Grenze? Wo werde ich KI nicht einsetzen?
+- Wo werde ich Sprachmodelle bewusst NICHT einsetzen?
+- Welche Prinzipien sind mir besonders wichtig?
+:::
 
-### Schritt 2: Blitzlicht-Runde (7 Min)
-
-**Jede/r teilt in 30 Sekunden:**
-
-- Eine Erkenntnis aus dem heutigen Workshop, oder
-- Einen konkreten nächsten Schritt, den ihr umsetzen wollt
-
-<!-- ::: {.callout-tip}
+::: {.callout-tip}
 ## Take-Away Message
 
-**Verantwortungsvoller KI-Einsatz** bedeutet:
+**Verantwortungsvoller Einsatz von Sprachmodellen** bedeutet:
 
 - KI unterstützt **pädagogische und beraterische Professionalität**, ersetzt sie nicht
 - KI fördert **kognitive Anstrengung** bei Lernenden, umgeht sie nicht
 - KI respektiert **Datenschutz und Vertraulichkeit**
 - Wir bleiben **reflektiert und kritisch** im Umgang mit der Technologie
-::: -->
+:::
+
+## Ressourcen
+
+### Institutionelle Richtlinien
+
+- Prüft die **KI-Richtlinien eurer Institution** (E-Learning-Zentrum, Datenschutzbeauftragte)
+- Informiert euch über **datenschutzkonforme KI-Tools** an eurer Hochschule
+
+### Weiterführende Links
+
+- [UNESCO Guidance for Generative AI in Education](https://www.unesco.org/en/digital-education/ai-future-learning)
+- Hochschul-spezifische Guidelines (je nach Institution)

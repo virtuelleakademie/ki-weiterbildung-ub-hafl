@@ -144,12 +144,14 @@ Antworte authentisch auf die Fragen der beratenden Person.
 ## Tipps für Beratende (Person A)
 
 **Gesprächsführung:**
+
 - Beginnt mit offenen Fragen ("Erzähl mir von deiner Situation...")
 - Nutzt aktives Zuhören (Paraphrasieren, Spiegeln)
 - Vermeidet vorschnelle Ratschläge
 - Arbeitet mit der Person gemeinsam an Lösungen
 
 **KI-Prompt geben:**
+
 Kopiert die Rollenbeschreibung in ChatGPT/Claude und beginnt dann das Gespräch natürlich, als wäre die Person real.
 :::
 
@@ -157,6 +159,7 @@ Kopiert die Rollenbeschreibung in ChatGPT/Claude und beginnt dann das Gespräch 
 ## Tipps für Beobachter:innen (Person B)
 
 **Worauf achten:**
+
 - Welche Fragen führen zu tieferen Einsichten?
 - Wann wirkt das Gespräch natürlich, wann künstlich?
 - Wo zeigt die KI ihre Grenzen (Empathie, Kontextverständnis)?
@@ -175,6 +178,7 @@ Gebt konstruktives Feedback zu Gesprächsführung und beobachtet, wo KI als Übu
 Falls ihr ein spezifisches Szenario aus eurem Kontext üben möchtet:
 
 **Ausgangssituation:**
+
 - [Beschreibt die Situation in 2-3 Sätzen]
 
 **Rolle für die KI:**
@@ -186,5 +190,5 @@ Du bist eine Person, die...
 **Ziel der Beratung:**
 - [Was soll am Ende des Gesprächs erreicht sein?]
 
-**Wichtig:** Nutzt KEINE echten Klient:innen-Daten. Erstellt fiktive, aber realistische Szenarien.
+**Wichtig:** Nutze keine echten Daten. Erstellt fiktive, aber realistische Szenarien.
 :::

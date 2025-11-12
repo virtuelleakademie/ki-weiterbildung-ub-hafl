@@ -18,18 +18,16 @@ title: "Ablauf"
 |                            | [KI-gestützte Lehrplanung](../03-lernumgebungen/index.qmd)             | 50 min                           |
 | **11:00 - 11:30**          | {{< bi collection-play >}} **Teil 3B: KI in der Beratung**             |                                  |
 |                            | [Beratungsgespräche simulieren](../04-ki-in-beratung/index.qmd)        | 30 min                           |
-| **11:30 - 11:45**          | {{< bi collection-play >}} **Teil 4: Ethik & Reflexion**               |                                  |
-|                            | [Verantwortungsvoller KI-Einsatz](../04-ki-in-beratung/ethik/)         | 15 min                           |
-| **11:45 - 12:00**          | {{< bi collection-play >}} **Transfer & Abschluss**                    |                                  |
-|                            | [Umsetzung & nächste Schritte](diskussion/index.qmd)                   | 15 min                           |
+| **11:30 - 12:00**          | {{< bi collection-play >}} **Abschlussdiskussion & Transfer**          |                                  |
+|                            | [KI in der Praxis: Chancen, Grenzen & Ethik](diskussion/index.qmd)     | 30 min                           |
 
 
 ## Lernziele
 
 Am Ende des Workshops können die Teilnehmer:
 
-1. **KI verstehen**: Grundlegende Funktionsweise und Grenzen von LLMs und Chatbots erklären
+1. **Sprachmodelle verstehen**: Grundlegende Funktionsweise und Grenzen von LLMs und Chatbots erklären
 2. **KI im Unterricht einsetzen**: Sprachmodelle gezielt zur Planung, Gestaltung und Reflexion von Lehrsituationen nutzen
 3. **KI in der Beratung einsetzen**: Beratungsgespräche mit Chatbot-Unterstützung vorbereiten und reflektieren
-4. **Ethisch reflektieren**: Ethische, didaktische und psychologische Implikationen des Sprachmodell-Einsatzes kritisch diskutieren
+4. **Verantwortungsvoll handeln**: Chancen, Grenzen und ethische Implikationen des Sprachmodell-Einsatzes reflektieren und in der Praxis berücksichtigen
 5. **Transfer leisten**: Konkrete Anwendungsideen für den eigenen Unterrichts- oder Beratungskontext entwickeln
